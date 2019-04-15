@@ -1,0 +1,366 @@
+[
+  {
+    "type": "buy",
+    "ticker": "RAS",
+    "bid_price": 0.2251699999999999,
+    "quantity": 15,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "YTEN",
+    "bid_price": 1.8252594,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "SCYX",
+    "bid_price": 1.445,
+    "quantity": 2,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "GENE",
+    "bid_price": 1.34,
+    "quantity": 4,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.1995,
+    "quantity": 18,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "CTRV",
+    "bid_price": 0.23,
+    "quantity": 15,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "SCYX",
+    "bid_price": 1.45,
+    "quantity": 9,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "CRMD",
+    "bid_price": 0.30532099999999995,
+    "quantity": 11,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "RAS",
+    "bid_price": 0.23500159999999995,
+    "quantity": 61,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "CTRV",
+    "bid_price": 0.23660559999999992,
+    "quantity": 60,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "CRMD",
+    "bid_price": 0.30551379999999995,
+    "quantity": 47,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.19558499999999998,
+    "quantity": 73,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "NETE",
+    "bid_price": 10.5013097,
+    "quantity": 3,
+    "strategy": "based-on-jump-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "BIOS",
+    "bid_price": 2.63,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "SID",
+    "bid_price": 2.7432049999999997,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "ANTH",
+    "bid_price": 0.5184,
+    "quantity": 6,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "OREX",
+    "bid_price": 0.36097969999999996,
+    "quantity": 9,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SSKN",
+    "bid_price": 1.1895329999999993,
+    "quantity": 3,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SINO",
+    "bid_price": 1.15,
+    "quantity": 3,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "sell",
+    "ticker": "SNMX",
+    "bid_price": 1.02,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "APHB",
+    "bid_price": 1.544,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "EKSO",
+    "bid_price": 1.8207505000000002,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "MTBC",
+    "bid_price": 3.47,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "BLDP",
+    "bid_price": 3.315,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "GALT",
+    "bid_price": 4.815799999999999,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SKYS",
+    "bid_price": 1.26,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "VNRX",
+    "bid_price": 2.28,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "CYH",
+    "bid_price": 4.905,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "LYG",
+    "bid_price": 3.8207999999999998,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ARGS",
+    "bid_price": 1.2696,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SHIP",
+    "bid_price": 0.9925125,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "SEED",
+    "bid_price": 0.8702,
+    "quantity": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "SNSS",
+    "bid_price": 3.9444,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "EGLT",
+    "bid_price": 0.875003,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CIO",
+    "bid_price": 11.303199999999999,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "AUTO",
+    "bid_price": 3.81,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "OTIC",
+    "bid_price": 5.225,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "BBG",
+    "bid_price": 4.681475,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "NEPT",
+    "bid_price": 2.81585,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "ARQL",
+    "bid_price": 1.8500035,
+    "quantity": 3
+  },
+  {
+    "type": "buy",
+    "ticker": "SINO",
+    "bid_price": 1.155,
+    "quantity": 6,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "OREX",
+    "bid_price": 0.3760591999999998,
+    "quantity": 19,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "MYO",
+    "bid_price": 4.235259999999999,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "ANTH",
+    "bid_price": 0.5012,
+    "quantity": 14,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "MBII",
+    "bid_price": 1.5803,
+    "quantity": 4,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SID",
+    "bid_price": 2.7231449999999997,
+    "quantity": 2,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "SSKN",
+    "bid_price": 1.18,
+    "quantity": 6,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SFUN",
+    "bid_price": 4.66,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "BIOS",
+    "bid_price": 2.73,
+    "quantity": 2,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "QUMU",
+    "bid_price": 1.6143999999999996,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "YTEN",
+    "bid_price": 1.7251599999999998,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "GENE",
+    "bid_price": 1.3217,
+    "quantity": 4,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "QUMU",
+    "bid_price": 1.6,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "YTEN",
+    "bid_price": 1.7099,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "GENE",
+    "bid_price": 1.3070092999999998,
+    "quantity": 4,
+    "strategy": "week-swings"
+  }
+]

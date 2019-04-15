@@ -1,0 +1,60 @@
+[
+  {
+    "type": "sell",
+    "ticker": "LGCY",
+    "bid_price": 8.34,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DNR",
+    "bid_price": 4.23,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DDE",
+    "bid_price": 2.18,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RIOT",
+    "bid_price": 8.85,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ESND",
+    "bid_price": 13.493250000000002,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AGRX",
+    "bid_price": 0.7615,
+    "quantity": "59.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TCS",
+    "bid_price": 8.245,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FUV",
+    "bid_price": 3.18,
+    "quantity": 86,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "ARTW",
+    "bid_price": 3.235,
+    "quantity": 85,
+    "strategy": "sudden-drops-last18trend-filter10",
+    "min": 280
+  }
+]

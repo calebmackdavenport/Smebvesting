@@ -1,0 +1,200 @@
+[
+  {
+    "type": "sell",
+    "ticker": "PTIE",
+    "bid_price": 1.15,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ANY",
+    "bid_price": 0.3226386,
+    "quantity": 61
+  },
+  {
+    "type": "sell",
+    "ticker": "PLAG",
+    "bid_price": 5.4552,
+    "quantity": 23
+  },
+  {
+    "type": "sell",
+    "ticker": "BSTI",
+    "bid_price": 5.35,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "TGA",
+    "bid_price": 2.31,
+    "quantity": 15
+  },
+  {
+    "type": "buy",
+    "ticker": "MLSS",
+    "bid_price": 0.7345729999999999,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "XONE",
+    "bid_price": 7.005,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "IMGN",
+    "bid_price": 6.05,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "OHGI",
+    "bid_price": 0.2549,
+    "quantity": 148
+  },
+  {
+    "type": "sell",
+    "ticker": "SELB",
+    "bid_price": 7.45,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "INPX",
+    "bid_price": 0.22208890000000003,
+    "quantity": 84
+  },
+  {
+    "type": "sell",
+    "ticker": "CIDM",
+    "bid_price": 0.9890100000000001,
+    "quantity": 27
+  },
+  {
+    "type": "sell",
+    "ticker": "IFMK",
+    "bid_price": 1.65,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "DXYN",
+    "bid_price": 1.6291849999999999,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "PRSS",
+    "bid_price": 1.47,
+    "quantity": 27
+  },
+  {
+    "type": "sell",
+    "ticker": "LWAY",
+    "bid_price": 2.6738600000000017,
+    "quantity": 29
+  },
+  {
+    "type": "sell",
+    "ticker": "YGYI",
+    "bid_price": 7.961047500000002,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "EVOL",
+    "bid_price": 1.7547200000000005,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "NVCN",
+    "bid_price": 1.9470750000000003,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "IGLD",
+    "bid_price": 2.129575000000002,
+    "quantity": 27
+  },
+  {
+    "type": "buy",
+    "ticker": "QRHC",
+    "bid_price": 2.164,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 3.358,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "RTTR",
+    "bid_price": 1.528,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "CAPR",
+    "bid_price": 0.74512,
+    "strategy": "sudden-drops-notWatchout-prevCloseTrendAbsLT30-last3trend-filter5",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "LJPC",
+    "bid_price": 17.97,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trend10to15-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "UAVS",
+    "bid_price": 1.06088,
+    "strategy": "sudden-drops-bothtrendsAbsLT20-last30trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "PRTO",
+    "bid_price": 1.8599999999999999,
+    "strategy": "sudden-drops-bothtrendsAbsLT20-last30trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "ZKIN",
+    "bid_price": 2.59,
+    "strategy": "sudden-drops-bothtrendsAbsLT20-last30trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "AHPI",
+    "bid_price": 1.9409,
+    "strategy": "sudden-drops-shouldWatchout-bothtrendsAbsLT30-last18trend-first2",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "ZKIN",
+    "bid_price": 2.556,
+    "strategy": "sudden-drops-shouldWatchout-bothtrendsAbsLT30-last18trend-first2",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "CLGN",
+    "bid_price": 6,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-shouldWatchout-fiveTo10",
+    "min": 276
+  }
+]

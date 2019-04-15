@@ -1,0 +1,203 @@
+[
+  {
+    "type": "sell",
+    "ticker": "CBL",
+    "bid_price": 2.14785,
+    "quantity": 27
+  },
+  {
+    "type": "buy",
+    "ticker": "ASNS",
+    "bid_price": 3.11,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "CHK",
+    "bid_price": 2.2666,
+    "strategy": "based-on-jump-oneToFourOvernight-gt500kvolume-first2",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "WFT",
+    "bid_price": 0.497,
+    "strategy": "based-on-jump-oneToFourOvernight-gt500kvolume-first2",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "NHTC",
+    "bid_price": 14.424444444444443,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "OZM",
+    "bid_price": 10.464444444444444,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "MAXR",
+    "bid_price": 10.457777777777778,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "HCLP",
+    "bid_price": 3.4628444444444444,
+    "strategy": "low-float-high-volume-absVolPoints-trenddown3to10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "FLXN",
+    "bid_price": 13.155,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "OILU",
+    "bid_price": 16.4601,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "DFFN",
+    "bid_price": 2.154,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "NAUH",
+    "bid_price": 0.2827,
+    "quantity": 401
+  },
+  {
+    "type": "sell",
+    "ticker": "DRIP",
+    "bid_price": 12.8799,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "MRNA",
+    "bid_price": 17.685,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CBLI",
+    "bid_price": 1.32843545,
+    "quantity": 70
+  },
+  {
+    "type": "sell",
+    "ticker": "GPL",
+    "bid_price": 0.7147894500000003,
+    "quantity": 37
+  },
+  {
+    "type": "sell",
+    "ticker": "FUV",
+    "bid_price": 3.0001,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "RDC",
+    "bid_price": 10.05,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "UWT",
+    "bid_price": 11.24,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "RCUS",
+    "bid_price": 9.395,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "DWT",
+    "bid_price": 12.3484227,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "TYHT",
+    "bid_price": 0.5849850000000005,
+    "quantity": 51
+  },
+  {
+    "type": "buy",
+    "ticker": "MAXR",
+    "bid_price": 10.062222222222221,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "MYND",
+    "bid_price": 1.0848,
+    "strategy": "best-st-sentiment-under5-withSentAndVol",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "COLL",
+    "bid_price": 15.67,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "CLRB",
+    "bid_price": 1.88,
+    "strategy": "up-streak-7days-ltneg3overnight",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "ADXS",
+    "bid_price": 0.42548888888888886,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trendgt40-shouldWatchout",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "RVLT",
+    "bid_price": 0.48666666666666664,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "RVLT",
+    "bid_price": 0.48666666666666664,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "sell",
+    "ticker": "HAIR",
+    "bid_price": 0.7050784000000003,
+    "quantity": 187
+  },
+  {
+    "type": "buy",
+    "ticker": "YRIV",
+    "bid_price": 3.27,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 290
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "type": "buy",
+    "ticker": "ASNA",
+    "bid_price": 2.8075,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "WISA",
+    "bid_price": 3.6069,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "MTLS",
+    "bid_price": 18.53,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "PCG",
+    "bid_price": 9.3,
+    "strategy": "based-on-jump-down5overnight-gt1milvolume-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "SAEX",
+    "bid_price": 5.395911666666667,
+    "strategy": "based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "LEDS",
+    "bid_price": 2.76,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "AAME",
+    "bid_price": 2.43,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "BRFS",
+    "bid_price": 6.16,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "CLLDY",
+    "bid_price": 4.9,
+    "quantity": 12
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 0.1861,
+    "strategy": "based-on-jump-oneToFourOvernight-gt500kvolume-first1",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "AMRH",
+    "bid_price": 0.233,
+    "quantity": 680
+  },
+  {
+    "type": "sell",
+    "ticker": "AEHR",
+    "bid_price": 1.33,
+    "quantity": 27
+  },
+  {
+    "type": "sell",
+    "ticker": "RVEN",
+    "bid_price": 3.4,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "BLRX",
+    "bid_price": 0.6005,
+    "quantity": 76
+  },
+  {
+    "type": "sell",
+    "ticker": "HPR",
+    "bid_price": 2.98,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "ZDGE",
+    "bid_price": 2.35,
+    "quantity": 24
+  },
+  {
+    "type": "sell",
+    "ticker": "SNSS",
+    "bid_price": 0.7156800000000004,
+    "quantity": 57
+  },
+  {
+    "type": "sell",
+    "ticker": "ARTW",
+    "bid_price": 1.9974,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "PETX",
+    "bid_price": 4.12,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "PLX",
+    "bid_price": 0.388,
+    "quantity": 37
+  },
+  {
+    "type": "sell",
+    "ticker": "AVCO",
+    "bid_price": 3.351270000000003,
+    "quantity": 57
+  },
+  {
+    "type": "buy",
+    "ticker": "ATEC",
+    "bid_price": 1.8133333333333335,
+    "strategy": "low-float-high-volume-floatPoints-trenddown7to10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 0.18,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "IFMK",
+    "bid_price": 1.1330000000000002,
+    "strategy": "sudden-drops-last1trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "NL",
+    "bid_price": 4.11,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "IFMK",
+    "bid_price": 1.1244444444444446,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "WWR",
+    "bid_price": 0.1650888888888889,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CNFR",
+    "bid_price": 4.604444444444444,
+    "strategy": "up-streak-gt8days-gt1overnight",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "AZRX",
+    "bid_price": 2.3555555555555556,
+    "strategy": "up-streak-gt8days-gt1overnight",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "VISI",
+    "bid_price": 3.38,
+    "strategy": "up-streak-gt8days-gt1overnight",
+    "min": 189
+  },
+  {
+    "type": "sell",
+    "ticker": "MLSS",
+    "bid_price": 0.384,
+    "quantity": 37
+  },
+  {
+    "type": "sell",
+    "ticker": "WINR",
+    "bid_price": 3.1241068000000007,
+    "quantity": 22
+  },
+  {
+    "type": "buy",
+    "ticker": "LJPC",
+    "bid_price": 6.386666666666667,
+    "strategy": "sudden-drops-last30trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "XGTI",
+    "bid_price": 0.38855555555555554,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "LPTX",
+    "bid_price": 2.62,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "IGLD",
+    "bid_price": 1.3655555555555556,
+    "strategy": "constant-downers-5minute-percDownCloseOnly-lowovernightjumps",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "CODX",
+    "bid_price": 1.3081,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "PCG",
+    "bid_price": 8.11111111111111,
+    "strategy": "double-down",
+    "min": 378
+  }
+]

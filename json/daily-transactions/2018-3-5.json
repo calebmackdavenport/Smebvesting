@@ -1,0 +1,410 @@
+[
+  {
+    "type": "sell",
+    "ticker": "AKTX",
+    "bid_price": 1.98,
+    "quantity": "45.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TGB",
+    "bid_price": 1.28,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IDSA",
+    "bid_price": 2.1492,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OAKS",
+    "bid_price": 3.34,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IZEA",
+    "bid_price": 3.72,
+    "quantity": 21
+  },
+  {
+    "type": "sell",
+    "ticker": "INPX",
+    "bid_price": 1.26,
+    "quantity": 79
+  },
+  {
+    "type": "sell",
+    "ticker": "JCP",
+    "bid_price": 3.785,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GGB",
+    "bid_price": 5.11,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "ICAD",
+    "bid_price": 3.63,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "EARS",
+    "bid_price": 0.30845,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MNGA",
+    "bid_price": 1.13,
+    "quantity": "82.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MBVX",
+    "bid_price": 1.571,
+    "quantity": "37.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CCIH",
+    "bid_price": 1.3140269999999998,
+    "quantity": 22
+  },
+  {
+    "type": "sell",
+    "ticker": "SBGL",
+    "bid_price": 3.99,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "GERN",
+    "bid_price": 2.59,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GNMK",
+    "bid_price": 4.27,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OCN",
+    "bid_price": 3.72,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "DXYN",
+    "bid_price": 2.8,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "EPE",
+    "bid_price": 1.65,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SFUN",
+    "bid_price": 4.76,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LPCN",
+    "bid_price": 1.665,
+    "quantity": 53
+  },
+  {
+    "type": "sell",
+    "ticker": "ACHV",
+    "bid_price": 1.2617,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMMA",
+    "bid_price": 0.54725,
+    "quantity": 101
+  },
+  {
+    "type": "sell",
+    "ticker": "RTTR",
+    "bid_price": 0.2309395,
+    "quantity": 23
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 2.045,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 2.045,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NYRT",
+    "bid_price": 2.2275,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MFIN",
+    "bid_price": 4.28,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "CYH",
+    "bid_price": 4.7,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "MLP",
+    "bid_price": 11.69125,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ALIM",
+    "bid_price": 1.21,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SACH",
+    "bid_price": 3.37855,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHKE",
+    "bid_price": 1.5422500000000001,
+    "quantity": "19.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DVD",
+    "bid_price": 2.0895,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SRRA",
+    "bid_price": 2.4,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "LBIX",
+    "bid_price": 1.28,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "WIN",
+    "bid_price": 1.5,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "SMED",
+    "bid_price": 4.55,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "EGLE",
+    "bid_price": 4.9849499999999995,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CLDC",
+    "bid_price": 1.72,
+    "quantity": 15
+  },
+  {
+    "type": "sell",
+    "ticker": "ASFI",
+    "bid_price": 4.4277500000000005,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "ASFI",
+    "bid_price": 4.4277500000000005,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "JT",
+    "bid_price": 6.955,
+    "quantity": 1,
+    "strategy": "big-day-trend-up-fiveTo10"
+  },
+  {
+    "type": "sell",
+    "ticker": "QTRH",
+    "bid_price": 1.51,
+    "quantity": "33.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 2.025,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ABIO",
+    "bid_price": 0.67461,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHKE",
+    "bid_price": 1.575,
+    "quantity": "19.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MLP",
+    "bid_price": 11.69125,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DVD",
+    "bid_price": 2.0895,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CDTI",
+    "bid_price": 1.1466,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASFI",
+    "bid_price": 4,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SYN",
+    "bid_price": 0.31441199999999997,
+    "quantity": "94.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AZRX",
+    "bid_price": 2.5671,
+    "quantity": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 2.0397499999999997,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "VNRX",
+    "bid_price": 3.1144495,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "MLP",
+    "bid_price": 11.4425,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "CHKE",
+    "bid_price": 1.592,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "DVD",
+    "bid_price": 2.13925,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "CEI",
+    "bid_price": 1.8602,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "ENT",
+    "bid_price": 1.2675599999999998,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SMSI",
+    "bid_price": 1.5873,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "LTBR",
+    "bid_price": 1.539,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "AEZS",
+    "bid_price": 1.625,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHKE",
+    "bid_price": 1.56,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 2,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "MLP",
+    "bid_price": 11.6,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "DVD",
+    "bid_price": 2.13925,
+    "quantity": 1
+  }
+]

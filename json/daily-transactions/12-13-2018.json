@@ -1,0 +1,95 @@
+[
+  {
+    "type": "buy",
+    "ticker": "TLRD",
+    "bid_price": 14.505,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "STKS",
+    "bid_price": 2.45,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "ZEAL",
+    "bid_price": 13.18,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "MGNX",
+    "bid_price": 14.63,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "AGE",
+    "bid_price": 3.1246,
+    "quantity": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "KOLD",
+    "bid_price": 12.5,
+    "strategy": "based-on-jump-down5overnight-trending53-shouldWatchout-first2-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "VNCE",
+    "bid_price": 11.5,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-tenTo15",
+    "min": 80
+  },
+  {
+    "type": "sell",
+    "ticker": "MGNX",
+    "bid_price": 14.745,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "ZEAL",
+    "bid_price": 12.85,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "STKS",
+    "bid_price": 2.42,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "AGE",
+    "bid_price": 3.24,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "MGNX",
+    "bid_price": 14.825,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "STKS",
+    "bid_price": 2.3901,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "AGE",
+    "bid_price": 3.45,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "ZEAL",
+    "bid_price": 13.079361450000004,
+    "quantity": 2
+  }
+]

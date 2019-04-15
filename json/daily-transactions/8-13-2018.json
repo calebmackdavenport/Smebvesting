@@ -1,0 +1,110 @@
+[
+  {
+    "type": "buy",
+    "ticker": "MTEX",
+    "bid_price": 20.2206,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "ABIL",
+    "bid_price": 6.59,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DXYN",
+    "bid_price": 1.9,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TLGT",
+    "bid_price": 4.13,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FBIO",
+    "bid_price": 2.08,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRHM",
+    "bid_price": 3.5,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MHLD",
+    "bid_price": 4.575,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RHE",
+    "bid_price": 0.17984100000000014,
+    "quantity": "65.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RSLS",
+    "bid_price": 0.1127,
+    "quantity": "1060.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARLZ",
+    "bid_price": 0.071,
+    "quantity": "2082.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UAMY",
+    "bid_price": 0.5848770000000004,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ATV",
+    "bid_price": 17.841311400000002,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatPoints-trenddown7to10-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "ATV",
+    "bid_price": 17.841311400000002,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "AWX",
+    "bid_price": 3.7094400000000003,
+    "quantity": 32,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddown1to3-shouldWatchout",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "XOMA",
+    "bid_price": 16.91,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "ANY",
+    "bid_price": 0.1964718,
+    "quantity": 152,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 221
+  }
+]

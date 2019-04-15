@@ -1,0 +1,330 @@
+[
+  {
+    "type": "buy",
+    "ticker": "DRIP",
+    "bid_price": 10.9586,
+    "quantity": 3,
+    "strategy": "week-swings-tenTo15",
+    "min": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SRNE",
+    "bid_price": 6.15,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CNET",
+    "bid_price": 2.6225,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CPHI",
+    "bid_price": 0.2849,
+    "quantity": "100.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AFMD",
+    "bid_price": 2.1,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AKER",
+    "bid_price": 0.5425,
+    "quantity": "600.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NVIV",
+    "bid_price": 0.38961,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LODE",
+    "bid_price": 0.33276690000000003,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TVIX",
+    "bid_price": 10.21,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INTT",
+    "bid_price": 6.17,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EVFM",
+    "bid_price": 6.3,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "MITL",
+    "bid_price": 9.3,
+    "quantity": 3,
+    "strategy": "based-on-jump-down3overnight-gtneg20percmax-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "SHNY",
+    "bid_price": 8.155,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VTNR",
+    "bid_price": 1.1342999999999999,
+    "quantity": "30.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WLB",
+    "bid_price": 0.3149175,
+    "quantity": "70.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HEAR",
+    "bid_price": 3.24,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASPU",
+    "bid_price": 6.461,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "JNUG",
+    "bid_price": 14.96,
+    "quantity": 1,
+    "strategy": "based-on-jump-up3overnight-ltneg50percmax-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "GEMP",
+    "bid_price": 6.38,
+    "quantity": 5,
+    "strategy": "based-on-jump-down3overnight-ltneg50percmax-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "sell",
+    "ticker": "GLMD",
+    "bid_price": 5.889,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ENT",
+    "bid_price": 1.155,
+    "quantity": 15,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "EGC",
+    "bid_price": 4.47,
+    "quantity": 4,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "RUBI",
+    "bid_price": 2.2544999999999993,
+    "quantity": 7,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "EGC",
+    "bid_price": 4.495,
+    "quantity": 4,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "LBCC",
+    "bid_price": 1.35,
+    "quantity": 13,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "SHLD",
+    "bid_price": 3.409,
+    "quantity": 5,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "LBCC",
+    "bid_price": 1.37,
+    "quantity": 13,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "GSAT",
+    "bid_price": 0.7966,
+    "quantity": 22,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "SHLD",
+    "bid_price": 3.3949,
+    "quantity": 5,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "EGLT",
+    "bid_price": 0.6253,
+    "quantity": 17,
+    "strategy": "dynamo-3000-middle50tso-overall-5lowestYP",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "IMUC",
+    "bid_price": 0.2396,
+    "quantity": 45,
+    "strategy": "dynamo-3000-middle50tso-overall-5lowestYP",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "RTTR",
+    "bid_price": 2.63263,
+    "quantity": 4,
+    "strategy": "dynamo-3000-middle50tso-overall-5lowestYP",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "DCAR",
+    "bid_price": 2.14,
+    "quantity": 5,
+    "strategy": "dynamo-3000-middle50tso-overall-5lowestYP",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "OMNT",
+    "bid_price": 3.1995699999999987,
+    "quantity": 3,
+    "strategy": "dynamo-3000-middle50tso-overall-5lowestYP",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "ARGS",
+    "bid_price": 0.9751,
+    "quantity": 18,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "LBCC",
+    "bid_price": 1.3,
+    "quantity": 13,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "EGC",
+    "bid_price": 4.73,
+    "quantity": 3,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "ARGS",
+    "bid_price": 1.012,
+    "quantity": 17,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "LBCC",
+    "bid_price": 1.2801,
+    "quantity": 14,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "EGC",
+    "bid_price": 4.759499999999999,
+    "quantity": 3,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "KONE",
+    "bid_price": 7.163827199999998,
+    "quantity": 4,
+    "strategy": "ups-then-downs-prevClose-fiveTo10",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "I",
+    "bid_price": 6.35,
+    "quantity": 4,
+    "strategy": "sudden-drops-last5trend-fiveTo10",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "IRIX",
+    "bid_price": 5.903519999999998,
+    "quantity": 4,
+    "strategy": "sudden-drops-last5trend-fiveTo10",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "REXX",
+    "bid_price": 0.53,
+    "quantity": 50,
+    "strategy": "sudden-drops-last10trend",
+    "min": 388
+  },
+  {
+    "type": "buy",
+    "ticker": "LBCC",
+    "bid_price": 1.07,
+    "quantity": 25,
+    "strategy": "sudden-drops-last10trend",
+    "min": 388
+  }
+]

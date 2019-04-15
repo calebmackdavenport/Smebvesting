@@ -1,0 +1,176 @@
+[
+  {
+    "type": "buy",
+    "ticker": "EBMT",
+    "bid_price": 18.336599999999997,
+    "quantity": 1,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "YRD",
+    "bid_price": 17.5299,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NWSA",
+    "bid_price": 13.54,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KOSS",
+    "bid_price": 4.37,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "COTY",
+    "bid_price": 11.59,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ALTY",
+    "bid_price": 15.402295,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MLNT",
+    "bid_price": 4.65,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AGFS",
+    "bid_price": 6.276860000000001,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AWSM",
+    "bid_price": 3.3949000000000007,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "SNGX",
+    "bid_price": 1.3908955999999992,
+    "quantity": 19,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddown7to10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 7.6611,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to10-notWatchout-fiveTo10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "BILI",
+    "bid_price": 11.32,
+    "quantity": 4,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "SCO",
+    "bid_price": 16.52,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "GASX",
+    "bid_price": 18.4859,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "SCO",
+    "bid_price": 16.518,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-first1-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "IPAS",
+    "bid_price": 0.2193,
+    "quantity": 123,
+    "strategy": "constant-risers-10minute-percUpHighClose-lowovernightjumps",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "YECO",
+    "bid_price": 2.0520499999999995,
+    "quantity": 6,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FVE",
+    "bid_price": 1.075,
+    "quantity": 12,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "sell",
+    "ticker": "CHRA",
+    "bid_price": 7.44,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JMU",
+    "bid_price": 1.51434245,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CORV",
+    "bid_price": 4.6130700000000004,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NBY",
+    "bid_price": 1.91,
+    "quantity": 7,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "SYN",
+    "bid_price": 3.2035,
+    "quantity": 4,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "sell",
+    "ticker": "TGB",
+    "bid_price": 0.7505,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CYCC",
+    "bid_price": 1.57711105,
+    "quantity": "6.0000"
+  }
+]

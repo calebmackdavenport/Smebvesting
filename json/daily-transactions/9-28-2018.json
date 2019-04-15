@@ -1,0 +1,81 @@
+[
+  {
+    "type": "sell",
+    "ticker": "NLST",
+    "bid_price": 0.44,
+    "quantity": 169
+  },
+  {
+    "type": "sell",
+    "ticker": "HEAR",
+    "bid_price": 20.53,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "SANW",
+    "bid_price": 2.493750000000001,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "ALN",
+    "bid_price": 0.1412,
+    "quantity": 859
+  },
+  {
+    "type": "sell",
+    "ticker": "GERN",
+    "bid_price": 1.77,
+    "quantity": 36
+  },
+  {
+    "type": "sell",
+    "ticker": "SSC",
+    "bid_price": 3.755,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "ANY",
+    "bid_price": 0.365,
+    "quantity": 994
+  },
+  {
+    "type": "sell",
+    "ticker": "EYEG",
+    "bid_price": 0.3232,
+    "quantity": 22
+  },
+  {
+    "type": "sell",
+    "ticker": "CCXI",
+    "bid_price": 12.663665,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "PYDS",
+    "bid_price": 1.8401,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "JNUG",
+    "bid_price": 7.498635150000001,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "EBR",
+    "bid_price": 3.924105000000001,
+    "quantity": 28
+  },
+  {
+    "type": "buy",
+    "ticker": "VTVT",
+    "bid_price": 0.775,
+    "strategy": "constant-downers-10minute-percDownCloseOnly-filtered80",
+    "min": 242
+  }
+]

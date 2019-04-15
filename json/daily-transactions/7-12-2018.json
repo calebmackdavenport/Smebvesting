@@ -1,0 +1,22 @@
+[
+  {
+    "type": "sell",
+    "ticker": "NNVC",
+    "bid_price": 0.3706,
+    "quantity": "249.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MYOS",
+    "bid_price": 1.6083900000000002,
+    "quantity": "42.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ANY",
+    "bid_price": 0.5188,
+    "quantity": 192,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 221
+  }
+]

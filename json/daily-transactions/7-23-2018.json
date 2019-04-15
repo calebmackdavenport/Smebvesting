@@ -1,0 +1,10 @@
+[
+  {
+    "type": "buy",
+    "ticker": "ARCT",
+    "bid_price": 8.683539999999999,
+    "quantity": 13,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10",
+    "min": 95
+  }
+]

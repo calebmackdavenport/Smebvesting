@@ -1,0 +1,40 @@
+[
+  {
+    "type": "sell",
+    "ticker": "APVO",
+    "bid_price": 5.6,
+    "quantity": "17.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "WWR",
+    "bid_price": 0.42,
+    "quantity": 238,
+    "strategy": "based-on-jump-down8overnight-notWatchout-ltneg50percmax",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "SLNO",
+    "bid_price": 3.12,
+    "quantity": 32,
+    "strategy": "low-float-high-volume-absVolPoints-trenddowngt10-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "SLNO",
+    "bid_price": 3.08,
+    "quantity": 32,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "DRYS",
+    "bid_price": 6.22,
+    "quantity": 16,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout-fiveTo10",
+    "min": 210
+  }
+]

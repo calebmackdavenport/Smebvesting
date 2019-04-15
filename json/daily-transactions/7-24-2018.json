@@ -1,0 +1,36 @@
+[
+  {
+    "type": "sell",
+    "ticker": "NDRA",
+    "bid_price": 2.05,
+    "quantity": "82.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARCT",
+    "bid_price": 8.23,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LPTX",
+    "bid_price": 8.428387500000005,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "WMLP",
+    "bid_price": 1.9168656000000002,
+    "quantity": 88,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "RFIL",
+    "bid_price": 8.9178,
+    "quantity": 19,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10",
+    "min": 95
+  }
+]

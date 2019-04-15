@@ -1,0 +1,54 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SOXS",
+    "bid_price": 9.74,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "GPIC",
+    "bid_price": 9.41,
+    "quantity": 15,
+    "strategy": "low-float-high-volume-volToAvgPoints-trend10to15-notWatchout-fiveTo10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "RDCM",
+    "bid_price": 13.6,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddowngt20-notWatchout-tenTo15",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "FPAY",
+    "bid_price": 1.898,
+    "quantity": 52,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 189
+  },
+  {
+    "type": "sell",
+    "ticker": "DVCR",
+    "bid_price": 5.724125000000003,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "JP",
+    "bid_price": 9.37,
+    "quantity": 16,
+    "strategy": "sudden-drops-last10trend-filter10-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "CYTX",
+    "bid_price": 0.4551,
+    "quantity": 329,
+    "strategy": "sudden-drops-last1trend-filter10",
+    "min": 360
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "type": "buy",
+    "ticker": "ACST",
+    "bid_price": 0.5321199999999998,
+    "quantity": 142,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "NBY",
+    "bid_price": 1.895,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LRAD",
+    "bid_price": 3.19,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASFI",
+    "bid_price": 3.1,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 11.21,
+    "quantity": 6,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "NNVC",
+    "bid_price": 0.3198,
+    "quantity": 237,
+    "strategy": "based-on-jump-down8overnight-notWatchout-ltneg50percmax-first1",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "SFUN",
+    "bid_price": 3.0160199999999993,
+    "quantity": 25,
+    "strategy": "constant-risers-10minute-percUpHighClose-lowovernightjumps",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "STAF",
+    "bid_price": 2.489950599999998,
+    "quantity": 30,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "AMEH",
+    "bid_price": 16.514394999999993,
+    "quantity": 4,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-fifteenTo20",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "SGBX",
+    "bid_price": 3.407069999999996,
+    "quantity": 22,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "ATAI",
+    "bid_price": 2.77,
+    "quantity": 13,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "URG",
+    "bid_price": 0.7511503999999999,
+    "quantity": 50,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "PXLW",
+    "bid_price": 4.79,
+    "quantity": 8,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trend10to15-shouldWatchout",
+    "min": 315
+  }
+]

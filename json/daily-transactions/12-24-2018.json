@@ -1,0 +1,387 @@
+[
+  {
+    "type": "sell",
+    "ticker": "UCO",
+    "bid_price": 12.99,
+    "quantity": 3
+  },
+  {
+    "type": "buy",
+    "ticker": "TALO",
+    "bid_price": 15.038,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-first1-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "OGEN",
+    "bid_price": 0.87,
+    "strategy": "dynamo-3000-bottom50tso-trendingUp3010-lowestsharesToCap",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "MICT",
+    "bid_price": 1.1928100000000001,
+    "strategy": "dynamo-3000-bottom50tso-trendingUp3010-lowestsharesToCap",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "BPMX",
+    "bid_price": 0.075174,
+    "strategy": "low-float-high-volume-absVolPoints-trenddowngt20",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "BPMX",
+    "bid_price": 0.075174,
+    "strategy": "low-float-high-volume-absVolPoints-trenddowngt20-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "CTRV",
+    "bid_price": 0.25,
+    "strategy": "low-float-high-volume-absVolPoints-trenddowngt30",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "DVLU",
+    "bid_price": 14.67,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "AMRN",
+    "bid_price": 12.23,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "HEAR",
+    "bid_price": 13.16,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "AMRN",
+    "bid_price": 12.2001,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first3-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "DVLU",
+    "bid_price": 14.67,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first3-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "HEAR",
+    "bid_price": 13.11304,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first3-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "TPOR",
+    "bid_price": 16.55,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-first1-fifteenTo20",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "NBEV",
+    "bid_price": 5.33,
+    "strategy": "based-on-jump-down3overnight-gt1milvolume-first1-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "PGP",
+    "bid_price": 9.7849,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "DCAR",
+    "bid_price": 0.25,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "CGIX",
+    "bid_price": 0.2925,
+    "quantity": 90
+  },
+  {
+    "type": "sell",
+    "ticker": "NAKD",
+    "bid_price": 0.882,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "CAMP",
+    "bid_price": 12.01399,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "SG",
+    "bid_price": 13.5,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "ISNS",
+    "bid_price": 4.31,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "TIK",
+    "bid_price": 3.0601,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "PTI",
+    "bid_price": 3.8222,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "DERM",
+    "bid_price": 7.2132,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "NVCN",
+    "bid_price": 0.6092,
+    "quantity": 17
+  },
+  {
+    "type": "sell",
+    "ticker": "GLOW",
+    "bid_price": 0.121,
+    "quantity": 788
+  },
+  {
+    "type": "sell",
+    "ticker": "BNTC",
+    "bid_price": 1.11,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "KTOV",
+    "bid_price": 0.61938,
+    "quantity": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "KOLD",
+    "bid_price": 16.44,
+    "strategy": "up-streak-3to5days-gt3overnight-fifteenTo20",
+    "min": 45
+  },
+  {
+    "type": "buy",
+    "ticker": "GALT",
+    "bid_price": 3.6795,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "JOB",
+    "bid_price": 1.01,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "JAGX",
+    "bid_price": 0.1795,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "JAKK",
+    "bid_price": 1.71,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "CNST",
+    "bid_price": 5.234,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 63
+  },
+  {
+    "type": "sell",
+    "ticker": "FTEK",
+    "bid_price": 1.2,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "GASL",
+    "bid_price": 4.68,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "SGRP",
+    "bid_price": 0.5,
+    "quantity": 43
+  },
+  {
+    "type": "sell",
+    "ticker": "JCS",
+    "bid_price": 2.3464750000000003,
+    "quantity": 21
+  },
+  {
+    "type": "sell",
+    "ticker": "WHLR",
+    "bid_price": 0.9142887500000003,
+    "quantity": 60
+  },
+  {
+    "type": "sell",
+    "ticker": "NVFY",
+    "bid_price": 0.4648512000000004,
+    "quantity": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 3.138,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-shouldWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "NFEC",
+    "bid_price": 11.74,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout-tenTo15",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "ESES",
+    "bid_price": 0.05634,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SNSS",
+    "bid_price": 0.30607999999999996,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "RSLS",
+    "bid_price": 0.35614,
+    "strategy": "dynamo-3000-top50tso-absvolume",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SNSS",
+    "bid_price": 0.30607999999999996,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "VCNX",
+    "bid_price": 4.5,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "CNST",
+    "bid_price": 4.6499999999999995,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "CSPI",
+    "bid_price": 10.084,
+    "strategy": "low-float-high-volume-volToAvgPoints-trenddowngt10-notWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "GNE",
+    "bid_price": 6.03,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "SYPR",
+    "bid_price": 1.09,
+    "strategy": "sudden-drops-last2trend-first1",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "SYPR",
+    "bid_price": 1.09,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "CTIC",
+    "bid_price": 0.664,
+    "strategy": "sudden-drops-last18trend-filter20",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "OTLKW",
+    "bid_price": 0.24,
+    "strategy": "sudden-drops-last18trend-filter20",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "EFOI",
+    "bid_price": 0.656,
+    "strategy": "sudden-drops-last18trend-filter20",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "NBEV",
+    "bid_price": 4.7599,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "SYPR",
+    "bid_price": 1.09,
+    "strategy": "double-down",
+    "min": 200
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "type": "sell",
+    "ticker": "LGCY",
+    "bid_price": 2.27,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RLGT",
+    "bid_price": 5.1,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LGCY",
+    "bid_price": 2.2899,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VTNR",
+    "bid_price": 1.1,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VTNR",
+    "bid_price": 1.0945,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CASC",
+    "bid_price": 4.577,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CASC",
+    "bid_price": 4.577,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "DXLG",
+    "bid_price": 2.635,
+    "quantity": 4,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "DXLG",
+    "bid_price": 2.635,
+    "quantity": 4,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "EBIO",
+    "bid_price": 0.94,
+    "quantity": 13,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "RPRX",
+    "bid_price": 0.667,
+    "quantity": 18,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "GSL",
+    "bid_price": 1.3222,
+    "quantity": 9,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "GSL",
+    "bid_price": 1.3222,
+    "quantity": 9,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "GBR",
+    "bid_price": 2.21,
+    "quantity": 6,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "EBIO",
+    "bid_price": 0.94,
+    "quantity": 13,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "GOL",
+    "bid_price": 9.99,
+    "quantity": 5,
+    "strategy": "$5-$15-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "GBR",
+    "bid_price": 2.21,
+    "quantity": 11,
+    "strategy": "<$3-upstreak-4-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 1.7892,
+    "quantity": 7,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 1.7892,
+    "quantity": 13,
+    "strategy": "<$3-upstreak-4-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "KEYW",
+    "bid_price": 6.9,
+    "quantity": 7,
+    "strategy": "$5-$15-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "SGYP",
+    "bid_price": 2.6727944,
+    "quantity": 5,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "AVP",
+    "bid_price": 2.37711,
+    "quantity": 6,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "IPAS",
+    "bid_price": 0.5015,
+    "quantity": 28,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "APDN",
+    "bid_price": 1.6085110999999996,
+    "quantity": 7,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "RNN",
+    "bid_price": 2.4194299999999993,
+    "quantity": 5,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "DRRX",
+    "bid_price": 1.2478423999999997,
+    "quantity": 11,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARDM",
+    "bid_price": 2.401419999999999,
+    "quantity": 5,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARDM",
+    "bid_price": 2.401419999999999,
+    "quantity": 5,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "GNMX",
+    "bid_price": 1.5179999999999993,
+    "quantity": 9,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "RAND",
+    "bid_price": 2.8013999999999983,
+    "quantity": 4,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "VTNR",
+    "bid_price": 1.1199,
+    "quantity": 5,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "DXLG",
+    "bid_price": 2.635,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "DXLG",
+    "bid_price": 2.635,
+    "quantity": 3,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "WLB",
+    "bid_price": 1.2182,
+    "quantity": 4,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "APDN",
+    "bid_price": 1.6192,
+    "quantity": 3,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "EBIO",
+    "bid_price": 0.9699,
+    "quantity": 6,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "GBR",
+    "bid_price": 1.97,
+    "quantity": 6,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "CASI",
+    "bid_price": 4.145,
+    "quantity": 16,
+    "strategy": "$3-$5-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "DRRX",
+    "bid_price": 1.25,
+    "quantity": 10,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "BLPH",
+    "bid_price": 2.41,
+    "quantity": 3,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "GSL",
+    "bid_price": 1.3238,
+    "quantity": 6,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "UQM",
+    "bid_price": 1.4894,
+    "quantity": 8,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "IPAS",
+    "bid_price": 0.4875,
+    "quantity": 25,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "GSL",
+    "bid_price": 1.3238,
+    "quantity": 4,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "GBR",
+    "bid_price": 1.97,
+    "quantity": 12,
+    "strategy": "<$3-upstreak-4-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "ITUB",
+    "bid_price": 14.93,
+    "quantity": 1,
+    "strategy": "$5-$15-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "SDR",
+    "bid_price": 1.08,
+    "quantity": 5,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "BLPH",
+    "bid_price": 2.41,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "RPRX",
+    "bid_price": 0.6659,
+    "quantity": 8,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "GOL",
+    "bid_price": 9.916,
+    "quantity": 2,
+    "strategy": "$5-$15-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "UWN",
+    "bid_price": 2.7394,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "GLOW",
+    "bid_price": 0.3281,
+    "quantity": 17,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "EBIO",
+    "bid_price": 0.9699,
+    "quantity": 8,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "JAX",
+    "bid_price": 10.230599999999999,
+    "quantity": 1,
+    "strategy": "$5-$15-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "INFI",
+    "bid_price": 2.2469206,
+    "quantity": 5,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARDM",
+    "bid_price": 2.3871399999999996,
+    "quantity": 3,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "CTRV",
+    "bid_price": 0.32106029999999997,
+    "quantity": 18,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "ENZ",
+    "bid_price": 8.054089999999999,
+    "quantity": 2,
+    "strategy": "$5-$15-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "TOO",
+    "bid_price": 2.9086999999999996,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "CELH",
+    "bid_price": 5.897639999999999,
+    "quantity": 3,
+    "strategy": "$5-$15-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "TOO",
+    "bid_price": 2.9173999999999993,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "RNN",
+    "bid_price": 2.3738581999999995,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 1.7606005999999996,
+    "quantity": 14,
+    "strategy": "<$3-upstreak-4-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 1.7606005999999996,
+    "quantity": 7,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "GNMX",
+    "bid_price": 1.5089999999999997,
+    "quantity": 8,
+    "strategy": "<$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "RAND",
+    "bid_price": 2.7931199999999987,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "buy",
+    "ticker": "THM",
+    "bid_price": 0.45570359999999976,
+    "quantity": 12,
+    "strategy": "<$3-upstreak-3"
+  },
+  {
+    "type": "sell",
+    "ticker": "IPAS",
+    "bid_price": 0.5073,
+    "quantity": "53.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NERV",
+    "bid_price": 6.6,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SITO",
+    "bid_price": 6.51,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TTPH",
+    "bid_price": 6.43,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LGL",
+    "bid_price": 5.7005,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "YOGA",
+    "bid_price": 2.8257999999999996,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RCG",
+    "bid_price": 1.5323,
+    "quantity": "44.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AKTS",
+    "bid_price": 6.3879,
+    "quantity": "2.0000"
+  }
+]

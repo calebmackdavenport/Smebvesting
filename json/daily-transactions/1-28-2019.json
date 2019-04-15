@@ -1,0 +1,56 @@
+[
+  {
+    "type": "sell",
+    "ticker": "AQ",
+    "bid_price": 9.07,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "IDXG",
+    "bid_price": 0.8432,
+    "quantity": 317
+  },
+  {
+    "type": "sell",
+    "ticker": "LINK",
+    "bid_price": 1.984,
+    "quantity": 72
+  },
+  {
+    "type": "sell",
+    "ticker": "MBOT",
+    "bid_price": 9.2132,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CBAT",
+    "bid_price": 1.0878,
+    "quantity": 81
+  },
+  {
+    "type": "sell",
+    "ticker": "FTK",
+    "bid_price": 2.49,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "NURO",
+    "bid_price": 0.9461999999999999,
+    "quantity": 44
+  },
+  {
+    "type": "sell",
+    "ticker": "JMU",
+    "bid_price": 0.7401,
+    "quantity": 224
+  },
+  {
+    "type": "sell",
+    "ticker": "NEON",
+    "bid_price": 2.36096,
+    "quantity": 53
+  }
+]

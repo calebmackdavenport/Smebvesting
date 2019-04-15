@@ -1,0 +1,58 @@
+[
+  {
+    "type": "buy",
+    "ticker": "TRQ",
+    "bid_price": 3.1663,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-topPE",
+    "min": 351
+  },
+  {
+    "type": "buy",
+    "ticker": "TGEN",
+    "bid_price": 3.2196,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-topPE",
+    "min": 351
+  },
+  {
+    "type": "buy",
+    "ticker": "ERN",
+    "bid_price": 2.5445,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-overall",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "SHOS",
+    "bid_price": 1.9,
+    "quantity": 2,
+    "strategy": "dynamo-3000-bottom50tso-overall",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "CHKE",
+    "bid_price": 0.9373,
+    "quantity": 4,
+    "strategy": "dynamo-3000-bottom50tso-overall",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "UPL",
+    "bid_price": 2.587585,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-overall",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "ARGS",
+    "bid_price": 0.2950755999999999,
+    "quantity": 15,
+    "strategy": "dynamo-3000-bottom50tso-overall",
+    "min": 381
+  }
+]

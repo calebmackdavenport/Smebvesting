@@ -1,0 +1,218 @@
+[
+  {
+    "type": "sell",
+    "ticker": "BKS",
+    "bid_price": 5.24475,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SRNE",
+    "bid_price": 5.775,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RAS",
+    "bid_price": 0.1827,
+    "quantity": "400.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AFMD",
+    "bid_price": 2.125,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MBII",
+    "bid_price": 2.91,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SEED",
+    "bid_price": 0.7318,
+    "quantity": "60.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHEK",
+    "bid_price": 3.8436344,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 10.385,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MBOT",
+    "bid_price": 0.63,
+    "quantity": "30.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ITI",
+    "bid_price": 4.36,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TLGT",
+    "bid_price": 2.8592700000000004,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BKS",
+    "bid_price": 5.275,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "CCCR",
+    "bid_price": 1.0901,
+    "quantity": 53
+  },
+  {
+    "type": "sell",
+    "ticker": "CASI",
+    "bid_price": 6.68,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "SRNE",
+    "bid_price": 5.975,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "TNDM",
+    "bid_price": 5.74,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "AFMD",
+    "bid_price": 2.025,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "OGEN",
+    "bid_price": 1.6965999999999999,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "AMPE",
+    "bid_price": 3.72753,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "REXX",
+    "bid_price": 0.7703,
+    "quantity": 50
+  },
+  {
+    "type": "sell",
+    "ticker": "SLS",
+    "bid_price": 6.6121492,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "EGO",
+    "bid_price": 0.9838,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "DXR",
+    "bid_price": 9.2252,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 10.4,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "TVIX",
+    "bid_price": 9.7902,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "RUN",
+    "bid_price": 8.4135,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "SMI",
+    "bid_price": 6.4001,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "TISI",
+    "bid_price": 14.85,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "FET",
+    "bid_price": 10.95,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "AOBC",
+    "bid_price": 10.53945,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SWCH",
+    "bid_price": 14.610375,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "ELMD",
+    "bid_price": 5.4,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "CAMT",
+    "bid_price": 6.7932,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "BWEN",
+    "bid_price": 2.96,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "BLFS",
+    "bid_price": 7.5301623,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "AIRG",
+    "bid_price": 7.947819999999999,
+    "quantity": 3
+  }
+]

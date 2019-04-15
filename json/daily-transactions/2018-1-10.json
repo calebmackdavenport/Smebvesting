@@ -1,0 +1,374 @@
+[
+  {
+    "type": "sell",
+    "ticker": "YTEN",
+    "bid_price": 1.59,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SIFY",
+    "bid_price": 2.38,
+    "quantity": "36.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TRPX",
+    "bid_price": 6.59,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TROV",
+    "bid_price": 0.34,
+    "quantity": "149.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OHRP",
+    "bid_price": 0.35,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RSYS",
+    "bid_price": 1.08,
+    "quantity": "84.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "APHB",
+    "bid_price": 1.04,
+    "quantity": "63.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AQMS",
+    "bid_price": 1.84,
+    "quantity": "37.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARDM",
+    "bid_price": 3.76,
+    "quantity": "24.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AQB",
+    "bid_price": 6.23,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BLPH",
+    "bid_price": 1.91,
+    "quantity": "48.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NWY",
+    "bid_price": 2.86,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARCI",
+    "bid_price": 1,
+    "quantity": "51.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "YECO",
+    "bid_price": 3.33,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MYSZ",
+    "bid_price": 1.82,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RCON",
+    "bid_price": 1.55,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "APOP",
+    "bid_price": 8.55,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OPGN",
+    "bid_price": 0.18,
+    "quantity": "157.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TEUM",
+    "bid_price": 2.45,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AXSM",
+    "bid_price": 3.48,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CXRX",
+    "bid_price": 0.78,
+    "quantity": "39.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "KOOL",
+    "bid_price": 3.42,
+    "quantity": 20
+  },
+  {
+    "type": "buy",
+    "ticker": "CODA",
+    "bid_price": 4.6511,
+    "quantity": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "OHGI",
+    "bid_price": 1.59,
+    "quantity": 43
+  },
+  {
+    "type": "buy",
+    "ticker": "EDGE",
+    "bid_price": 11.01,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "CPG",
+    "bid_price": 8.81,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "FPPP",
+    "bid_price": 0.18,
+    "quantity": 72
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 1.92,
+    "quantity": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "ICD",
+    "bid_price": 4.58,
+    "quantity": 2
+  },
+  {
+    "type": "buy",
+    "ticker": "AVLNF",
+    "bid_price": 0.1071,
+    "quantity": 122
+  },
+  {
+    "type": "buy",
+    "ticker": "AMPY",
+    "bid_price": 10.5,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "AMPY",
+    "bid_price": 10.45,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "AVLNF",
+    "bid_price": 0.1071,
+    "quantity": 173
+  },
+  {
+    "type": "buy",
+    "ticker": "FPPP",
+    "bid_price": 0.1648,
+    "quantity": 112
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 1.89,
+    "quantity": 9
+  },
+  {
+    "type": "buy",
+    "ticker": "SENS",
+    "bid_price": 3.12,
+    "quantity": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "ICD",
+    "bid_price": 4.55,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "CPG",
+    "bid_price": 8.73,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TRPX",
+    "bid_price": 5.995,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARCI",
+    "bid_price": 0.9994,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TRPX",
+    "bid_price": 5.99,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARCI",
+    "bid_price": 1,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AXSM",
+    "bid_price": 3.38,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KOOL",
+    "bid_price": 3.22,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OHGI",
+    "bid_price": 1.55,
+    "quantity": "43.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EDGE",
+    "bid_price": 10.97,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LGCY",
+    "bid_price": 1.88,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ICD",
+    "bid_price": 4.53,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SENS",
+    "bid_price": 3.11,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TRPX",
+    "bid_price": 6,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARCI",
+    "bid_price": 0.99,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TRPX",
+    "bid_price": 6,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARCI",
+    "bid_price": 0.99,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AXSM",
+    "bid_price": 3.38,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "UONE",
+    "bid_price": 1.77,
+    "quantity": 83
+  },
+  {
+    "type": "buy",
+    "ticker": "BHVN",
+    "bid_price": 27.12,
+    "quantity": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "BHVN",
+    "bid_price": 27.05,
+    "quantity": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "UONE",
+    "bid_price": 1.65,
+    "quantity": 83
+  },
+  {
+    "type": "buy",
+    "ticker": "UONE",
+    "bid_price": 1.77,
+    "quantity": 113
+  },
+  {
+    "type": "buy",
+    "ticker": "BHVN",
+    "bid_price": 27,
+    "quantity": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "BHVN",
+    "bid_price": 26.96,
+    "quantity": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "UONE",
+    "bid_price": 1.65,
+    "quantity": 113
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SSG",
+    "bid_price": 16.7516349,
+    "quantity": 1,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "AWX",
+    "bid_price": 3.83,
+    "quantity": "89.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ISDR",
+    "bid_price": 15.5922,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "TUES",
+    "bid_price": 3.2063999999999995,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddown7to10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "CHRA",
+    "bid_price": 7.69,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to10-notWatchout-fiveTo10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "COTY",
+    "bid_price": 11.186174999999999,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "CDXS",
+    "bid_price": 15.581099999999998,
+    "quantity": 1,
+    "strategy": "technical-indicators-5minute-day-topSMAoverUnderHist-fifteenTo20",
+    "min": 87
+  },
+  {
+    "type": "buy",
+    "ticker": "CORV",
+    "bid_price": 4.5,
+    "quantity": 2,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "JMU",
+    "bid_price": 1.88,
+    "quantity": 5,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SEAC",
+    "bid_price": 1.63,
+    "quantity": 12,
+    "strategy": "constant-risers-10minute-percUpHighClose-lowovernightjumps",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "AWSM",
+    "bid_price": 3.4,
+    "quantity": 3,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-lowestYP",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "MLNT",
+    "bid_price": 4.508999999999999,
+    "quantity": 2,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-lowestYP",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "TGB",
+    "bid_price": 0.7511993999999999,
+    "quantity": 13,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 1.5265819999999992,
+    "quantity": 6,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "KOSS",
+    "bid_price": 3.7050479999999966,
+    "quantity": 2,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "AGFS",
+    "bid_price": 6.218599999999999,
+    "quantity": 3,
+    "strategy": "sudden-drops-last10trend-first1-fiveTo10",
+    "min": 290
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SYBX",
+    "bid_price": 9.65,
+    "quantity": 10,
+    "strategy": "based-on-jump-down3overnight-trending35257-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "AST",
+    "bid_price": 1.6064,
+    "quantity": 62,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddown7to10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "SLNO",
+    "bid_price": 2.75,
+    "quantity": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "SFS",
+    "bid_price": 5.9118,
+    "quantity": 16,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "TSRI",
+    "bid_price": 6.01701,
+    "quantity": 16,
+    "strategy": "low-float-high-volume-volToAvgPoints-trendgt20-notWatchout-fiveTo10",
+    "min": 210
+  },
+  {
+    "type": "sell",
+    "ticker": "DRYS",
+    "bid_price": 6.636779950000001,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "SLNO",
+    "bid_price": 2.66,
+    "quantity": 16
+  }
+]

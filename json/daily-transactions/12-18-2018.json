@@ -1,0 +1,142 @@
+[
+  {
+    "type": "buy",
+    "ticker": "CSBR",
+    "bid_price": 8.5042,
+    "strategy": "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "NFEC",
+    "bid_price": 10.25,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "DCAR",
+    "bid_price": 0.311,
+    "quantity": 71
+  },
+  {
+    "type": "sell",
+    "ticker": "OHGI",
+    "bid_price": 0.0919,
+    "quantity": 1000
+  },
+  {
+    "type": "sell",
+    "ticker": "LIVX",
+    "bid_price": 4.5768,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "PLXP",
+    "bid_price": 2.9288,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "DFFN",
+    "bid_price": 2.56,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "TBLT",
+    "bid_price": 1.2487500000000002,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "ZDGE",
+    "bid_price": 2.33,
+    "quantity": 10
+  },
+  {
+    "type": "buy",
+    "ticker": "UWT",
+    "bid_price": 10.92,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout-tenTo15",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "SFIX",
+    "bid_price": 19.376,
+    "strategy": "low-float-high-volume-floatPoints-trendgt5-shouldWatchout-fifteenTo20",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "IMTE",
+    "bid_price": 5.186,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "CFRX",
+    "bid_price": 1.56,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "ALRN",
+    "bid_price": 0.86846,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "ACRS",
+    "bid_price": 6.344,
+    "strategy": "low-float-high-volume-volToAvgPoints-trenddowngt10-notWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "AETI",
+    "bid_price": 0.9899,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "MBOT",
+    "bid_price": 1.442,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "ANFI",
+    "bid_price": 0.31506,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "CYTX",
+    "bid_price": 0.26786,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "ACHN",
+    "bid_price": 2.01,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "ACHN",
+    "bid_price": 2.008,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddowngt20",
+    "min": 276
+  }
+]

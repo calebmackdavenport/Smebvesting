@@ -1,0 +1,476 @@
+[
+  {
+    "type": "sell",
+    "ticker": "KONE",
+    "bid_price": 5.92,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FIT",
+    "bid_price": 5.4609,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TVIX",
+    "bid_price": 6.98,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SSKN",
+    "bid_price": 1.36,
+    "quantity": "146.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MDR",
+    "bid_price": 6.62,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AYTU",
+    "bid_price": 0.3711,
+    "quantity": "239.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WAIR",
+    "bid_price": 9.45,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ELVT",
+    "bid_price": 8.09,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NEO",
+    "bid_price": 9.73,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IOTS",
+    "bid_price": 9.545,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ELOX",
+    "bid_price": 13.62,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASYS",
+    "bid_price": 7.204788000000001,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "MNK",
+    "bid_price": 13.18,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-overall-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "GE",
+    "bid_price": 14.22,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-overall-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "HCHC",
+    "bid_price": 7.57,
+    "quantity": 23,
+    "strategy": "based-on-jump-up3overnight-trending103-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "EEP",
+    "bid_price": 10.486140449999999,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-overall-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "MRAM",
+    "bid_price": 7.19,
+    "quantity": 6,
+    "strategy": "based-on-jump-up3overnight-trending53-ltneg50percmax-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "SELB",
+    "bid_price": 11.749299999999998,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-overall-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "CCXI",
+    "bid_price": 10.96,
+    "quantity": 4,
+    "strategy": "based-on-jump-up3overnight-trending607-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "SSP",
+    "bid_price": 11.148884999999995,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-overall-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "MNK",
+    "bid_price": 13.26,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-onlyWatchout-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "SELB",
+    "bid_price": 11.72586,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-onlyWatchout-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "EEP",
+    "bid_price": 10.495244999999999,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-onlyWatchout-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "SIEB",
+    "bid_price": 10.37,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-onlyWatchout-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "CHEK",
+    "bid_price": 12.98649,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-onlyWatchout-5lowestYP-tenTo15",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 5.892944999999999,
+    "quantity": 3,
+    "strategy": "sudden-drops-last1trend-fiveTo10",
+    "min": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "CSU",
+    "bid_price": 9.629619999999997,
+    "quantity": 2,
+    "strategy": "sudden-drops-last1trend-fiveTo10",
+    "min": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "I",
+    "bid_price": 12.1601,
+    "quantity": 3,
+    "strategy": "sudden-drops-last1trend-first1-tenTo15",
+    "min": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "ARTW",
+    "bid_price": 2.655299999999999,
+    "quantity": 16,
+    "strategy": "based-on-jump-down3overnight-trending607-gtneg20percmax-first1",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "MRAM",
+    "bid_price": 7.1998,
+    "quantity": 6,
+    "strategy": "based-on-jump-up3overnight-trending53-ltneg50percmax-first1-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "sell",
+    "ticker": "ICD",
+    "bid_price": 4.63,
+    "quantity": "41.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AQB",
+    "bid_price": 2.98,
+    "quantity": "62.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARDM",
+    "bid_price": 1.3245374,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "QHC",
+    "bid_price": 7.34,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SLS",
+    "bid_price": 5.794200000000001,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ATOS",
+    "bid_price": 3.8542100000000006,
+    "quantity": "46.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IBIO",
+    "bid_price": 0.16368975000000005,
+    "quantity": "148.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PCTI",
+    "bid_price": 7.026485000000001,
+    "quantity": "40.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LBY",
+    "bid_price": 6.05,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MTEM",
+    "bid_price": 8.82,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NTRP",
+    "bid_price": 8.823450000000003,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FCRE",
+    "bid_price": 1.1295644999999999,
+    "quantity": 19,
+    "strategy": "based-on-jump-down3overnight-trending607-gtneg20percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "ARTW",
+    "bid_price": 2.655299999999999,
+    "quantity": 8,
+    "strategy": "based-on-jump-down3overnight-trending607-gtneg20percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "CSU",
+    "bid_price": 9.36,
+    "quantity": 4,
+    "strategy": "sudden-drops-last5trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "ASPU",
+    "bid_price": 8.349,
+    "quantity": 5,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "CCXI",
+    "bid_price": 11.04,
+    "quantity": 3,
+    "strategy": "based-on-jump-up3overnight-shouldWatchout-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "CCXI",
+    "bid_price": 11.0055,
+    "quantity": 3,
+    "strategy": "based-on-jump-up3overnight-trending607-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "ENPH",
+    "bid_price": 4.49,
+    "quantity": 3,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "CYH",
+    "bid_price": 4.9651,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "MTP",
+    "bid_price": 1.4507249999999998,
+    "quantity": 10,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "VVUS",
+    "bid_price": 0.48,
+    "quantity": 63,
+    "strategy": "sudden-drops-last10trend",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "CARV",
+    "bid_price": 3.1961795999999993,
+    "quantity": 9,
+    "strategy": "sudden-drops-last10trend",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "FWP",
+    "bid_price": 1.65,
+    "quantity": 9,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "BIOL",
+    "bid_price": 0.36215999999999976,
+    "quantity": 42,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "YOGA",
+    "bid_price": 2.363391999999994,
+    "quantity": 6,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "YOGA",
+    "bid_price": 2.3091539999999995,
+    "quantity": 5,
+    "strategy": "constant-downers-10minute-percDownCloseOnlyPoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "KONA",
+    "bid_price": 1.7552499999999993,
+    "quantity": 6,
+    "strategy": "constant-downers-10minute-percDownCloseOnlyPoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "FWP",
+    "bid_price": 1.7578749999999992,
+    "quantity": 6,
+    "strategy": "constant-downers-10minute-percDownCloseOnlyPoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "ALIM",
+    "bid_price": 1.11111,
+    "quantity": 4,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "PGH",
+    "bid_price": 0.8001984999999999,
+    "quantity": 6,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "MOC",
+    "bid_price": 2.2055,
+    "quantity": 2,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CHK",
+    "bid_price": 2.9579549999999997,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SITO",
+    "bid_price": 3.4037002999999997,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "AMMA",
+    "bid_price": 0.4151598499999998,
+    "quantity": 52,
+    "strategy": "sudden-drops-last2trend",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "IPDN",
+    "bid_price": 3.6478,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-overall-5highestTSO",
+    "min": 351
+  }
+]

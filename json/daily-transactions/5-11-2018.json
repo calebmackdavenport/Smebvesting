@@ -1,0 +1,18 @@
+[
+  {
+    "type": "buy",
+    "ticker": "LPTX",
+    "bid_price": 7.0782,
+    "quantity": 2,
+    "strategy": "based-on-jump-fourToEightOvernight-shouldWatchout-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "ASYS",
+    "bid_price": 8.34417,
+    "quantity": 2,
+    "strategy": "based-on-jump-fourToEightOvernight-shouldWatchout-fiveTo10",
+    "min": 5
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "type": "sell",
+    "ticker": "ICON",
+    "bid_price": 0.123,
+    "quantity": 293
+  },
+  {
+    "type": "sell",
+    "ticker": "CODX",
+    "bid_price": 1.2,
+    "quantity": 22
+  },
+  {
+    "type": "sell",
+    "ticker": "XGTI",
+    "bid_price": 0.39,
+    "quantity": 77
+  },
+  {
+    "type": "sell",
+    "ticker": "ADXS",
+    "bid_price": 0.29,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "SGOC",
+    "bid_price": 1.08,
+    "quantity": 66
+  },
+  {
+    "type": "sell",
+    "ticker": "WWR",
+    "bid_price": 0.1526,
+    "quantity": 409
+  },
+  {
+    "type": "sell",
+    "ticker": "PIR",
+    "bid_price": 0.85,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "LPTX",
+    "bid_price": 2.57,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "NL",
+    "bid_price": 4.06,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "LJPC",
+    "bid_price": 6.1106,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "MNGA",
+    "bid_price": 0.18,
+    "quantity": 708
+  },
+  {
+    "type": "sell",
+    "ticker": "SAEX",
+    "bid_price": 4.3367,
+    "quantity": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 2.134125,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "ITP",
+    "bid_price": 0.6399,
+    "quantity": 218
+  },
+  {
+    "type": "sell",
+    "ticker": "FRD",
+    "bid_price": 7.66,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "NSYS",
+    "bid_price": 4.18,
+    "quantity": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "SBOT",
+    "bid_price": 1.1873749999999998,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "IGLD",
+    "bid_price": 1.1077125,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "CHK",
+    "bid_price": 2.896210875,
+    "strategy": "based-on-jump-oneToFourOvernight-gt500kvolume-first1",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "ATEC",
+    "bid_price": 1.8907125000000016,
+    "quantity": 98
+  },
+  {
+    "type": "buy",
+    "ticker": "WINR",
+    "bid_price": 2.8556625,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "HGSH",
+    "bid_price": 1.038,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "DXR",
+    "bid_price": 14.088899999999999,
+    "strategy": "based-on-jump-down5overnight-trending35257-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "BKYI",
+    "bid_price": 0.8859,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "HGSH",
+    "bid_price": 1.023,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "IFMK",
+    "bid_price": 1.08,
+    "quantity": 78
+  },
+  {
+    "type": "sell",
+    "ticker": "AZRX",
+    "bid_price": 2.3718,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "VISI",
+    "bid_price": 3.45,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "SPI",
+    "bid_price": 0.8950500000000006,
+    "quantity": 39
+  },
+  {
+    "type": "buy",
+    "ticker": "ELTK",
+    "bid_price": 2.685,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "DPW",
+    "bid_price": 0.114,
+    "quantity": 274
+  },
+  {
+    "type": "sell",
+    "ticker": "ASNA",
+    "bid_price": 3.005,
+    "quantity": 35
+  },
+  {
+    "type": "sell",
+    "ticker": "MTFB",
+    "bid_price": 9.992,
+    "quantity": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "WTER",
+    "bid_price": 3.88021875,
+    "strategy": "low-float-high-volume-floatPoints-trenddown7to10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "DYY",
+    "bid_price": 2.21375,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "RESN",
+    "bid_price": 2.145,
+    "strategy": "sudden-drops-last1trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "BIOC",
+    "bid_price": 1.76,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ESTR",
+    "bid_price": 1.97625,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "DLPN",
+    "bid_price": 1.3888,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "BPMX",
+    "bid_price": 0.11494250000000002,
+    "quantity": 1287
+  },
+  {
+    "type": "buy",
+    "ticker": "USAT",
+    "bid_price": 5.43871875,
+    "strategy": "sudden-drops-last30trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "CUE",
+    "bid_price": 5.426625,
+    "strategy": "sudden-drops-last30trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "GEC",
+    "bid_price": 3.35,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "FVE",
+    "bid_price": 0.7383712499999999,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "ENG",
+    "bid_price": 0.76137,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "MBOT",
+    "bid_price": 14.699155000000001,
+    "strategy": "sudden-drops-last18trend-filter10-tenTo15",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "BVSN",
+    "bid_price": 1.367625,
+    "strategy": "constant-downers-5minute-percDownCloseOnly-lowovernightjumps",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "TYME",
+    "bid_price": 3.65,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trendgt30",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "TYME",
+    "bid_price": 3.65075,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trendgt30",
+    "min": 315
+  },
+  {
+    "type": "sell",
+    "ticker": "ZKIN",
+    "bid_price": 1.6401,
+    "quantity": 57
+  },
+  {
+    "type": "buy",
+    "ticker": "SHOS",
+    "bid_price": 1.758,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  }
+]

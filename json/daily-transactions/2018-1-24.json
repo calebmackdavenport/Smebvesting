@@ -1,0 +1,182 @@
+[
+  {
+    "type": "sell",
+    "ticker": "DRRX",
+    "bid_price": 1.27,
+    "quantity": "21.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GNMX",
+    "bid_price": 1.8101,
+    "quantity": "17.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WLB",
+    "bid_price": 1.23,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AVP",
+    "bid_price": 2.4003,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ITUB",
+    "bid_price": 15.32,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IPAS",
+    "bid_price": 0.5103,
+    "quantity": "53.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GOL",
+    "bid_price": 10.54,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "THM",
+    "bid_price": 0.5117,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CTRV",
+    "bid_price": 0.3438,
+    "quantity": "36.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CYCC",
+    "bid_price": 1.7512995,
+    "quantity": "62.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SDR",
+    "bid_price": 1.0845500000000001,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CELH",
+    "bid_price": 5.8904,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UWN",
+    "bid_price": 2.729285,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BLPH",
+    "bid_price": 2.458645,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RNN",
+    "bid_price": 2.4109844999999996,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GLOW",
+    "bid_price": 0.324065,
+    "quantity": "17.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LINU",
+    "bid_price": 1.8178999999999998,
+    "quantity": "100.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GSL",
+    "bid_price": 1.3385734999999999,
+    "quantity": "28.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "AAPL",
+    "bid_price": 174.44,
+    "quantity": "1"
+  },
+  {
+    "type": "buy",
+    "ticker": "BPMX",
+    "bid_price": 0.1278,
+    "quantity": "1000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CTIB",
+    "bid_price": 4.65,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RAND",
+    "bid_price": 2.79,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KEYW",
+    "bid_price": 6.5,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ENZ",
+    "bid_price": 7.84,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TOO",
+    "bid_price": 2.89,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CASI",
+    "bid_price": 3.89,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARDM",
+    "bid_price": 2.228601,
+    "quantity": "37.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UQM",
+    "bid_price": 1.4278250000000001,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GBR",
+    "bid_price": 1.760752,
+    "quantity": "35.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INFI",
+    "bid_price": 2.07955,
+    "quantity": "5.0000"
+  }
+]

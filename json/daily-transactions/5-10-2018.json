@@ -1,0 +1,26 @@
+[
+  {
+    "type": "buy",
+    "ticker": "USLV",
+    "bid_price": 10.3852,
+    "quantity": 3,
+    "strategy": "based-on-jump-oneToFourOvernight-notWatchout-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "IOR",
+    "bid_price": 12.7901,
+    "quantity": 3,
+    "strategy": "based-on-jump-oneToFourOvernight-notWatchout-gtneg20percmax-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "ERA",
+    "bid_price": 12.2415,
+    "quantity": 2,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-first1-tenTo15",
+    "min": 30
+  }
+]

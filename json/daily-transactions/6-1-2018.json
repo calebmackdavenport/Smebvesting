@@ -1,0 +1,148 @@
+[
+  {
+    "type": "sell",
+    "ticker": "OGEN",
+    "bid_price": 1.5,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ECYT",
+    "bid_price": 13.79,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SESN",
+    "bid_price": 2.2814,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CLF",
+    "bid_price": 8.55,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NDRA",
+    "bid_price": 1.89,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FWP",
+    "bid_price": 2.7072900000000004,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MARPS",
+    "bid_price": 4.0371588,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TPIV",
+    "bid_price": 5.25,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CLSD",
+    "bid_price": 10.184905,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "PLX",
+    "bid_price": 0.505512,
+    "quantity": 67,
+    "strategy": "based-on-jump-fourToEightOvernight-notWatchout-first1",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "FRTA",
+    "bid_price": 8.639655000000003,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FSP",
+    "bid_price": 7.950869999999999,
+    "quantity": 4,
+    "strategy": "based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "OPHC",
+    "bid_price": 5.3610587999999995,
+    "quantity": 12,
+    "strategy": "based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "JAGX",
+    "bid_price": 2.14,
+    "quantity": 15,
+    "strategy": "sudden-drops-last5trend-filter20",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "NVLN",
+    "bid_price": 4.52804,
+    "quantity": 7,
+    "strategy": "based-on-jump-gtEightOvernight-notWatchout-ltneg50percmax-first1",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "VKTX",
+    "bid_price": 9.75,
+    "quantity": 3,
+    "strategy": "based-on-jump-fourToEightOvernight-trending53-gt500kvolume-first2-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "OPHC",
+    "bid_price": 5.34066,
+    "quantity": 6,
+    "strategy": "based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "JAGX",
+    "bid_price": 1.95,
+    "quantity": 34,
+    "strategy": "sudden-drops-last10trend-filter20",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "AXON",
+    "bid_price": 2.0593104,
+    "quantity": 16,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-filtered50",
+    "min": 140
+  },
+  {
+    "type": "sell",
+    "ticker": "CATS",
+    "bid_price": 6.26,
+    "quantity": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "WTTR",
+    "bid_price": 13.36,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-tenTo15",
+    "min": 315
+  }
+]

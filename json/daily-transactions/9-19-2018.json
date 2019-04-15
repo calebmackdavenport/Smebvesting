@@ -1,0 +1,40 @@
+[
+  {
+    "type": "sell",
+    "ticker": "PEYUF",
+    "bid_price": 8.145925,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRON",
+    "bid_price": 12.31,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASCMA",
+    "bid_price": 0.8844387000000002,
+    "quantity": "220.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UBX",
+    "bid_price": 17.37,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GPIC",
+    "bid_price": 9.191891450000002,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "RMBL",
+    "bid_price": 8.75,
+    "quantity": 10,
+    "strategy": "sudden-drops-last30trend-filter10-fiveTo10",
+    "min": 360
+  }
+]

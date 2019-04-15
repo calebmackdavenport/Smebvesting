@@ -1,0 +1,328 @@
+[
+  {
+    "type": "buy",
+    "ticker": "TOPS",
+    "bid_price": 2.5132,
+    "quantity": 4,
+    "strategy": "constant-risers-5minute-percUpHighClose-filtered50"
+  },
+  {
+    "type": "buy",
+    "ticker": "ENPH",
+    "bid_price": 5.44,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "GSM",
+    "bid_price": 10.79,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "GSM",
+    "bid_price": 10.79,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "UA",
+    "bid_price": 14.61,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "UA",
+    "bid_price": 14.61,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpCloseOnly-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "UA",
+    "bid_price": 14.61,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "SPXU",
+    "bid_price": 10.83,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "RPAI",
+    "bid_price": 11.38,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpCloseOnly-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "F",
+    "bid_price": 10.865,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered40-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "GSM",
+    "bid_price": 10.79,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpCloseOnly-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "UA",
+    "bid_price": 14.61,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "GSM",
+    "bid_price": 10.79,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "RPAI",
+    "bid_price": 11.38,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpCloseOnly-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "HMNY",
+    "bid_price": 3.5335299999999994,
+    "quantity": 3,
+    "strategy": "constant-risers-5minute-percUpHighClose-filtered40"
+  },
+  {
+    "type": "buy",
+    "ticker": "HMNY",
+    "bid_price": 3.5335299999999994,
+    "quantity": 3,
+    "strategy": "constant-risers-5minute-percUpHighClose"
+  },
+  {
+    "type": "buy",
+    "ticker": "AMLP",
+    "bid_price": 9.41941,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "AU",
+    "bid_price": 9.759749999999999,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClose-filtered40-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "MAT",
+    "bid_price": 13.373359999999998,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "MAT",
+    "bid_price": 13.373359999999998,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "SHLD",
+    "bid_price": 2.55,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "ANTH",
+    "bid_price": 0.3553,
+    "quantity": 16,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "SHOS",
+    "bid_price": 2.7,
+    "quantity": 4,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "TOPS",
+    "bid_price": 2.48,
+    "quantity": 4,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "ANTH",
+    "bid_price": 0.3553,
+    "quantity": 16,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "TOPS",
+    "bid_price": 2.48,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "SHOS",
+    "bid_price": 2.7,
+    "quantity": 4,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "TOPS",
+    "bid_price": 2.48,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "VTL",
+    "bid_price": 6.9395,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "TVIX",
+    "bid_price": 9.465,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClose-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 5.279,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "SAN",
+    "bid_price": 6.535,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClose-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "ENPH",
+    "bid_price": 5.36,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "AMLP",
+    "bid_price": 9.4293199,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClose-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "MBII",
+    "bid_price": 2.3044997999999994,
+    "quantity": 5,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "MBII",
+    "bid_price": 2.3044997999999994,
+    "quantity": 5,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints"
+  },
+  {
+    "type": "buy",
+    "ticker": "AAU",
+    "bid_price": 0.84,
+    "quantity": 4,
+    "strategy": "up-streak-lt$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "UTI",
+    "bid_price": 2.98,
+    "quantity": 1,
+    "strategy": "up-streak-lt$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "FRED",
+    "bid_price": 2.7554999999999996,
+    "quantity": 1,
+    "strategy": "up-streak-lt$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "SSC",
+    "bid_price": 2.41,
+    "quantity": 1,
+    "strategy": "up-streak-lt$3-upstreak-4"
+  },
+  {
+    "type": "buy",
+    "ticker": "NSTG",
+    "bid_price": 6.915,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "SAN",
+    "bid_price": 6.53653,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered40-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "ENPH",
+    "bid_price": 5.352847499999999,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "ASM",
+    "bid_price": 1.3617749999999993,
+    "quantity": 2,
+    "strategy": "up-streak-lt$3-upstreak-4"
+  },
+  {
+    "type": "sell",
+    "ticker": "HTGM",
+    "bid_price": 3.83298,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "ZN",
+    "bid_price": 4.657170000000001,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "BDSI",
+    "bid_price": 2.0937,
+    "quantity": 1
+  }
+]

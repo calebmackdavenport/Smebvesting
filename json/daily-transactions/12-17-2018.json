@@ -1,0 +1,41 @@
+[
+  {
+    "type": "sell",
+    "ticker": "LEVB",
+    "bid_price": 3.288458250000001,
+    "quantity": 47
+  },
+  {
+    "type": "sell",
+    "ticker": "SLP",
+    "bid_price": 18.7,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "PYX",
+    "bid_price": 12.87,
+    "quantity": 9
+  },
+  {
+    "type": "buy",
+    "ticker": "PHII",
+    "bid_price": 3.218,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "ZDGE",
+    "bid_price": 2.246,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "PLXP",
+    "bid_price": 2.796,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "type": "buy",
+    "ticker": "PYX",
+    "bid_price": 13.95,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "PYX",
+    "bid_price": 14.594,
+    "strategy": "based-on-jump-down5overnight-trending35257-shouldWatchout-first3-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "KOLD",
+    "bid_price": 14.66,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-tenTo15",
+    "min": 80
+  },
+  {
+    "type": "buy",
+    "ticker": "SLP",
+    "bid_price": 19.656,
+    "strategy": "low-float-high-volume-floatPoints-trendgt5-shouldWatchout-fifteenTo20",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "DFFN",
+    "bid_price": 2.802,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  }
+]

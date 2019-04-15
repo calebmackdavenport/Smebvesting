@@ -1,0 +1,150 @@
+[
+  {
+    "type": "sell",
+    "ticker": "LEJU",
+    "bid_price": 1.4373,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IZEA",
+    "bid_price": 1.53,
+    "quantity": "17.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ITUS",
+    "bid_price": 3.65,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BIOC",
+    "bid_price": 0.2042,
+    "quantity": "276.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TIK",
+    "bid_price": 2.901,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TXMD",
+    "bid_price": 6.01,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TCCO",
+    "bid_price": 4.6,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "APPS",
+    "bid_price": 1.8081900000000002,
+    "quantity": "48.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "MARPS",
+    "bid_price": 3.9,
+    "quantity": 8,
+    "strategy": "based-on-jump-fourToEightOvernight-notWatchout-first1",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "TPIV",
+    "bid_price": 5.55212,
+    "quantity": 6,
+    "strategy": "based-on-jump-fourToEightOvernight-notWatchout-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "FRTA",
+    "bid_price": 8.65,
+    "quantity": 7,
+    "strategy": "based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "CLSD",
+    "bid_price": 11.29,
+    "quantity": 3,
+    "strategy": "based-on-jump-down3overnight-trending607-first1-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "FWP",
+    "bid_price": 2.6802,
+    "quantity": 25,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "TPIV",
+    "bid_price": 5.87,
+    "quantity": 2,
+    "strategy": "based-on-jump-fourToEightOvernight-trending53-gt500kvolume-first2-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "CLF",
+    "bid_price": 8.682329999999999,
+    "quantity": 1,
+    "strategy": "based-on-jump-fourToEightOvernight-trending53-gt500kvolume-first2-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "FRTA",
+    "bid_price": 8.737440000000001,
+    "quantity": 3,
+    "strategy": "based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "OGEN",
+    "bid_price": 1.5812246,
+    "quantity": 7
+  },
+  {
+    "type": "buy",
+    "ticker": "NDRA",
+    "bid_price": 2.27454,
+    "quantity": 14,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend15to25",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "SESN",
+    "bid_price": 2.195,
+    "quantity": 15,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-filtered50",
+    "min": 140
+  },
+  {
+    "type": "sell",
+    "ticker": "OGEN",
+    "bid_price": 1.6382,
+    "quantity": 3
+  },
+  {
+    "type": "buy",
+    "ticker": "ECYT",
+    "bid_price": 13.567079999999999,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-tenTo15",
+    "min": 315
+  }
+]

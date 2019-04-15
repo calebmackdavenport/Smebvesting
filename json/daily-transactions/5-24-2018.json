@@ -1,0 +1,52 @@
+[
+  {
+    "type": "sell",
+    "ticker": "MFD",
+    "bid_price": 11.8,
+    "quantity": "27.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "AXAS",
+    "bid_price": 2.8418,
+    "quantity": 31,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "NEXT",
+    "bid_price": 5.63124,
+    "quantity": 15,
+    "strategy": "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "WMLP",
+    "bid_price": 3.03,
+    "quantity": 29,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trenddowngt10",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "TRXC",
+    "bid_price": 3.028930000000001,
+    "quantity": 26
+  },
+  {
+    "type": "buy",
+    "ticker": "CHCI",
+    "bid_price": 4.62,
+    "quantity": 19,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered40",
+    "min": 250
+  },
+  {
+    "type": "sell",
+    "ticker": "TRXC",
+    "bid_price": 3.1935024500000004,
+    "quantity": 13
+  }
+]

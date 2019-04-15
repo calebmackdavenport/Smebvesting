@@ -1,0 +1,194 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SURF",
+    "bid_price": 4.5954999999999995,
+    "strategy": "low-float-high-volume-volToAvgPoints-trenddowngt10-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "ANFI",
+    "bid_price": 0.3701,
+    "quantity": 36
+  },
+  {
+    "type": "sell",
+    "ticker": "VVPR",
+    "bid_price": 0.8079750000000002,
+    "quantity": 96
+  },
+  {
+    "type": "sell",
+    "ticker": "CSBR",
+    "bid_price": 7.217375000000003,
+    "quantity": 9
+  },
+  {
+    "type": "buy",
+    "ticker": "CIVI",
+    "bid_price": 17.56,
+    "strategy": "up-streak-3to5days-gt3overnight-fifteenTo20",
+    "min": 45
+  },
+  {
+    "type": "sell",
+    "ticker": "CYTX",
+    "bid_price": 0.3,
+    "quantity": 42
+  },
+  {
+    "type": "sell",
+    "ticker": "ACRS",
+    "bid_price": 6.8665650000000005,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "ALRN",
+    "bid_price": 0.9741249000000001,
+    "quantity": 13
+  },
+  {
+    "type": "buy",
+    "ticker": "IMTE",
+    "bid_price": 4.97,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "RSLS",
+    "bid_price": 0.39622,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "FTSI",
+    "bid_price": 7.17,
+    "strategy": "low-float-high-volume-volToAvgPoints-trenddowngt10-notWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "NCS",
+    "bid_price": 8.78,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "FTSV",
+    "bid_price": 17.895999999999997,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddowngt10-notWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "OCX",
+    "bid_price": 1.445,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "FRAN",
+    "bid_price": 0.73524,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "CARV",
+    "bid_price": 3.7699999999999996,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "sell",
+    "ticker": "VVPR",
+    "bid_price": 0.8138500000000006,
+    "quantity": 96
+  },
+  {
+    "type": "buy",
+    "ticker": "ARVN",
+    "bid_price": 16.728,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend10to15-fifteenTo20",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "IPWR",
+    "bid_price": 0.24968,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "PRAN",
+    "bid_price": 1.39726,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "TBIO",
+    "bid_price": 7.83,
+    "strategy": "sudden-drops-last10trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "RCII",
+    "bid_price": 14.75816,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend5to10-notWatchout-tenTo15",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 0.69328,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "CTRV",
+    "bid_price": 0.3588,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 328
+  },
+  {
+    "type": "sell",
+    "ticker": "SFIX",
+    "bid_price": 18.680655,
+    "quantity": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "ICHR",
+    "bid_price": 15.668,
+    "strategy": "sudden-drops-last10trend-first1-fifteenTo20",
+    "min": 360
+  },
+  {
+    "type": "sell",
+    "ticker": "NFEC",
+    "bid_price": 8.38,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "ACHN",
+    "bid_price": 1.6191900000000001,
+    "quantity": 163
+  },
+  {
+    "type": "sell",
+    "ticker": "AETI",
+    "bid_price": 0.7978991000000003,
+    "quantity": 11
+  }
+]

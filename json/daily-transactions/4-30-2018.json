@@ -1,0 +1,160 @@
+[
+  {
+    "type": "sell",
+    "ticker": "NVIV",
+    "bid_price": 7.38,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IPDN",
+    "bid_price": 2.78,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FCRE",
+    "bid_price": 1.1285,
+    "quantity": "55.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHKE",
+    "bid_price": 0.74,
+    "quantity": "45.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AQMS",
+    "bid_price": 3.4388577000000002,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CBL",
+    "bid_price": 4.2321,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHEK",
+    "bid_price": 8.13782905,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CCM",
+    "bid_price": 4.04807495,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MOC",
+    "bid_price": 2.88,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ACST",
+    "bid_price": 0.765,
+    "quantity": "37.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VTL",
+    "bid_price": 5.6,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BCOV",
+    "bid_price": 9.1,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CLUB",
+    "bid_price": 9.35,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HPR",
+    "bid_price": 6.773220000000001,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "S",
+    "bid_price": 5.761033200000001,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GNPX",
+    "bid_price": 17.991,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UAVS",
+    "bid_price": 2.4575400000000003,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FIT",
+    "bid_price": 5.63,
+    "quantity": 6,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "NEXT",
+    "bid_price": 6.78,
+    "quantity": 14,
+    "strategy": "sudden-drops-last5trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "KONE",
+    "bid_price": 6.350399999999994,
+    "quantity": 14,
+    "strategy": "sudden-drops-last5trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "AQB",
+    "bid_price": 3.0409545999999996,
+    "quantity": 62,
+    "strategy": "sudden-drops-last10trend",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "ICD",
+    "bid_price": 4.61,
+    "quantity": 41,
+    "strategy": "dynamo-3000-top50tso-twoweekvolumetoavg",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SSKN",
+    "bid_price": 1.2999,
+    "quantity": 146,
+    "strategy": "dynamo-3000-top50tso-twoweekvolumetoavg",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ATOS",
+    "bid_price": 4.42442,
+    "quantity": 42,
+    "strategy": "dynamo-3000-top50tso-twoweekvolumetoavg",
+    "min": 100
+  }
+]

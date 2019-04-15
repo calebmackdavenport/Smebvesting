@@ -1,0 +1,207 @@
+[
+  {
+    "pmName": "TWgoodWatchouts",
+    "weightedTrend": 15.41,
+    "avgTrend": 15.41
+  },
+  {
+    "pmName": "TWmajorJumps",
+    "weightedTrend": 15.41,
+    "avgTrend": 15.41
+  },
+  {
+    "pmName": "TWgoodHighVol",
+    "weightedTrend": 7.586666666666667,
+    "avgTrend": 7.586666666666667
+  },
+  {
+    "pmName": "myTickerWatchersInitial",
+    "weightedTrend": 5.94,
+    "avgTrend": 5.94
+  },
+  {
+    "pmName": "myLaters",
+    "weightedTrend": 5.94,
+    "avgTrend": 5.94
+  },
+  {
+    "pmName": "TWminorJumps",
+    "weightedTrend": 5.001739130434783,
+    "avgTrend": 5.001739130434783
+  },
+  {
+    "pmName": "myTickerWatchers",
+    "weightedTrend": 4.485000000000001,
+    "avgTrend": 4.485000000000001
+  },
+  {
+    "pmName": "TWgoodLunch",
+    "weightedTrend": 4.187999999999999,
+    "avgTrend": 4.187999999999999
+  },
+  {
+    "pmName": "TWallNotWatchout",
+    "weightedTrend": 4.150270270270271,
+    "avgTrend": 4.150270270270271
+  },
+  {
+    "pmName": "allTickerWatchers",
+    "weightedTrend": 3.8378,
+    "avgTrend": 3.8378
+  },
+  {
+    "pmName": "myAddOns",
+    "weightedTrend": 3.6119999999999997,
+    "avgTrend": 3.6119999999999997
+  },
+  {
+    "pmName": "TWgoodDinner",
+    "weightedTrend": 3.0206666666666666,
+    "avgTrend": 3.0206666666666666
+  },
+  {
+    "pmName": "TWallWatchout",
+    "weightedTrend": 2.9484615384615385,
+    "avgTrend": 2.9484615384615385
+  },
+  {
+    "pmName": "forPurchase75Perc5Day-yesincludingblanks",
+    "weightedTrend": 4.485000000000001,
+    "avgTrend": 2.6142857142857143
+  },
+  {
+    "pmName": "forPurchase50Perc5Day-yesincludingblanks",
+    "weightedTrend": 4.485000000000001,
+    "avgTrend": 2.6142857142857143
+  },
+  {
+    "pmName": "forPurchase80Perc5Day-yesincludingblanks",
+    "weightedTrend": 4.485000000000001,
+    "avgTrend": 2.6142857142857143
+  },
+  {
+    "pmName": "forPurchase25Perc5Day-yesincludingblanks",
+    "weightedTrend": 4.485000000000001,
+    "avgTrend": 2.6142857142857143
+  },
+  {
+    "pmName": "forPurchase100Perc5Day-yesincludingblanks",
+    "weightedTrend": 4.485000000000001,
+    "avgTrend": 2.6142857142857143
+  },
+  {
+    "pmName": "forPurchase",
+    "weightedTrend": 4.485000000000001,
+    "avgTrend": 2.6142857142857143
+  },
+  {
+    "pmName": "TWgoodNotWatchouts",
+    "weightedTrend": 2.6142857142857143,
+    "avgTrend": 2.6142857142857143
+  },
+  {
+    "pmName": "TWfailedHistorical",
+    "weightedTrend": 1.5405555555555563,
+    "avgTrend": 1.5405555555555563
+  },
+  {
+    "pmName": "AWhighVol",
+    "weightedTrend": 0.986,
+    "avgTrend": 0.986
+  },
+  {
+    "pmName": "AWfailedHistorical",
+    "weightedTrend": 0.9780000000000005,
+    "avgTrend": 0.9780000000000005
+  },
+  {
+    "pmName": "AWallWatchout",
+    "weightedTrend": 0.8171428571428571,
+    "avgTrend": 0.8171428571428571
+  },
+  {
+    "pmName": "AWgoodHighVol",
+    "weightedTrend": 0.27312500000000006,
+    "avgTrend": 0.27312500000000006
+  },
+  {
+    "pmName": "AWgoodDinner",
+    "weightedTrend": 0.16263959390862945,
+    "avgTrend": 0.16263959390862945
+  },
+  {
+    "pmName": "tenAndFifteenLaters",
+    "weightedTrend": 0.12000000000000018,
+    "avgTrend": 0.12000000000000018
+  },
+  {
+    "pmName": "AWgoodWatchouts",
+    "weightedTrend": 0.03600000000000003,
+    "avgTrend": 0.03600000000000003
+  },
+  {
+    "pmName": "allAskWatchers",
+    "weightedTrend": 0.02777397260273973,
+    "avgTrend": 0.02777397260273973
+  },
+  {
+    "pmName": "AWgoodInitial",
+    "weightedTrend": 0.015696202531645567,
+    "avgTrend": 0.015696202531645567
+  },
+  {
+    "pmName": "AWmajorJumps",
+    "weightedTrend": 0.0009811320754716838,
+    "avgTrend": 0.0009811320754716838
+  },
+  {
+    "pmName": "AWgoodNotWatchouts",
+    "weightedTrend": -0.0003921568627451106,
+    "avgTrend": -0.0003921568627451106
+  },
+  {
+    "pmName": "AWmajorJumpsNotWatchouts",
+    "weightedTrend": -0.0003921568627451106,
+    "avgTrend": -0.0003921568627451106
+  },
+  {
+    "pmName": "AWmyAskWatchersInitial",
+    "weightedTrend": -0.0003921568627451152,
+    "avgTrend": -0.0003921568627451152
+  },
+  {
+    "pmName": "AWmyAskWatchers",
+    "weightedTrend": -0.01092674315975288,
+    "avgTrend": -0.01092674315975288
+  },
+  {
+    "pmName": "AWallNotWatchout",
+    "weightedTrend": -0.011978417266187062,
+    "avgTrend": -0.011978417266187062
+  },
+  {
+    "pmName": "AWmyLaters",
+    "weightedTrend": -0.03282608695652176,
+    "avgTrend": -0.03282608695652176
+  },
+  {
+    "pmName": "AWmyAddOns",
+    "weightedTrend": -0.03282608695652176,
+    "avgTrend": -0.03282608695652176
+  },
+  {
+    "pmName": "TWhighVol",
+    "weightedTrend": -0.9199999999999997,
+    "avgTrend": -0.9199999999999997
+  },
+  {
+    "pmName": "AWgoodLunch",
+    "weightedTrend": -1.5731250000000003,
+    "avgTrend": -1.5731250000000003
+  },
+  {
+    "pmName": "AWminorJumps",
+    "weightedTrend": -8.3,
+    "avgTrend": -8.3
+  }
+]

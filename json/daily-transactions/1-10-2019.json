@@ -1,0 +1,299 @@
+[
+  {
+    "type": "buy",
+    "ticker": "PAVM",
+    "bid_price": 0.8961,
+    "strategy": "based-on-jump-down3overnight-trending103-first2",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "SPN",
+    "bid_price": 3.9216666666666664,
+    "strategy": "based-on-jump-down5overnight-trending103-notWatchout-ltneg50percmax",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "PRPO",
+    "bid_price": 0.2773,
+    "strategy": "sudden-drops-last1trend-first1",
+    "min": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "PRPO",
+    "bid_price": 0.277,
+    "strategy": "sudden-drops-last1trend-filter10",
+    "min": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "ARDS",
+    "bid_price": 9.373,
+    "strategy": "sudden-drops-last2trend-filter10-fiveTo10",
+    "min": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "VERI",
+    "bid_price": 5.1,
+    "strategy": "based-on-jump-gtEightOvernight-shouldWatchout-first1-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "IO",
+    "bid_price": 9.022491,
+    "strategy": "sudden-drops-last3trend-filter10-fiveTo10",
+    "min": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "BVSN",
+    "bid_price": 1.3788888888888888,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "CVEO",
+    "bid_price": 1.948888888888889,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddown7to10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "BVSN",
+    "bid_price": 1.4266666666666667,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "PRQR",
+    "bid_price": 14.87,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt10-tenTo15",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "MYND",
+    "bid_price": 1.05,
+    "quantity": 31
+  },
+  {
+    "type": "sell",
+    "ticker": "AHPI",
+    "bid_price": 1.82,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "GBR",
+    "bid_price": 1.74,
+    "quantity": 80
+  },
+  {
+    "type": "sell",
+    "ticker": "WWR",
+    "bid_price": 0.1715,
+    "quantity": 158
+  },
+  {
+    "type": "sell",
+    "ticker": "SAEX",
+    "bid_price": 3.28,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "OESX",
+    "bid_price": 0.815,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "ASLN",
+    "bid_price": 4.3201,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "GNCA",
+    "bid_price": 0.5604,
+    "quantity": 22
+  },
+  {
+    "type": "sell",
+    "ticker": "IPDN",
+    "bid_price": 1.45927,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "BHTG",
+    "bid_price": 2.5548800000000007,
+    "quantity": 22
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 4.4944444444444445,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "PRPO",
+    "bid_price": 0.24556666666666668,
+    "strategy": "sudden-drops-last1trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "PRPO",
+    "bid_price": 0.24558888888888888,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ARTW",
+    "bid_price": 2.033333333333333,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "PED",
+    "bid_price": 1.112503,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "OPHC",
+    "bid_price": 4.12,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "WISA",
+    "bid_price": 3.6666666666666665,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "MTLS",
+    "bid_price": 19.175555555555555,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "MGEN",
+    "bid_price": 3.466666666666667,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "WINR",
+    "bid_price": 3.322053888888889,
+    "strategy": "sudden-drops-last2trend-first1",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "WINR",
+    "bid_price": 3.3199,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "LINK",
+    "bid_price": 2.3381000000000003,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "DAC",
+    "bid_price": 0.9672222222222222,
+    "strategy": "up-streak-7days-ltneg3overnight",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "PRPO",
+    "bid_price": 0.2365,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "WINR",
+    "bid_price": 3.285652777777778,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "OPHC",
+    "bid_price": 3.4477777777777776,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "sell",
+    "ticker": "HAIR",
+    "bid_price": 0.755,
+    "quantity": 34
+  },
+  {
+    "type": "buy",
+    "ticker": "IMTE",
+    "bid_price": 7.4675,
+    "strategy": "sudden-drops-last30trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "PLXP",
+    "bid_price": 4.413333333333333,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trendgt30",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "WINR",
+    "bid_price": 3.0833333333333335,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "LINK",
+    "bid_price": 2.3266666666666667,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "WINR",
+    "bid_price": 3.066666666666667,
+    "strategy": "double-down",
+    "min": 378
+  },
+  {
+    "type": "buy",
+    "ticker": "OMEX",
+    "bid_price": 4.493333333333334,
+    "strategy": "sudden-drops-last3trend-first2",
+    "min": 388
+  }
+]

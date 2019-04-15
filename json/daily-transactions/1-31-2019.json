@@ -1,0 +1,30 @@
+[
+  {
+    "type": "sell",
+    "ticker": "DGSE",
+    "bid_price": 0.45448,
+    "quantity": "1073.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GLG",
+    "bid_price": 1.5488,
+    "quantity": "187.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "PHCF",
+    "bid_price": 5.036842105263158,
+    "quantity": 71,
+    "strategy": "ticker-watchers-under5-notWatchout-later",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "ASLN",
+    "bid_price": 3.51,
+    "quantity": 102,
+    "strategy": "ticker-watchers-under5-notWatchout-later",
+    "min": 5000
+  }
+]

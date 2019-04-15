@@ -1,0 +1,348 @@
+[
+  {
+    "type": "sell",
+    "ticker": "NLST",
+    "bid_price": 0.1733,
+    "quantity": "247.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NBEV",
+    "bid_price": 2.05,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GLOW",
+    "bid_price": 0.193,
+    "quantity": "48.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FFHL",
+    "bid_price": 3.3599,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CPG",
+    "bid_price": 8.925535,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VTVT",
+    "bid_price": 1.9551,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TGC",
+    "bid_price": 0.761,
+    "quantity": "21.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BDR",
+    "bid_price": 1.07,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MBVX",
+    "bid_price": 1.289355,
+    "quantity": "24.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ALRN",
+    "bid_price": 5.14,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EVFM",
+    "bid_price": 7.45,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VTL",
+    "bid_price": 5.875,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SGLB",
+    "bid_price": 1.11,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HLX",
+    "bid_price": 7.94,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TTS",
+    "bid_price": 6.85,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VOC",
+    "bid_price": 5.3966,
+    "quantity": "36.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ESND",
+    "bid_price": 7.25637,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HRG",
+    "bid_price": 11.69,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EVLV",
+    "bid_price": 1.1298690000000002,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "HEAR",
+    "bid_price": 5.12,
+    "quantity": 5,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "CLUB",
+    "bid_price": 9.361,
+    "quantity": 3,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "CHEK",
+    "bid_price": 8.35387485,
+    "quantity": 3,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "BCOV",
+    "bid_price": 8.35,
+    "quantity": 3,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "S",
+    "bid_price": 6.347641299999999,
+    "quantity": 4,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "S",
+    "bid_price": 6.3623,
+    "quantity": 5,
+    "strategy": "based-on-jump-up3overnight-trending35257-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "CHEK",
+    "bid_price": 8.37,
+    "quantity": 4,
+    "strategy": "based-on-jump-up3overnight-trending35257-ltneg50percmax-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "HEAR",
+    "bid_price": 5.1043,
+    "quantity": 6,
+    "strategy": "based-on-jump-up3overnight-trending103-shouldWatchout-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "HEAR",
+    "bid_price": 5.11,
+    "quantity": 6,
+    "strategy": "based-on-jump-up3overnight-trending53-shouldWatchout-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "HEAR",
+    "bid_price": 5.26,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "S",
+    "bid_price": 6.455,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "CLUB",
+    "bid_price": 9.1972,
+    "quantity": 1,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "MFCB",
+    "bid_price": 6.4497,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "CHEK",
+    "bid_price": 8.054025000000001,
+    "quantity": 1,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "HEAR",
+    "bid_price": 5.0999,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "S",
+    "bid_price": 6.605,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "CLUB",
+    "bid_price": 9.225,
+    "quantity": 1,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "CHEK",
+    "bid_price": 7.618607399999999,
+    "quantity": 1,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "MFCB",
+    "bid_price": 6.4497,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-trending35257-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "NVIV",
+    "bid_price": 7.0035,
+    "quantity": 4,
+    "strategy": "sudden-drops-last5trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "CHEK",
+    "bid_price": 7.816708899999999,
+    "quantity": 4,
+    "strategy": "sudden-drops-last5trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "ACRX",
+    "bid_price": 2.5315,
+    "quantity": 13,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-highovernightjumps",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "CHKE",
+    "bid_price": 0.7667,
+    "quantity": 45,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-highovernightjumps",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "UAVS",
+    "bid_price": 2.3378,
+    "quantity": 14,
+    "strategy": "sudden-drops-last10trend",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "FCRE",
+    "bid_price": 1.2512499999999998,
+    "quantity": 27,
+    "strategy": "sudden-drops-last10trend",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "GNPX",
+    "bid_price": 14.8648,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-tenTo15",
+    "min": 198
+  },
+  {
+    "type": "buy",
+    "ticker": "CBL",
+    "bid_price": 4.165,
+    "quantity": 8,
+    "strategy": "constant-risers-10minute-percUpHighClose",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "AQMS",
+    "bid_price": 3.5332,
+    "quantity": 9,
+    "strategy": "constant-risers-10minute-percUpHighClose",
+    "min": 300
+  },
+  {
+    "type": "buy",
+    "ticker": "MARA",
+    "bid_price": 1.9115630499999998,
+    "quantity": 18,
+    "strategy": "constant-risers-10minute-percUpHighClose",
+    "min": 300
+  }
+]

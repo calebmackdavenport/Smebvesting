@@ -1,0 +1,117 @@
+[
+  {
+    "pmName": "forPurchase80Perc5Day-notincludingblanks",
+    "weightedTrend": 11.9,
+    "avgTrend": 11.9
+  },
+  {
+    "pmName": "forPurchase100Perc5Day-notincludingblanks",
+    "weightedTrend": 11.9,
+    "avgTrend": 11.9
+  },
+  {
+    "pmName": "forPurchase100Perc5Day-yesincludingblanks",
+    "weightedTrend": 9.219999999999999,
+    "avgTrend": 9.22
+  },
+  {
+    "pmName": "forPurchase80Perc5Day-yesincludingblanks",
+    "weightedTrend": 9.219999999999999,
+    "avgTrend": 9.22
+  },
+  {
+    "pmName": "TWmuchLater",
+    "weightedTrend": 7.88,
+    "avgTrend": 7.88
+  },
+  {
+    "pmName": "forPurchase50Perc5Day-yesincludingblanks",
+    "weightedTrend": 6.2214285714285715,
+    "avgTrend": 6.221428571428572
+  },
+  {
+    "pmName": "myLaters",
+    "weightedTrend": 6.221428571428572,
+    "avgTrend": 6.221428571428572
+  },
+  {
+    "pmName": "forPurchase75Perc5Day-yesincludingblanks",
+    "weightedTrend": 6.2214285714285715,
+    "avgTrend": 6.221428571428572
+  },
+  {
+    "pmName": "forPurchase75Perc5Day-notincludingblanks",
+    "weightedTrend": 5.558000000000001,
+    "avgTrend": 5.558000000000001
+  },
+  {
+    "pmName": "forPurchase50Perc5Day-notincludingblanks",
+    "weightedTrend": 5.558000000000001,
+    "avgTrend": 5.558000000000001
+  },
+  {
+    "pmName": "TWlater",
+    "weightedTrend": 4.218,
+    "avgTrend": 4.218
+  },
+  {
+    "pmName": "TWfailedHistorical",
+    "weightedTrend": 3.895555555555555,
+    "avgTrend": 3.895555555555555
+  },
+  {
+    "pmName": "TWnotWatchout",
+    "weightedTrend": 3.4117391304347815,
+    "avgTrend": 3.4117391304347815
+  },
+  {
+    "pmName": "TWminorJumps",
+    "weightedTrend": 3.225199999999999,
+    "avgTrend": 3.225199999999999
+  },
+  {
+    "pmName": "TWnotWatchoutNoFailedHistOrMinorJumps",
+    "weightedTrend": 3.173076923076924,
+    "avgTrend": 3.173076923076924
+  },
+  {
+    "pmName": "allTickerWatchers",
+    "weightedTrend": 2.644791666666667,
+    "avgTrend": 2.644791666666667
+  },
+  {
+    "pmName": "forPurchase",
+    "weightedTrend": 2.10125,
+    "avgTrend": 2.1012500000000003
+  },
+  {
+    "pmName": "forPurchase25Perc5Day-yesincludingblanks",
+    "weightedTrend": 2.10125,
+    "avgTrend": 2.1012500000000003
+  },
+  {
+    "pmName": "myTickerWatchers",
+    "weightedTrend": 2.10125,
+    "avgTrend": 2.10125
+  },
+  {
+    "pmName": "TWmorning",
+    "weightedTrend": 0.27333333333333354,
+    "avgTrend": 0.27333333333333354
+  },
+  {
+    "pmName": "forPurchase25Perc5Day-notincludingblanks",
+    "weightedTrend": 0.17500000000000046,
+    "avgTrend": 0.17500000000000057
+  },
+  {
+    "pmName": "TWmajorJumps",
+    "weightedTrend": -12.735,
+    "avgTrend": -12.735
+  },
+  {
+    "pmName": "TWshouldWatchout",
+    "weightedTrend": -14.995,
+    "avgTrend": -14.995
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SOUHY",
+    "bid_price": 12.65,
+    "quantity": 4,
+    "strategy": "based-on-jump-down8overnight-notWatchout-gtneg20percmax-first1-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "ITUS",
+    "bid_price": 3.39,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "CADC",
+    "bid_price": 3.9038999999999944,
+    "quantity": 5,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "CADC",
+    "bid_price": 3.848075,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CMCL",
+    "bid_price": 6.03,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PED",
+    "bid_price": 2.3185,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KFS",
+    "bid_price": 2.6447000000000007,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CSIQ",
+    "bid_price": 14.25,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UBX",
+    "bid_price": 18.920535,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "USO",
+    "bid_price": 14.715,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MJCO",
+    "bid_price": 7.021800000000003,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BPI",
+    "bid_price": 11.624185,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "PDEX",
+    "bid_price": 8.45,
+    "quantity": 7,
+    "strategy": "low-float-high-volume-absVolPoints-trend10to15-notWatchout-fiveTo10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "COTY",
+    "bid_price": 12.15,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "GME",
+    "bid_price": 13.515,
+    "quantity": 1,
+    "strategy": "technical-indicators-day-year-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "WTBDY",
+    "bid_price": 15.3,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderHist-fifteenTo20",
+    "min": 29
+  },
+  {
+    "type": "sell",
+    "ticker": "UAVS",
+    "bid_price": 2.0546,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KFS",
+    "bid_price": 2.648675,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "TIS",
+    "bid_price": 3.74,
+    "quantity": 16,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CVM",
+    "bid_price": 2.785760399999999,
+    "quantity": 7,
+    "strategy": "constant-risers-10minute-percUpHighClose-lowovernightjumps",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "PTX",
+    "bid_price": 1.0434530999999987,
+    "quantity": 9,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-lowestYP",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "IMMP",
+    "bid_price": 2.56,
+    "quantity": 7,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "OBLN",
+    "bid_price": 3.0495,
+    "quantity": 9,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "LIVX",
+    "bid_price": 5.065149999999998,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trend10to15-shouldWatchout",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "CZR",
+    "bid_price": 10.3,
+    "quantity": 5,
+    "strategy": "technical-indicators-5minute-day-topSMAoverUnderHist-tenTo15",
+    "min": 320
+  },
+  {
+    "type": "buy",
+    "ticker": "VKTX",
+    "bid_price": 12.9964,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 320
+  },
+  {
+    "type": "buy",
+    "ticker": "GME",
+    "bid_price": 13.308295,
+    "quantity": 1,
+    "strategy": "technical-indicators-day-year-topSMAoverUnderLastTrade-tenTo15",
+    "min": 320
+  },
+  {
+    "type": "buy",
+    "ticker": "MSON",
+    "bid_price": 18.75,
+    "quantity": 1,
+    "strategy": "sudden-drops-last10trend-first1-fifteenTo20",
+    "min": 360
+  }
+]

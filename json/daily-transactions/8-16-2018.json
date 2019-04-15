@@ -1,0 +1,52 @@
+[
+  {
+    "type": "buy",
+    "ticker": "PRKR",
+    "bid_price": 0.30562280000000003,
+    "quantity": 392,
+    "strategy": "low-float-high-volume-volToAvgPoints-trendup0to1",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "HOLI",
+    "bid_price": 20.91,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SIGM",
+    "bid_price": 0.2001,
+    "quantity": "218.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RYB",
+    "bid_price": 19.8802,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "SPTN",
+    "bid_price": 19.837996800000003,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "INUV",
+    "bid_price": 0.672008,
+    "quantity": 89,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "INUV",
+    "bid_price": 0.668,
+    "quantity": 89,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 221
+  }
+]

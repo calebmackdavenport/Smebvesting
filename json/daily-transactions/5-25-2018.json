@@ -1,0 +1,86 @@
+[
+  {
+    "type": "sell",
+    "ticker": "AXAS",
+    "bid_price": 2.82,
+    "quantity": "31.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHCI",
+    "bid_price": 4.379609100000001,
+    "quantity": "19.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "PFIE",
+    "bid_price": 4.6872,
+    "quantity": 11,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "GSAT",
+    "bid_price": 0.5512964,
+    "quantity": 96,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 5.09,
+    "quantity": 20,
+    "strategy": "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "SDLP",
+    "bid_price": 3.2885,
+    "quantity": 8,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "MTNB",
+    "bid_price": 0.5602320000000001,
+    "quantity": 47,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "MTNB",
+    "bid_price": 0.558,
+    "quantity": 94,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "ADOM",
+    "bid_price": 1.28,
+    "quantity": 82,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "PXS",
+    "bid_price": 1.35,
+    "quantity": 19,
+    "strategy": "dynamo-3000-overall-overall-highestTSO",
+    "min": 260
+  },
+  {
+    "type": "buy",
+    "ticker": "ADOM",
+    "bid_price": 1.5499,
+    "quantity": 17,
+    "strategy": "dynamo-3000-overall-overall-highestTSO",
+    "min": 260
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "buy",
+    "ticker": "ALTY",
+    "bid_price": 15.345838800000001,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "ARLZ",
+    "bid_price": 0.05544,
+    "quantity": 1082,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddowngt10-shouldWatchout",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "OMER",
+    "bid_price": 18.59,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-fifteenTo20",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "RSLS",
+    "bid_price": 0.1895,
+    "quantity": 316,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "RSLS",
+    "bid_price": 0.19859639999999998,
+    "quantity": 302,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "RSLS",
+    "bid_price": 0.1356404,
+    "quantity": 442,
+    "strategy": "sudden-drops-last5trend-filter20",
+    "min": 280
+  }
+]

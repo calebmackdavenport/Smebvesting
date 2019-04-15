@@ -1,0 +1,20 @@
+[
+  {
+    "type": "sell",
+    "ticker": "LINK",
+    "bid_price": 3.3394294500000004,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "LINK",
+    "bid_price": 3.32,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "SDRL",
+    "bid_price": 0.1346,
+    "quantity": 1000
+  }
+]

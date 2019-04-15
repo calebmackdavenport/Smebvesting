@@ -1,0 +1,110 @@
+[
+  {
+    "type": "sell",
+    "ticker": "CFMS",
+    "bid_price": 1.4,
+    "quantity": 15
+  },
+  {
+    "type": "sell",
+    "ticker": "EVOK",
+    "bid_price": 2.07,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "IDRA",
+    "bid_price": 1.945,
+    "quantity": 13
+  },
+  {
+    "type": "sell",
+    "ticker": "RCON",
+    "bid_price": 1.2853,
+    "quantity": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "XELB",
+    "bid_price": 3.3,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "QUIK",
+    "bid_price": 1.745,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "ZN",
+    "bid_price": 4.2956,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "TYME",
+    "bid_price": 3.48,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "GEN",
+    "bid_price": 1.5499,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "RVP",
+    "bid_price": 0.885,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "VSLR",
+    "bid_price": 3.184,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "QHC",
+    "bid_price": 6.11925,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "LITB",
+    "bid_price": 2.422825,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "PLM",
+    "bid_price": 1.1841495,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "MARPS",
+    "bid_price": 3.9402,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "RHE",
+    "bid_price": 0.184274,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "TOO",
+    "bid_price": 2.4377500000000003,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "ICON",
+    "bid_price": 1.6616499999999998,
+    "quantity": 21
+  }
+]

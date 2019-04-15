@@ -1,0 +1,197 @@
+[
+  {
+    "type": "sell",
+    "ticker": "CAPR",
+    "bid_price": 0.99,
+    "quantity": 161
+  },
+  {
+    "type": "buy",
+    "ticker": "GSAT",
+    "bid_price": 0.365014,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "CUR",
+    "bid_price": 0.5595392000000005,
+    "quantity": 41
+  },
+  {
+    "type": "sell",
+    "ticker": "CRR",
+    "bid_price": 5.15,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "PRPO",
+    "bid_price": 0.28487205000000004,
+    "quantity": 142
+  },
+  {
+    "type": "sell",
+    "ticker": "AHPI",
+    "bid_price": 2.066895,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "LTRX",
+    "bid_price": 3.7796,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "RTTR",
+    "bid_price": 1.0673250000000003,
+    "quantity": 26
+  },
+  {
+    "type": "sell",
+    "ticker": "ABEO",
+    "bid_price": 8.865565,
+    "quantity": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "OPHC",
+    "bid_price": 4.702,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 2.928,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "RUBI",
+    "bid_price": 4.09,
+    "strategy": "based-on-jump-gtEightOvernight-trending53-notWatchout-gtneg20percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "HMHC",
+    "bid_price": 9.0249,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered70-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 3.5499,
+    "strategy": "dynamo-3000-overall-overall-lowestYP",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "NIO",
+    "bid_price": 6.9599,
+    "strategy": "constant-risers-5minute-percUpHighClose-filtered60-fiveTo10",
+    "min": 80
+  },
+  {
+    "type": "buy",
+    "ticker": "CFRX",
+    "bid_price": 2.2,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "LENS",
+    "bid_price": 0.87,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "WWR",
+    "bid_price": 0.2686,
+    "strategy": "sudden-drops-notWatchout-prevCloseTrendAbsLT30-last3trend-filter5",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "RNET",
+    "bid_price": 18.1,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trend10to15-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "EMES",
+    "bid_price": 2.748,
+    "strategy": "sudden-drops-shouldWatchout-bothtrendsAbsLT30-last18trend-first2",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "CLRO",
+    "bid_price": 1.712,
+    "strategy": "sudden-drops-shouldWatchout-bothtrendsAbsLT30-last18trend-first2",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "UAMY",
+    "bid_price": 0.6759999999999999,
+    "strategy": "constant-downers-10minute-percDownCloseOnly-filtered80",
+    "min": 242
+  },
+  {
+    "type": "buy",
+    "ticker": "PACB",
+    "bid_price": 7.696000000000001,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-shouldWatchout-fiveTo10",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "NVLN",
+    "bid_price": 1.8062,
+    "strategy": "sudden-drops-volumeGT1000000-last1trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "IPIC",
+    "bid_price": 5.1559800000000005,
+    "strategy": "sudden-drops-tsoAbsLT15-last18trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "SURF",
+    "bid_price": 8.516,
+    "strategy": "sudden-drops-tsoAbsLT15-last18trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "NNBR",
+    "bid_price": 8.79,
+    "strategy": "sudden-drops-volumeGT1000000-last3trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "MDR",
+    "bid_price": 9.89,
+    "strategy": "sudden-drops-volumeGT1000000-last3trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "IPIC",
+    "bid_price": 5.1559800000000005,
+    "strategy": "sudden-drops-shouldWatchout-last18trend-first1-fiveTo10",
+    "min": 280
+  }
+]

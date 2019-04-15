@@ -1,0 +1,257 @@
+[
+  {
+    "type": "sell",
+    "ticker": "LINK",
+    "bid_price": 3.71,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "CODX",
+    "bid_price": 2.4,
+    "quantity": 16
+  },
+  {
+    "type": "sell",
+    "ticker": "GLG",
+    "bid_price": 0.56,
+    "quantity": 158
+  },
+  {
+    "type": "sell",
+    "ticker": "SYPR",
+    "bid_price": 1.16,
+    "quantity": 27
+  },
+  {
+    "type": "sell",
+    "ticker": "AMDA",
+    "bid_price": 0.30953500000000006,
+    "quantity": 117
+  },
+  {
+    "type": "sell",
+    "ticker": "CEI",
+    "bid_price": 0.2029,
+    "quantity": 75
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 0.8241,
+    "quantity": 68
+  },
+  {
+    "type": "buy",
+    "ticker": "PRSS",
+    "bid_price": 1.48,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "NVLN",
+    "bid_price": 1,
+    "quantity": 55
+  },
+  {
+    "type": "sell",
+    "ticker": "CYCC",
+    "bid_price": 1.359382050000001,
+    "quantity": 26
+  },
+  {
+    "type": "sell",
+    "ticker": "CARV",
+    "bid_price": 4.197900000000001,
+    "quantity": 35
+  },
+  {
+    "type": "sell",
+    "ticker": "BIOL",
+    "bid_price": 1.31,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "TOCA",
+    "bid_price": 11.3867,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "CRWS",
+    "bid_price": 5.31,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "BLRX",
+    "bid_price": 0.9,
+    "quantity": 162
+  },
+  {
+    "type": "sell",
+    "ticker": "ABIO",
+    "bid_price": 0.5939085000000005,
+    "quantity": 29
+  },
+  {
+    "type": "sell",
+    "ticker": "AMCN",
+    "bid_price": 0.4291600500000002,
+    "quantity": 47
+  },
+  {
+    "type": "sell",
+    "ticker": "CCRN",
+    "bid_price": 8.4915,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "TGC",
+    "bid_price": 1.084902000000001,
+    "quantity": 31
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 3.94,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "PYDS",
+    "bid_price": 1.642,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "PLAG",
+    "bid_price": 6.2457,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-shouldWatchout-first1-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 2.0699,
+    "strategy": "dynamo-3000-overall-overall-lowestYP",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 0.23684,
+    "strategy": "dynamo-3000-overall-overall-lowestYP",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "PLAG",
+    "bid_price": 6.8399,
+    "strategy": "constant-risers-5minute-percUpHighClose-filtered60-fiveTo10",
+    "min": 80
+  },
+  {
+    "type": "buy",
+    "ticker": "SOFO",
+    "bid_price": 1.69,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "LWAY",
+    "bid_price": 2.02,
+    "strategy": "sudden-drops-notWatchout-prevCloseTrendAbsLT30-last3trend-filter5",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "IGLD",
+    "bid_price": 2.22,
+    "strategy": "sudden-drops-notWatchout-prevCloseTrendAbsLT30-last3trend-filter5",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "TGA",
+    "bid_price": 2.09,
+    "strategy": "sudden-drops-bothtrendsAbsLT20-last30trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "EVOL",
+    "bid_price": 1.688,
+    "strategy": "sudden-drops-bothtrendsAbsLT20-last30trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "DXYN",
+    "bid_price": 1.69,
+    "strategy": "sudden-drops-bothtrendsAbsLT20-last30trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "TGA",
+    "bid_price": 2.146,
+    "strategy": "sudden-drops-shouldWatchout-bothtrendsAbsLT30-last18trend-first2",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "LENS",
+    "bid_price": 1.1280000000000001,
+    "strategy": "constant-downers-10minute-percDownCloseOnly-filtered80",
+    "min": 242
+  },
+  {
+    "type": "buy",
+    "ticker": "YGYI",
+    "bid_price": 8.586,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-shouldWatchout-fiveTo10",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "OHGI",
+    "bid_price": 0.27,
+    "strategy": "sudden-drops-volumeGT1000000-last1trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "PLAG",
+    "bid_price": 5.69,
+    "strategy": "sudden-drops-tsoAbsLT15-last18trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "XONE",
+    "bid_price": 7.278,
+    "strategy": "sudden-drops-tsoAbsLT15-last18trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "IMGN",
+    "bid_price": 6.355,
+    "strategy": "sudden-drops-volumeGT1000000-last3trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "PLAG",
+    "bid_price": 5.767799999999999,
+    "strategy": "sudden-drops-volumeGT1000000-last3trend-first2-fiveTo10",
+    "min": 280
+  }
+]

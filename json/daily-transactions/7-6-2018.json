@@ -1,0 +1,14 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SDRL",
+    "bid_price": 21.435,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "SDRL",
+    "bid_price": 21.4,
+    "quantity": 1
+  }
+]

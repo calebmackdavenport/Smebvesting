@@ -1,0 +1,140 @@
+[
+  {
+    "type": "sell",
+    "ticker": "PULM",
+    "bid_price": 0.61,
+    "quantity": "107.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GOL",
+    "bid_price": 6.55,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PLM",
+    "bid_price": 0.971,
+    "quantity": "74.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KOOL",
+    "bid_price": 0.5507245000000001,
+    "quantity": "121.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ATHX",
+    "bid_price": 2.47,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JVA",
+    "bid_price": 5.3973,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AETI",
+    "bid_price": 1.4210652000000004,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "SITO",
+    "bid_price": 2.82,
+    "quantity": 4,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "UPL",
+    "bid_price": 1.995,
+    "quantity": 7,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "SITO",
+    "bid_price": 2.8557,
+    "quantity": 9,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt10-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "SNES",
+    "bid_price": 1.57815,
+    "quantity": 35,
+    "strategy": "low-float-high-volume-absVolPoints-trenddown3to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "HTBX",
+    "bid_price": 2.4600101999999997,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "HTBX",
+    "bid_price": 2.42,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to5",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "SITO",
+    "bid_price": 2.9,
+    "quantity": 9,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddowngt10-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "XCRA",
+    "bid_price": 13.88772,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-floatPoints-trenddown3to5-tenTo15",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "GNMX",
+    "bid_price": 1.33532,
+    "quantity": 62,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "JCP",
+    "bid_price": 3.1446768,
+    "quantity": 8,
+    "strategy": "low-float-high-volume-absVolPoints-trend5to10-shouldWatchout",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "MYOS",
+    "bid_price": 1.4877411999999999,
+    "quantity": 18,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "TPIV",
+    "bid_price": 7.8064,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-absVolPoints-trenddowngt10-fiveTo10",
+    "min": 276
+  }
+]

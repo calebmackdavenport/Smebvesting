@@ -1,0 +1,7 @@
+node_modules
+!.gitkeep
+.DS_Store
+output.txt
+config.js
+./config.js
+config

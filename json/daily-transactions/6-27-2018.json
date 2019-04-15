@@ -1,0 +1,58 @@
+[
+  {
+    "type": "sell",
+    "ticker": "ABIL",
+    "bid_price": 10.355,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TRXC",
+    "bid_price": 5.53,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RENN",
+    "bid_price": 2.6,
+    "quantity": "39.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ICLK",
+    "bid_price": 5.31,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 1.649175,
+    "quantity": "62.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CMCL",
+    "bid_price": 8.25,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASLN",
+    "bid_price": 8.125065000000005,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LBY",
+    "bid_price": 8.271690000000007,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 7.2927,
+    "quantity": 34,
+    "strategy": "based-on-jump-oneToFourOvernight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 16
+  }
+]

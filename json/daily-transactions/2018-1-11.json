@@ -1,0 +1,90 @@
+[
+  {
+    "type": "buy",
+    "ticker": "OHGI",
+    "bid_price": 1.48,
+    "quantity": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "WAC",
+    "bid_price": 0.73,
+    "quantity": 8
+  },
+  {
+    "type": "buy",
+    "ticker": "IMTE",
+    "bid_price": 6.25,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "SGY+",
+    "bid_price": 6.23,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "KODK+",
+    "bid_price": 1.07,
+    "quantity": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "WAC",
+    "bid_price": 0.71,
+    "quantity": 9
+  },
+  {
+    "type": "buy",
+    "ticker": "OHGI",
+    "bid_price": 1.49,
+    "quantity": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "IMTE",
+    "bid_price": 6.25,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "SGY+",
+    "bid_price": 6.22,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "KODK+",
+    "bid_price": 0.91,
+    "quantity": 7
+  },
+  {
+    "type": "buy",
+    "ticker": "AVLNF",
+    "bid_price": 0.11,
+    "quantity": 17,
+    "strategy": ""
+  },
+  {
+    "type": "buy",
+    "ticker": "AVLNF",
+    "bid_price": 0.11,
+    "quantity": 18,
+    "strategy": ""
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 2.07,
+    "quantity": 1,
+    "strategy": ""
+  },
+  {
+    "type": "buy",
+    "ticker": "EMMS",
+    "bid_price": 3.15,
+    "quantity": 180,
+    "strategy": ""
+  }
+]

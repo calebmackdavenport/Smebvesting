@@ -1,0 +1,74 @@
+[
+  {
+    "type": "sell",
+    "ticker": "ONTX",
+    "bid_price": 0.6251,
+    "quantity": "124.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHK",
+    "bid_price": 4.6899,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PEIX",
+    "bid_price": 3.1,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMMA",
+    "bid_price": 0.3536,
+    "quantity": "168.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FGP",
+    "bid_price": 3.59,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MDXG",
+    "bid_price": 6.2812,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OPHT",
+    "bid_price": 3.1659,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SB",
+    "bid_price": 3.824255000000001,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "AETI",
+    "bid_price": 1.59,
+    "quantity": 50,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trendup1to3",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "AXON",
+    "bid_price": 4.77954,
+    "quantity": 16,
+    "strategy": "low-float-high-volume-absVolPoints",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "UONE",
+    "bid_price": 2.65,
+    "quantity": 30,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints",
+    "min": 150
+  }
+]

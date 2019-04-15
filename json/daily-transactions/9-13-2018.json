@@ -1,0 +1,48 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SOXS",
+    "bid_price": 9.75,
+    "quantity": 15,
+    "strategy": "based-on-jump-down3overnight-trending103-notWatchout-ltneg50percmax-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "AGRX",
+    "bid_price": 0.5481,
+    "quantity": "175.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "DVCR",
+    "bid_price": 5.9,
+    "quantity": 25,
+    "strategy": "low-float-high-volume-volToAvgPoints-trend10to15-notWatchout-fiveTo10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "VNCE",
+    "bid_price": 17.5,
+    "quantity": 5,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "DHXM",
+    "bid_price": 0.9547499999999994,
+    "quantity": 157,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddowngt30-notWatchout",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "DHXM",
+    "bid_price": 0.95,
+    "quantity": 105,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt20-notWatchout",
+    "min": 210
+  }
+]

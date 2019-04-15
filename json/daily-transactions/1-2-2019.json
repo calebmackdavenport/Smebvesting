@@ -1,0 +1,32 @@
+[
+  {
+    "type": "sell",
+    "ticker": "MITK",
+    "bid_price": 10.89,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "EVIX",
+    "bid_price": 12.5,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "BRID",
+    "bid_price": 19,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "BBCP",
+    "bid_price": 8,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "NCNA",
+    "bid_price": 14.669305000000016,
+    "quantity": 3
+  }
+]

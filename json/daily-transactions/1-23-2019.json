@@ -1,0 +1,166 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SELB",
+    "bid_price": 1.5,
+    "quantity": 40,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "ABIL",
+    "bid_price": 2.13624,
+    "quantity": 28,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "RNN",
+    "bid_price": 0.595,
+    "quantity": 100,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "OTLK",
+    "bid_price": 0.6547200000000001,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "HSGX",
+    "bid_price": 0.1426,
+    "quantity": 216
+  },
+  {
+    "type": "sell",
+    "ticker": "NURO",
+    "bid_price": 1.25476,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "WWR",
+    "bid_price": 0.151,
+    "quantity": 32
+  },
+  {
+    "type": "sell",
+    "ticker": "TWMC",
+    "bid_price": 0.61008,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "ACB",
+    "bid_price": 6.25,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "HJLI",
+    "bid_price": 1.5386,
+    "quantity": 220
+  },
+  {
+    "type": "sell",
+    "ticker": "EGI",
+    "bid_price": 0.39350159999999995,
+    "quantity": 55
+  },
+  {
+    "type": "sell",
+    "ticker": "BMRA",
+    "bid_price": 2.41,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "FHN",
+    "bid_price": 14.52168,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "YVR",
+    "bid_price": 2.1791,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "ALRN",
+    "bid_price": 1.08,
+    "quantity": 56
+  },
+  {
+    "type": "sell",
+    "ticker": "TYME",
+    "bid_price": 2.12,
+    "quantity": 28
+  },
+  {
+    "type": "buy",
+    "ticker": "CTEK",
+    "bid_price": 4.170315789473684,
+    "quantity": 14,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "SCKT",
+    "bid_price": 1.9380608,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "SB",
+    "bid_price": 1.8748799999999999,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CTRV",
+    "bid_price": 0.32,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "EPE",
+    "bid_price": 0.7001,
+    "quantity": 135
+  },
+  {
+    "type": "sell",
+    "ticker": "CODX",
+    "bid_price": 1.00192,
+    "quantity": 255
+  },
+  {
+    "type": "buy",
+    "ticker": "MPVD",
+    "bid_price": 1.12,
+    "quantity": 13,
+    "strategy": "constant-downers-5minute-percDownLowClose-lowovernightjumps",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "MPVD",
+    "bid_price": 1.12,
+    "quantity": 13,
+    "strategy": "constant-downers-5minute-percDownCloseOnly-lowovernightjumps",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "EARS",
+    "bid_price": 0.4458884210526316,
+    "quantity": 134,
+    "strategy": "best-st-sentiment-under5-highest-bullBearScore",
+    "min": 300
+  }
+]

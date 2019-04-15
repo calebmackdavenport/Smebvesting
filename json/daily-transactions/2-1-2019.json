@@ -1,0 +1,58 @@
+[
+  {
+    "type": "sell",
+    "ticker": "GERN",
+    "bid_price": 1.19,
+    "quantity": "100.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RLM",
+    "bid_price": 2.46,
+    "quantity": "28.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DTSS",
+    "bid_price": 3.4,
+    "quantity": "24.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FLKS",
+    "bid_price": 0.309582,
+    "quantity": "300.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "WISA",
+    "bid_price": 3.0734399999999997,
+    "quantity": 68,
+    "strategy": "ticker-watchers-under5-notWatchout-lunch",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "DVCR",
+    "bid_price": 3.37,
+    "quantity": 1,
+    "strategy": "manual-buy",
+    "min": 3000
+  },
+  {
+    "type": "buy",
+    "ticker": "MLSS",
+    "bid_price": 0.354,
+    "quantity": 300,
+    "strategy": "manual-buy",
+    "min": 3000
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 2.93,
+    "quantity": 70,
+    "strategy": "manual-buy",
+    "min": 3000
+  }
+]

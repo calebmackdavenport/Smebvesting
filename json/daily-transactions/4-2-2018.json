@@ -1,0 +1,198 @@
+[
+  {
+    "type": "buy",
+    "ticker": "QHC",
+    "bid_price": 8.43,
+    "quantity": 1,
+    "strategy": "week-swings-fiveTo10",
+    "min": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "IFMK",
+    "bid_price": 8.15,
+    "quantity": 1,
+    "strategy": "week-swings-fiveTo10",
+    "min": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "EVK",
+    "bid_price": 3.8812,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GGB",
+    "bid_price": 4.74,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JNP",
+    "bid_price": 10.25,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RAS",
+    "bid_price": 0.20379599999999998,
+    "quantity": "35.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PETX",
+    "bid_price": 4.45,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ONCS",
+    "bid_price": 1.87,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CGNT",
+    "bid_price": 3.85228,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TORC",
+    "bid_price": 9.54045,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "TORC",
+    "bid_price": 9.569099999999999,
+    "quantity": 1,
+    "strategy": "week-swings-fiveTo10",
+    "min": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "NVTR",
+    "bid_price": 12.927964,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.06064089999999994,
+    "quantity": 296,
+    "strategy": "cheapest-picks-chp1",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "SDRL",
+    "bid_price": 0.218,
+    "quantity": 27,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-filtered40",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "AKER",
+    "bid_price": 0.8801,
+    "quantity": 6,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-filtered40",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "OBE",
+    "bid_price": 1.0987,
+    "quantity": 5,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-filtered40",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "ESNC",
+    "bid_price": 0.3899,
+    "quantity": 46,
+    "strategy": "ups-then-downs-shiftedHist",
+    "min": 50
+  },
+  {
+    "type": "buy",
+    "ticker": "CRMD",
+    "bid_price": 0.1876,
+    "quantity": 31,
+    "strategy": "cheapest-picks-chp3",
+    "min": 65
+  },
+  {
+    "type": "sell",
+    "ticker": "EVK",
+    "bid_price": 3.8922,
+    "quantity": 3
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.060782399999999945,
+    "quantity": 98,
+    "strategy": "cheapest-picks-chp3",
+    "min": 65
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.056,
+    "quantity": 107,
+    "strategy": "cheapest-picks-chp3",
+    "min": 175
+  },
+  {
+    "type": "buy",
+    "ticker": "RAND",
+    "bid_price": 2.69,
+    "quantity": 3,
+    "strategy": "up-streak-lt$3-upstreak-4",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "SXE",
+    "bid_price": 1.6165403999999994,
+    "quantity": 5,
+    "strategy": "up-streak-lt$3-upstreak-4",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "CALI",
+    "bid_price": 2.77,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers",
+    "min": 380
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 0.85,
+    "quantity": 4,
+    "strategy": "fizbiz-under5TopLosers",
+    "min": 380
+  },
+  {
+    "type": "buy",
+    "ticker": "IZEA",
+    "bid_price": 3.02,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers",
+    "min": 380
+  },
+  {
+    "type": "buy",
+    "ticker": "RSLS",
+    "bid_price": 0.6906899999999999,
+    "quantity": 5,
+    "strategy": "fizbiz-under5TopLosers",
+    "min": 380
+  }
+]

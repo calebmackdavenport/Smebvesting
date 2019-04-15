@@ -1,0 +1,114 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SPTN",
+    "bid_price": 19.72,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TAOP",
+    "bid_price": 1.22,
+    "quantity": "31.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ISDR",
+    "bid_price": 16,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "EVOL",
+    "bid_price": 2.344125000000001,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EVOL",
+    "bid_price": 2.344125000000001,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INUV",
+    "bid_price": 0.6285062000000003,
+    "quantity": "178.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "VCEL",
+    "bid_price": 10.6212,
+    "quantity": 5,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "ZOES",
+    "bid_price": 12.785,
+    "quantity": 4,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "ZOES",
+    "bid_price": 12.795,
+    "quantity": 4,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-gt100kvolume-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "CHAU",
+    "bid_price": 17.0799,
+    "quantity": 3,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-first1-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "EVOL",
+    "bid_price": 2.33,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "TIK",
+    "bid_price": 4,
+    "quantity": 15,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade",
+    "min": 114
+  },
+  {
+    "type": "buy",
+    "ticker": "AMEH",
+    "bid_price": 18.5,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatPoints-trenddown7to10-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "AMEH",
+    "bid_price": 18.5,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "sell",
+    "ticker": "EVOL",
+    "bid_price": 2.4438750000000007,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EVOL",
+    "bid_price": 2.35,
+    "quantity": "18.0000"
+  }
+]

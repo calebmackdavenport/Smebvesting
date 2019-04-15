@@ -1,0 +1,226 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SITO",
+    "bid_price": 1.8,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "AQMS",
+    "bid_price": 2.57,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "MRNS",
+    "bid_price": 10.3,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 17.039,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "GE",
+    "bid_price": 12.66,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "AGRX",
+    "bid_price": 0.3601,
+    "quantity": 55
+  },
+  {
+    "type": "sell",
+    "ticker": "FENG",
+    "bid_price": 4.203120000000002,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "AGTC",
+    "bid_price": 6.949560000000001,
+    "quantity": 16
+  },
+  {
+    "type": "sell",
+    "ticker": "DGAZ",
+    "bid_price": 17.49125,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CCJ",
+    "bid_price": 11.5,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "SANW",
+    "bid_price": 2.5461750000000003,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "COT",
+    "bid_price": 15.952020000000001,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "BGCP",
+    "bid_price": 11.8690625,
+    "quantity": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "MLNT",
+    "bid_price": 4.106,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "GLG",
+    "bid_price": 0.756,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "PLX",
+    "bid_price": 0.76,
+    "strategy": "based-on-jump-gtEightOvernight-trending35257-notWatchout-gtneg20percmax",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "PLX",
+    "bid_price": 0.76,
+    "strategy": "based-on-jump-gtEightOvernight-trending35257-notWatchout-gtneg20percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "PLX",
+    "bid_price": 0.7555,
+    "strategy": "based-on-jump-gtEightOvernight-trending35257-notWatchout-gtneg20percmax-first1",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "PLX",
+    "bid_price": 0.76,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-notWatchout-gtneg20percmax",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "PLX",
+    "bid_price": 0.76,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-notWatchout-gtneg20percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "PLX",
+    "bid_price": 0.76,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-notWatchout-gtneg20percmax-first1",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "IGC",
+    "bid_price": 7.2696,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-shouldWatchout-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "IGC",
+    "bid_price": 7.31,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-shouldWatchout-first3-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "IGC",
+    "bid_price": 7.34,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-shouldWatchout-first2-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "IGC",
+    "bid_price": 7.52472,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-shouldWatchout-first1-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 0.2153,
+    "strategy": "dynamo-3000-overall-overall-lowestYP",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 0.1557,
+    "strategy": "dynamo-3000-overall-overall-lowestYP",
+    "min": 40
+  },
+  {
+    "type": "sell",
+    "ticker": "SKYS",
+    "bid_price": 0.6231,
+    "quantity": 62
+  },
+  {
+    "type": "buy",
+    "ticker": "CBMG",
+    "bid_price": 19.939999999999998,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trend10to15-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "APRI",
+    "bid_price": 0.37,
+    "strategy": "dynamo-3000-top50tso-trendingUp3010-highestsharesToCap",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "EARS",
+    "bid_price": 0.4978,
+    "strategy": "dynamo-3000-top50tso-trendingUp3010-highestsharesToCap",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "CCM",
+    "bid_price": 3.6,
+    "strategy": "constant-downers-10minute-percDownCloseOnly-filtered80",
+    "min": 242
+  },
+  {
+    "type": "buy",
+    "ticker": "IGC",
+    "bid_price": 7.63,
+    "strategy": "sudden-drops-volumeGT1000000-last3trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "VSTM",
+    "bid_price": 6.81,
+    "strategy": "sudden-drops-volumeGT1000000-last3trend-first2-fiveTo10",
+    "min": 280
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "sell",
+    "ticker": "MARPS",
+    "bid_price": 3.76,
+    "quantity": "43.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASLN",
+    "bid_price": 7.87,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "LPTX",
+    "bid_price": 8.426340000000001,
+    "quantity": 20,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10",
+    "min": 95
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "type": "buy",
+    "ticker": "PEYUF",
+    "bid_price": 8.138,
+    "quantity": 18,
+    "strategy": "based-on-jump-down3overnight-trending103-notWatchout-ltneg50percmax-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "NUGT",
+    "bid_price": 12.0869,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MBNAB",
+    "bid_price": 8.956545000000002,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VNCE",
+    "bid_price": 16.12,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BPMX",
+    "bid_price": 0.19670580000000004,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OPK",
+    "bid_price": 4.06806495,
+    "quantity": "33.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AAME",
+    "bid_price": 2.5987,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BPMX",
+    "bid_price": 0.19481175000000006,
+    "quantity": "25.0000"
+  }
+]

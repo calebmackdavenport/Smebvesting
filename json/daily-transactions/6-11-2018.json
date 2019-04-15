@@ -1,0 +1,68 @@
+[
+  {
+    "type": "buy",
+    "ticker": "GOL",
+    "bid_price": 6.85,
+    "quantity": 10,
+    "strategy": "based-on-jump-fourToEightOvernight-notWatchout-ltneg50percmax-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "OXBR",
+    "bid_price": 1.7258,
+    "quantity": 40,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "ATHX",
+    "bid_price": 2.5027,
+    "quantity": 11
+  },
+  {
+    "type": "buy",
+    "ticker": "JVA",
+    "bid_price": 5.3918,
+    "quantity": 12,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-notWatchout-fiveTo10",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "PULM",
+    "bid_price": 0.6498,
+    "quantity": 107,
+    "strategy": "low-float-high-volume-absVolPoints-trend5to10-shouldWatchout",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "PLM",
+    "bid_price": 0.9438604,
+    "quantity": 74,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trend15to25-notWatchout",
+    "min": 150
+  },
+  {
+    "type": "sell",
+    "ticker": "AETI",
+    "bid_price": 1.451,
+    "quantity": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "ATHX",
+    "bid_price": 2.4327,
+    "quantity": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "KOOL",
+    "bid_price": 0.577444,
+    "quantity": 121,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend10to15-shouldWatchout",
+    "min": 315
+  }
+]

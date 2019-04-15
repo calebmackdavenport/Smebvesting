@@ -1,0 +1,34 @@
+[
+  {
+    "type": "buy",
+    "ticker": "JRJR",
+    "bid_price": 0.12745439999999997,
+    "quantity": 47,
+    "strategy": "cheapest-picks-chp3",
+    "min": 175
+  },
+  {
+    "type": "buy",
+    "ticker": "ONCS",
+    "bid_price": 1.9004933999999996,
+    "quantity": 9,
+    "strategy": "up-streak-lt$3-upstreak-4",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "RAS",
+    "bid_price": 0.17118999999999987,
+    "quantity": 35,
+    "strategy": "cheapest-picks-chp3",
+    "min": 175
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.06175079999999994,
+    "quantity": 97,
+    "strategy": "cheapest-picks-chp3",
+    "min": 175
+  }
+]

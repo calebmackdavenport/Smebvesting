@@ -1,0 +1,98 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SITO",
+    "bid_price": 3.14,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JCP",
+    "bid_price": 3.0285,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HTBX",
+    "bid_price": 2.0738,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UPL",
+    "bid_price": 1.95,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "XCRA",
+    "bid_price": 13.965,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SNES",
+    "bid_price": 1.6218765000000002,
+    "quantity": "45.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GNMX",
+    "bid_price": 1.2730875000000001,
+    "quantity": "62.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TPIV",
+    "bid_price": 7.521294000000003,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ACET",
+    "bid_price": 3.6683,
+    "quantity": 9,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "OPGN",
+    "bid_price": 2.3045999999999998,
+    "quantity": 15,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "NNVC",
+    "bid_price": 0.435736,
+    "quantity": 160,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt10-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "AYTU",
+    "bid_price": 0.472,
+    "quantity": 593,
+    "strategy": "low-float-high-volume-absVolPoints-trenddown3to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "JVA",
+    "bid_price": 5.4609000000000005,
+    "quantity": 12,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-notWatchout-fiveTo10",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "HMNY",
+    "bid_price": 0.3805,
+    "quantity": 183,
+    "strategy": "low-float-high-volume-absVolPoints",
+    "min": 95
+  }
+]

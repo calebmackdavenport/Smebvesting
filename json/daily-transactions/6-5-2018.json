@@ -1,0 +1,108 @@
+[
+  {
+    "type": "sell",
+    "ticker": "OPHC",
+    "bid_price": 5.04,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "YECO",
+    "bid_price": 2.76,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CODX",
+    "bid_price": 5.65,
+    "quantity": "27.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IMV",
+    "bid_price": 6.4,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHCI",
+    "bid_price": 3.49825,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BSBR",
+    "bid_price": 9.42,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DNR",
+    "bid_price": 4.040955,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WTTR",
+    "bid_price": 13.664472500000002,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ATXI",
+    "bid_price": 4.129650000000001,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GOGO",
+    "bid_price": 5.16483,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "RKDA",
+    "bid_price": 11.066588999999999,
+    "quantity": 7,
+    "strategy": "based-on-jump-oneToFourOvernight-shouldWatchout-first1-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "ESTE",
+    "bid_price": 8.373220000000002,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARQL",
+    "bid_price": 4.9402,
+    "quantity": 8,
+    "strategy": "dynamo-3000-top50tso-notWatchout-lowestTSO",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "CDXC",
+    "bid_price": 3.51,
+    "quantity": 11,
+    "strategy": "dynamo-3000-top50tso-notWatchout-lowestTSO",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "CYRX",
+    "bid_price": 12.59,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-tenTo15",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "NAK",
+    "bid_price": 0.5756,
+    "quantity": 138,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60",
+    "min": 300
+  }
+]

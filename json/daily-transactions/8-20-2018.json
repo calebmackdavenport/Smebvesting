@@ -1,0 +1,68 @@
+[
+  {
+    "type": "sell",
+    "ticker": "TIK",
+    "bid_price": 3.0501,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMEH",
+    "bid_price": 18.35,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ZOES",
+    "bid_price": 12.731,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VCEL",
+    "bid_price": 11.1554,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ISDR",
+    "bid_price": 15.5922,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHAU",
+    "bid_price": 17.771110000000004,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ALTY",
+    "bid_price": 15.45,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "NWSA",
+    "bid_price": 13.345,
+    "quantity": 4,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "YRD",
+    "bid_price": 16.7064,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 210
+  },
+  {
+    "type": "sell",
+    "ticker": "VCEL",
+    "bid_price": 10.8501,
+    "quantity": "5.0000"
+  }
+]

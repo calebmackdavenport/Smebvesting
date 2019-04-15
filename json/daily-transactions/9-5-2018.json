@@ -1,0 +1,98 @@
+[
+  {
+    "type": "buy",
+    "ticker": "VRA",
+    "bid_price": 16.7240814,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderHist-fifteenTo20",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "BHTG",
+    "bid_price": 3.51094,
+    "quantity": 5,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SES",
+    "bid_price": 2.33392,
+    "quantity": 17,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "AMSWA",
+    "bid_price": 16.08,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddowngt10-notWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "AMSWA",
+    "bid_price": 16.08,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "CELP",
+    "bid_price": 7.64518,
+    "quantity": 2,
+    "strategy": "sudden-drops-last2trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "CNST",
+    "bid_price": 9.156479999999998,
+    "quantity": 4,
+    "strategy": "sudden-drops-last5trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "CNST",
+    "bid_price": 9.156479999999998,
+    "quantity": 1,
+    "strategy": "sudden-drops-last5trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "CELP",
+    "bid_price": 7.64518,
+    "quantity": 1,
+    "strategy": "sudden-drops-last5trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 12.1301,
+    "quantity": 1,
+    "strategy": "sudden-drops-last3trend-first1-tenTo15",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 12.24,
+    "quantity": 1,
+    "strategy": "sudden-drops-last5trend-first1-tenTo15",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "SNNA",
+    "bid_price": 16.306800000000003,
+    "quantity": 3,
+    "strategy": "sudden-drops-last10trend-first1-fifteenTo20",
+    "min": 360
+  }
+]

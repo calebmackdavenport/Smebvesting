@@ -1,0 +1,436 @@
+[
+  {
+    "type": "sell",
+    "ticker": "CFRX",
+    "bid_price": 1.51,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "MBOT",
+    "bid_price": 1.48,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "UWT",
+    "bid_price": 9.74,
+    "quantity": 7
+  },
+  {
+    "type": "buy",
+    "ticker": "UCO",
+    "bid_price": 13.9146,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-first1-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "CTRV",
+    "bid_price": 0.3106,
+    "quantity": 69
+  },
+  {
+    "type": "buy",
+    "ticker": "DRIP",
+    "bid_price": 18.64,
+    "strategy": "up-streak-3to5days-gt3overnight-fifteenTo20",
+    "min": 45
+  },
+  {
+    "type": "sell",
+    "ticker": "FRAN",
+    "bid_price": 0.865,
+    "quantity": 34
+  },
+  {
+    "type": "sell",
+    "ticker": "SURF",
+    "bid_price": 3.6181900000000002,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "ARVN",
+    "bid_price": 15.6,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "TBLT",
+    "bid_price": 0.9590400000000001,
+    "quantity": 15
+  },
+  {
+    "type": "sell",
+    "ticker": "FTSI",
+    "bid_price": 7.21,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "NCS",
+    "bid_price": 7.69615,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "RCII",
+    "bid_price": 15.72,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "IPWR",
+    "bid_price": 0.24485160000000025,
+    "quantity": 50
+  },
+  {
+    "type": "buy",
+    "ticker": "OPNT",
+    "bid_price": 13.836,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout-tenTo15",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "SRRK",
+    "bid_price": 19.024,
+    "strategy": "low-float-high-volume-volToAvgPoints-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 0.7,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 0.7021999999999999,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 3.95,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "LMFA",
+    "bid_price": 1.15,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "PIR",
+    "bid_price": 0.6972,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "PED",
+    "bid_price": 0.89,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 0.179,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "PLXP",
+    "bid_price": 1.622,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "ABIO",
+    "bid_price": 0.35,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "SSNT",
+    "bid_price": 2.55,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "EQ",
+    "bid_price": 7.74,
+    "strategy": "sudden-drops-last30trend-filter20-fiveTo10",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 4.1499,
+    "strategy": "sudden-drops-last18trend-filter20",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "ARDM",
+    "bid_price": 0.35326,
+    "strategy": "sudden-drops-last18trend-filter20",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "RSLS",
+    "bid_price": 0.34146,
+    "strategy": "sudden-drops-last18trend-filter20",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "EQ",
+    "bid_price": 8.15,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt10-shouldWatchout-fiveTo10",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "ARDM",
+    "bid_price": 0.32598,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "MTFB",
+    "bid_price": 4.4159999999999995,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "NH",
+    "bid_price": 0.6001,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "ARDM",
+    "bid_price": 0.32598,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "LKM",
+    "bid_price": 0.16094,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 4.22,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 221
+  },
+  {
+    "type": "sell",
+    "ticker": "IMTE",
+    "bid_price": 4.547725,
+    "quantity": 20
+  },
+  {
+    "type": "buy",
+    "ticker": "ADMA",
+    "bid_price": 2.166,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddowngt20",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "PIR",
+    "bid_price": 0.44001999999999997,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "PIR",
+    "bid_price": 0.409,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "PIR",
+    "bid_price": 0.44484,
+    "strategy": "sudden-drops-last3trend-filter20",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "KOLD",
+    "bid_price": 16.21,
+    "strategy": "low-float-high-volume-absVolPoints-trend10to15-fifteenTo20",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "PIR",
+    "bid_price": 0.42374,
+    "strategy": "sudden-drops-last5trend-filter20",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "PIR",
+    "bid_price": 0.42734,
+    "strategy": "sudden-drops-last5trend-filter30",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "AMSC",
+    "bid_price": 10.02,
+    "strategy": "sudden-drops-last30trend-filter10-tenTo15",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "OBSV",
+    "bid_price": 11.446,
+    "strategy": "sudden-drops-last30trend-filter10-tenTo15",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "PGP",
+    "bid_price": 10.251999999999999,
+    "strategy": "sudden-drops-last30trend-filter10-tenTo15",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "BPTH",
+    "bid_price": 0.20796,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "DAG",
+    "bid_price": 2.254,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "DAG",
+    "bid_price": 2.254,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "SPI",
+    "bid_price": 1,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "DAG",
+    "bid_price": 2.254,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "DEST",
+    "bid_price": 1.728,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "VTL",
+    "bid_price": 0.19658,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "AMTX",
+    "bid_price": 0.4602,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 328
+  },
+  {
+    "type": "sell",
+    "ticker": "TBIO",
+    "bid_price": 7.282710000000001,
+    "quantity": 3
+  },
+  {
+    "type": "buy",
+    "ticker": "PIR",
+    "bid_price": 0.44812,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "PIR",
+    "bid_price": 0.4397,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "YVR",
+    "bid_price": 2.02,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "SBOT",
+    "bid_price": 0.87,
+    "strategy": "sudden-drops-last3trend-first2",
+    "min": 388
+  },
+  {
+    "type": "buy",
+    "ticker": "USEG",
+    "bid_price": 0.78672,
+    "strategy": "sudden-drops-last3trend-first2",
+    "min": 388
+  },
+  {
+    "type": "buy",
+    "ticker": "SIC",
+    "bid_price": 6,
+    "strategy": "sudden-drops-last50trend-filter10-fiveTo10",
+    "min": 388
+  },
+  {
+    "type": "buy",
+    "ticker": "MLND",
+    "bid_price": 8.02,
+    "strategy": "sudden-drops-last50trend-filter10-fiveTo10",
+    "min": 388
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "sell",
+    "ticker": "PXLW",
+    "bid_price": 4.29,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FBIO",
+    "bid_price": 1.578,
+    "quantity": "42.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UMRX",
+    "bid_price": 16.64,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "EEI",
+    "bid_price": 13.608,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-notWatchout-tenTo15",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "FTFT",
+    "bid_price": 1.4057700000000004,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "AWX",
+    "bid_price": 3.05216,
+    "quantity": 14,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trend3to5-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "DNN",
+    "bid_price": 0.523786,
+    "quantity": 168,
+    "strategy": "based-on-jump-down3overnight-trending35257-notWatchout-gtneg20percmax-first1",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "TA",
+    "bid_price": 3.85,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 276
+  }
+]

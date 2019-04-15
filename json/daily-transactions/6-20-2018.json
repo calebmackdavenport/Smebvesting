@@ -1,0 +1,22 @@
+[
+  {
+    "type": "sell",
+    "ticker": "NEPT",
+    "bid_price": 3.401,
+    "quantity": "29.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CLBS",
+    "bid_price": 11.4495,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NAKD",
+    "bid_price": 8.91,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trendgt30-notWatchout-fiveTo10",
+    "min": 315
+  }
+]

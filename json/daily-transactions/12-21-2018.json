@@ -1,0 +1,445 @@
+[
+  {
+    "type": "buy",
+    "ticker": "TIK",
+    "bid_price": 3.535,
+    "strategy": "dynamo-3000-bottom50tso-trendingUp3010-lowestsharesToCap",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "FTEK",
+    "bid_price": 1.236,
+    "strategy": "dynamo-3000-bottom50tso-trendingUp3010-lowestsharesToCap",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "UXIN",
+    "bid_price": 7.494301,
+    "strategy": "based-on-jump-down3overnight-shouldWatchout-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "WHLR",
+    "bid_price": 0.8628429999999999,
+    "strategy": "low-float-high-volume-absVolPoints-trenddowngt20",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "CAMP",
+    "bid_price": 11.5342,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "CAMP",
+    "bid_price": 11.56,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "SG",
+    "bid_price": 15,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-tenTo15",
+    "min": 80
+  },
+  {
+    "type": "buy",
+    "ticker": "MRNA",
+    "bid_price": 14.2499,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout-tenTo15",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "CGIX",
+    "bid_price": 0.276,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "KTOV",
+    "bid_price": 0.764,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "IPIC",
+    "bid_price": 2.548,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 100
+  },
+  {
+    "type": "sell",
+    "ticker": "HEB",
+    "bid_price": 0.1915,
+    "quantity": 62
+  },
+  {
+    "type": "sell",
+    "ticker": "CYCC",
+    "bid_price": 0.6501,
+    "quantity": 214
+  },
+  {
+    "type": "sell",
+    "ticker": "ARDM",
+    "bid_price": 0.291,
+    "quantity": 117
+  },
+  {
+    "type": "sell",
+    "ticker": "OCX",
+    "bid_price": 1.44,
+    "quantity": 34
+  },
+  {
+    "type": "sell",
+    "ticker": "ICHR",
+    "bid_price": 15.65,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "CIVI",
+    "bid_price": 17.441275,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ABIO",
+    "bid_price": 0.3143700000000001,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "DRIP",
+    "bid_price": 20.5,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "AMTX",
+    "bid_price": 0.5475250000000003,
+    "quantity": 366
+  },
+  {
+    "type": "sell",
+    "ticker": "PLXP",
+    "bid_price": 1.51,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "VTL",
+    "bid_price": 0.1935,
+    "quantity": 63
+  },
+  {
+    "type": "sell",
+    "ticker": "HIL",
+    "bid_price": 3.635,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "PIR",
+    "bid_price": 0.39670080000000035,
+    "quantity": 989
+  },
+  {
+    "type": "sell",
+    "ticker": "RSLS",
+    "bid_price": 0.35,
+    "quantity": 79
+  },
+  {
+    "type": "sell",
+    "ticker": "KOLD",
+    "bid_price": 15.3084,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "LMFA",
+    "bid_price": 1.1193,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "INPX",
+    "bid_price": 3.4148700000000005,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "SSNT",
+    "bid_price": 2.38,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "MNGA",
+    "bid_price": 0.2121,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "MTFB",
+    "bid_price": 6,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "SRRK",
+    "bid_price": 18.492220000000003,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "EQ",
+    "bid_price": 6.146925,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "ADMA",
+    "bid_price": 2.4925,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "NH",
+    "bid_price": 0.6046975,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "SPI",
+    "bid_price": 0.85,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "SBOT",
+    "bid_price": 0.815,
+    "quantity": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "PTI",
+    "bid_price": 4.1,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "ISNS",
+    "bid_price": 4.574,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "TRPX",
+    "bid_price": 3.38,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "BNTC",
+    "bid_price": 1.3239999999999998,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "TRPX",
+    "bid_price": 3.58394,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "NVFY",
+    "bid_price": 0.476,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "WHLR",
+    "bid_price": 0.9904,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "BNTC",
+    "bid_price": 1.3239999999999998,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "GLOW",
+    "bid_price": 0.16590000000000002,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "JCS",
+    "bid_price": 2.354,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "GLOW",
+    "bid_price": 0.1492,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "NVFY",
+    "bid_price": 0.4479,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "GASL",
+    "bid_price": 5.09176,
+    "strategy": "dynamo-3000-overall-shouldWatchout-lowestYP-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "DERM",
+    "bid_price": 7.835999999999999,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt10-shouldWatchout-fiveTo10",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "GLOW",
+    "bid_price": 0.1298,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "sell",
+    "ticker": "OPNT",
+    "bid_price": 13.3,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "BPTH",
+    "bid_price": 0.1838,
+    "quantity": 60
+  },
+  {
+    "type": "sell",
+    "ticker": "MLND",
+    "bid_price": 7.49,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "PED",
+    "bid_price": 0.7148844000000001,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "SIC",
+    "bid_price": 6.05,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "AMSC",
+    "bid_price": 9.196185000000002,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "TRPX",
+    "bid_price": 3.294,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddowngt20",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "SGRP",
+    "bid_price": 0.5710799999999999,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "VTNR",
+    "bid_price": 1.06744,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "NAKD",
+    "bid_price": 0.85,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "CLFD",
+    "bid_price": 9.193999999999999,
+    "strategy": "sudden-drops-last2trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "sell",
+    "ticker": "CARV",
+    "bid_price": 2.879885000000001,
+    "quantity": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "CNFR",
+    "bid_price": 4.388,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.7,
+    "strategy": "sudden-drops-last3trend-first2",
+    "min": 388
+  },
+  {
+    "type": "buy",
+    "ticker": "LINK",
+    "bid_price": 2.35,
+    "strategy": "sudden-drops-last3trend-first2",
+    "min": 388
+  },
+  {
+    "type": "buy",
+    "ticker": "CLFD",
+    "bid_price": 8.581999999999999,
+    "strategy": "sudden-drops-last50trend-filter10-fiveTo10",
+    "min": 388
+  }
+]

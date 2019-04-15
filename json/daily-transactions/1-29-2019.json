@@ -1,0 +1,136 @@
+[
+  {
+    "type": "buy",
+    "ticker": "ARPO",
+    "bid_price": 3.615,
+    "quantity": 77,
+    "strategy": "ticker-watchers-under5-notWatchout-morning",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "SYPR",
+    "bid_price": 1.08336,
+    "quantity": 115
+  },
+  {
+    "type": "sell",
+    "ticker": "FFHL",
+    "bid_price": 2.38,
+    "quantity": 31
+  },
+  {
+    "type": "sell",
+    "ticker": "LENS",
+    "bid_price": 0.433732,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "KZIA",
+    "bid_price": 3.1846,
+    "quantity": 40
+  },
+  {
+    "type": "sell",
+    "ticker": "ELTK",
+    "bid_price": 2.32128,
+    "quantity": 40
+  },
+  {
+    "type": "sell",
+    "ticker": "ASLN",
+    "bid_price": 3.54,
+    "quantity": 20
+  },
+  {
+    "type": "sell",
+    "ticker": "RCUS",
+    "bid_price": 9.47,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "LPTH",
+    "bid_price": 1.71312,
+    "quantity": 50
+  },
+  {
+    "type": "sell",
+    "ticker": "AVDL",
+    "bid_price": 2.24,
+    "quantity": 60
+  },
+  {
+    "type": "buy",
+    "ticker": "GME",
+    "bid_price": 12.085,
+    "quantity": 23,
+    "strategy": "ticker-watchers-under15-notWatchout-majorJump-morning",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "CGIX",
+    "bid_price": 0.2291,
+    "quantity": 1222,
+    "strategy": "ticker-watchers-under1-notWatchout-majorJump-morning",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "RVLT",
+    "bid_price": 0.6232576000000001,
+    "quantity": 449,
+    "strategy": "ticker-watchers-under1-notWatchout-morning",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "DMPI",
+    "bid_price": 0.34602400000000005,
+    "quantity": 809,
+    "strategy": "ticker-watchers-under1-notWatchout-morning",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "TIK",
+    "bid_price": 5.3784,
+    "quantity": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "BIQI",
+    "bid_price": 2.6418,
+    "quantity": 105,
+    "strategy": "ticker-watchers-under5-notWatchout-later",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "NAO",
+    "bid_price": 3.4,
+    "quantity": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "GME",
+    "bid_price": 11.53398947368421,
+    "quantity": 7,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "sell",
+    "ticker": "ARCI",
+    "bid_price": 0.42434,
+    "quantity": 89
+  },
+  {
+    "type": "sell",
+    "ticker": "TIK",
+    "bid_price": 5.1710400000000005,
+    "quantity": 1
+  }
+]

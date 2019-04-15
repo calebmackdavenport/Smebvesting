@@ -1,0 +1,10 @@
+[
+  {
+    "type": "buy",
+    "ticker": "STAF",
+    "bid_price": 4.1664996,
+    "quantity": 24,
+    "strategy": "low-float-high-volume-volToAvgPoints-trendgt50",
+    "min": 315
+  }
+]

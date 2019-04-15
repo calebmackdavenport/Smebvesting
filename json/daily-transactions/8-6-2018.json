@@ -1,0 +1,168 @@
+[
+  {
+    "type": "sell",
+    "ticker": "ASFI",
+    "bid_price": 3.2,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FTFT",
+    "bid_price": 1.44144,
+    "quantity": 24,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "FTFT",
+    "bid_price": 1.429285,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMID",
+    "bid_price": 5.8,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CTXR",
+    "bid_price": 1.9920075000000004,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "USAG",
+    "bid_price": 16.17,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TGP",
+    "bid_price": 16.641,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HMNY",
+    "bid_price": 0.0901,
+    "quantity": "1142.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "UMRX",
+    "bid_price": 14.97,
+    "quantity": 5,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-notWatchout-tenTo15",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "DOC",
+    "bid_price": 16.795,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UIS",
+    "bid_price": 15.4,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DFIN",
+    "bid_price": 18.12,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SOYB",
+    "bid_price": 16.46,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AZRE",
+    "bid_price": 15.45,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TGP",
+    "bid_price": 16.741625000000003,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "REVG",
+    "bid_price": 17.465000000000003,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "CELP",
+    "bid_price": 7.8895,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown5to7-notWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "RRC",
+    "bid_price": 15.89,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-notWatchout-lowestTSO-fifteenTo20",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "REPL",
+    "bid_price": 16.0528,
+    "quantity": 1,
+    "strategy": "dynamo-3000-top50tso-notWatchout-lowestTSO-fifteenTo20",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "APHB",
+    "bid_price": 1.055,
+    "quantity": 83,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints",
+    "min": 210
+  },
+  {
+    "type": "sell",
+    "ticker": "FTSV",
+    "bid_price": 15.17,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ECYT",
+    "bid_price": 15.97,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TCS",
+    "bid_price": 10.834155000000003,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "IMMR",
+    "bid_price": 11.08212,
+    "quantity": 7,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-filtered60-tenTo15",
+    "min": 250
+  },
+  {
+    "type": "buy",
+    "ticker": "OFG",
+    "bid_price": 16.325,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestYP-fifteenTo20",
+    "min": 260
+  }
+]

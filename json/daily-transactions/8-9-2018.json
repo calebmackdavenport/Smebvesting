@@ -1,0 +1,168 @@
+[
+  {
+    "type": "sell",
+    "ticker": "AMPE",
+    "bid_price": 0.3736,
+    "quantity": 31
+  },
+  {
+    "type": "sell",
+    "ticker": "OTIC",
+    "bid_price": 3.3,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "NATR",
+    "bid_price": 8.45,
+    "quantity": 2
+  },
+  {
+    "type": "buy",
+    "ticker": "TLGT",
+    "bid_price": 3.745,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trendgt5-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "OTIC",
+    "bid_price": 3.25,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NATR",
+    "bid_price": 9.15,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMPE",
+    "bid_price": 0.36851565000000003,
+    "quantity": "31.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CELP",
+    "bid_price": 7.57,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EEI",
+    "bid_price": 13.69,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OFG",
+    "bid_price": 16.841575000000002,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BRY",
+    "bid_price": 13.25337,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "DXYN",
+    "bid_price": 1.95,
+    "quantity": 13,
+    "strategy": "based-on-jump-down3overnight-trending53-notWatchout-ltneg50percmax-first1",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "AWRE",
+    "bid_price": 3.8,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RUSS",
+    "bid_price": 20.9356,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CWH",
+    "bid_price": 20,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CYTX",
+    "bid_price": 0.41748000000000024,
+    "quantity": "103.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OFG",
+    "bid_price": 16.725,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EEI",
+    "bid_price": 13.45,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DNN",
+    "bid_price": 0.4948566000000001,
+    "quantity": "168.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "RHE",
+    "bid_price": 0.2,
+    "quantity": 65,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "FBIO",
+    "bid_price": 2.19308,
+    "quantity": 5,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "ABIL",
+    "bid_price": 5.1975,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddown3to5-shouldWatchout-fiveTo10",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "UAMY",
+    "bid_price": 0.586002,
+    "quantity": 22,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "CRHM",
+    "bid_price": 3.45,
+    "quantity": 7,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to5",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "MHLD",
+    "bid_price": 4.55,
+    "quantity": 2,
+    "strategy": "sudden-drops-last3trend-first2",
+    "min": 388
+  }
+]

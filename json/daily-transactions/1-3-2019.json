@@ -1,0 +1,79 @@
+[
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.228454,
+    "strategy": "low-float-high-volume-absVolPoints-trendgt40",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.23164444444444446,
+    "strategy": "low-float-high-volume-floatPoints-trendgt40",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.23,
+    "strategy": "low-float-high-volume-floatPoints-trendgt50",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.2269,
+    "strategy": "low-float-high-volume-floatPoints-trendgt50-shouldWatchout",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.2284,
+    "strategy": "low-float-high-volume-absVolPoints-trendgt40-shouldWatchout",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "ASCMA",
+    "bid_price": 0.45666666666666667,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "CBL",
+    "bid_price": 2.19,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60",
+    "min": 250
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.1970888888888889,
+    "strategy": "low-float-high-volume-floatPoints-trendgt50-shouldWatchout",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.195,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trendgt40",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.195,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trendgt40-shouldWatchout",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "TYHT",
+    "bid_price": 0.577,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 280
+  }
+]

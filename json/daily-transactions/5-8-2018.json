@@ -1,0 +1,18 @@
+[
+  {
+    "type": "buy",
+    "ticker": "NFEC",
+    "bid_price": 1.9112625999999997,
+    "quantity": 19,
+    "strategy": "based-on-jump-down3overnight-shouldWatchout-first2",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "THST",
+    "bid_price": 1.8658258499999985,
+    "quantity": 19,
+    "strategy": "based-on-jump-down3overnight-shouldWatchout-first2",
+    "min": 16
+  }
+]

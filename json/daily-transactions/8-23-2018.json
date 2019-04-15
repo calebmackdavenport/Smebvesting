@@ -1,0 +1,218 @@
+[
+  {
+    "type": "buy",
+    "ticker": "QAT",
+    "bid_price": 17.432139999999993,
+    "quantity": 1,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 16.0308,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "YECO",
+    "bid_price": 2.1,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EBMT",
+    "bid_price": 18.85,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IPAS",
+    "bid_price": 2.4201,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TUES",
+    "bid_price": 3.148425,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SSG",
+    "bid_price": 15.904080000000002,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SEAC",
+    "bid_price": 1.5645050000000007,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NUGT",
+    "bid_price": 13.59358,
+    "quantity": 3,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "CUE",
+    "bid_price": 9.142344999999997,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to10-notWatchout-fiveTo10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "AUMN",
+    "bid_price": 0.258,
+    "quantity": 52,
+    "strategy": "based-on-jump-down3overnight-trending53-notWatchout-ltneg50percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "HBM",
+    "bid_price": 4.759499999999999,
+    "quantity": 2,
+    "strategy": "based-on-jump-down3overnight-trending53-notWatchout-ltneg50percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "LX",
+    "bid_price": 13.8,
+    "quantity": 1,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "LX",
+    "bid_price": 13.8,
+    "quantity": 1,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-gt100kvolume-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "BILI",
+    "bid_price": 10.7438,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRON",
+    "bid_price": 8.56,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 15.892050000000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "GRAM",
+    "bid_price": 3.5,
+    "quantity": 3,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "PAVM",
+    "bid_price": 1.17,
+    "quantity": 23,
+    "strategy": "constant-risers-10minute-percUpHighClose-lowovernightjumps",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "OVAS",
+    "bid_price": 0.7561095999999996,
+    "quantity": 17,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-lowestYP",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "WYY",
+    "bid_price": 0.465,
+    "quantity": 29,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "OVAS",
+    "bid_price": 0.7553579999999996,
+    "quantity": 17,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "AMEH",
+    "bid_price": 16.175,
+    "quantity": 1,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "HTZ",
+    "bid_price": 19.43,
+    "quantity": 1,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "HTZ",
+    "bid_price": 19.43,
+    "quantity": 1,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "CATO",
+    "bid_price": 19.849369999999993,
+    "quantity": 1,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-fifteenTo20",
+    "min": 210
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 15.792100000000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "JAGX",
+    "bid_price": 0.8971199999999993,
+    "quantity": 15,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "CUE",
+    "bid_price": 8.215,
+    "quantity": 3,
+    "strategy": "sudden-drops-last10trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 15.875,
+    "quantity": "1.0000"
+  }
+]

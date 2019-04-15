@@ -1,0 +1,210 @@
+[
+  {
+    "type": "buy",
+    "ticker": "DKILY",
+    "bid_price": 12.62,
+    "quantity": 4,
+    "strategy": "based-on-jump-down8overnight-notWatchout-gtneg20percmax-first1-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 11.685,
+    "quantity": 5,
+    "strategy": "based-on-jump-down3overnight-trending607-gt500kvolume-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 11.8284,
+    "quantity": 5,
+    "strategy": "based-on-jump-down5overnight-trending103-notWatchout-first1-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 11.5201,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "GME",
+    "bid_price": 13.913899999999998,
+    "quantity": 1,
+    "strategy": "technical-indicators-day-year-topSMAoverUnderLastTrade-tenTo15",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "TLYS",
+    "bid_price": 19.3605,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderHist-fifteenTo20",
+    "min": 29
+  },
+  {
+    "type": "buy",
+    "ticker": "TUR",
+    "bid_price": 19.67,
+    "quantity": 3,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-first1-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "XGTI",
+    "bid_price": 0.42,
+    "quantity": 142,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "IGC",
+    "bid_price": 1.9664249999999994,
+    "quantity": 10,
+    "strategy": "constant-risers-10minute-percUpHighClose-lowovernightjumps",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "EVFM",
+    "bid_price": 3.31,
+    "quantity": 3,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-lowestYP",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "GSAT",
+    "bid_price": 0.4950525999999997,
+    "quantity": 20,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-lowestYP",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "GSAT",
+    "bid_price": 0.4950525999999997,
+    "quantity": 20,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "WYY",
+    "bid_price": 0.5150999999999989,
+    "quantity": 19,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "HTZ",
+    "bid_price": 18.1,
+    "quantity": 1,
+    "strategy": "low-float-high-volume-floatPoints-trenddown7to10-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "GGAL",
+    "bid_price": 19.03,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-fifteenTo20",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "YVR",
+    "bid_price": 0.92,
+    "quantity": 21,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "TGS",
+    "bid_price": 11.211277799999998,
+    "quantity": 5,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddowngt10-notWatchout-tenTo15",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "AMPE",
+    "bid_price": 0.5951801999999998,
+    "quantity": 50,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "NAO",
+    "bid_price": 0.9884663999999983,
+    "quantity": 30,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "BFR",
+    "bid_price": 7.15,
+    "quantity": 4,
+    "strategy": "sudden-drops-last3trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "DLHC",
+    "bid_price": 5.309898599999999,
+    "quantity": 5,
+    "strategy": "sudden-drops-last3trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "EROS",
+    "bid_price": 11.25,
+    "quantity": 5,
+    "strategy": "sudden-drops-last30trend-first1-tenTo15",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "EKSO",
+    "bid_price": 2.76,
+    "quantity": 7,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trend10to15-shouldWatchout",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "SQQQ",
+    "bid_price": 11.16115,
+    "quantity": 5,
+    "strategy": "technical-indicators-5minute-day-topSMAoverUnderHist-tenTo15",
+    "min": 320
+  },
+  {
+    "type": "buy",
+    "ticker": "BILI",
+    "bid_price": 12.33,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 320
+  },
+  {
+    "type": "buy",
+    "ticker": "GME",
+    "bid_price": 13.685,
+    "quantity": 1,
+    "strategy": "technical-indicators-day-year-topSMAoverUnderLastTrade-tenTo15",
+    "min": 320
+  }
+]

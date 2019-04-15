@@ -1,0 +1,24 @@
+[
+  {
+    "type": "sell",
+    "ticker": "FUV",
+    "bid_price": 3.25,
+    "quantity": "111.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "TRXC",
+    "bid_price": 3.3299,
+    "quantity": 103,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "MFD",
+    "bid_price": 11.9702,
+    "quantity": 27,
+    "strategy": "based-on-jump-down3overnight-trending607-notWatchout-gtneg20percmax-first1-tenTo15",
+    "min": 16
+  }
+]

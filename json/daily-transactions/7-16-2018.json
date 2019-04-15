@@ -1,0 +1,18 @@
+[
+  {
+    "type": "buy",
+    "ticker": "BIOC",
+    "bid_price": 7.35,
+    "quantity": 34,
+    "strategy": "low-float-high-volume-floatPoints-trend15to25-fiveTo10",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "INNT",
+    "bid_price": 10.67,
+    "quantity": 23,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddowngt10-tenTo15",
+    "min": 150
+  }
+]

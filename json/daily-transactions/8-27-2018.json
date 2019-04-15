@@ -1,0 +1,68 @@
+[
+  {
+    "type": "sell",
+    "ticker": "MYOS",
+    "bid_price": 1.2803595,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMEH",
+    "bid_price": 17.501245,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HBM",
+    "bid_price": 5,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LX",
+    "bid_price": 12.4,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HTZ",
+    "bid_price": 19.8050925,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ALT",
+    "bid_price": 0.312,
+    "quantity": "35.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "QAT",
+    "bid_price": 17.71810500000002,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMMA",
+    "bid_price": 0.3737,
+    "quantity": "126.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NBY",
+    "bid_price": 1.929035,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BSPM",
+    "bid_price": 1.91,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NBY",
+    "bid_price": 1.8943000000000005,
+    "quantity": "7.0000"
+  }
+]

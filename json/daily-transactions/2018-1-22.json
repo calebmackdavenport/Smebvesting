@@ -1,0 +1,357 @@
+[
+  {
+    "type": "buy",
+    "ticker": "TTPH",
+    "bid_price": 6.58,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "CTIB",
+    "bid_price": 4.9,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "AKTS",
+    "bid_price": 6.59,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "TNAV",
+    "bid_price": 5.717099999999999,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 2.1815249999999997,
+    "quantity": 3,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "VTNR",
+    "bid_price": 1.0758999999999994,
+    "quantity": 7,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "CASC",
+    "bid_price": 4.63,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "CTIB",
+    "bid_price": 4.9,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "YOGA",
+    "bid_price": 2.9303,
+    "quantity": 2,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "LGL",
+    "bid_price": 5.8,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "VTNR",
+    "bid_price": 1.07,
+    "quantity": 6,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "FPPP",
+    "bid_price": 0.151,
+    "quantity": 46,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "TNAV",
+    "bid_price": 5.717099999999999,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "RLGT",
+    "bid_price": 5.1152999999999995,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "AKTS",
+    "bid_price": 6.66995,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "TTPH",
+    "bid_price": 6.589709999999999,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 2.22666,
+    "quantity": 3,
+    "strategy": "daytime"
+  },
+  {
+    "type": "sell",
+    "ticker": "LGCY",
+    "bid_price": 2.235,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AKTS",
+    "bid_price": 6.65,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CASC",
+    "bid_price": 4.63,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RLGT",
+    "bid_price": 5.11,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OGEN",
+    "bid_price": 1.59,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WHLM",
+    "bid_price": 6.72,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NBEV",
+    "bid_price": 3.96,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CYCC",
+    "bid_price": 1.76,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PDS",
+    "bid_price": 3.815,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BVXV",
+    "bid_price": 6.63,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GNMX",
+    "bid_price": 1.5100120000000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LGCY",
+    "bid_price": 2.239,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CTIB",
+    "bid_price": 4.9,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FTFT",
+    "bid_price": 3.31,
+    "quantity": "109.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CCIH",
+    "bid_price": 2.29,
+    "quantity": "70.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OGEN",
+    "bid_price": 1.8354,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IDSA",
+    "bid_price": 2.08,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PKBK",
+    "bid_price": 21.15,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GEN",
+    "bid_price": 0.9501,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SYPR",
+    "bid_price": 1.4014,
+    "quantity": "76.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CASC",
+    "bid_price": 4.5751,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CVEO",
+    "bid_price": 3.51,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "YOGA",
+    "bid_price": 2.84,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TTPH",
+    "bid_price": 6.48,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MSDI",
+    "bid_price": 0.6003,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SITO",
+    "bid_price": 6.66,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VTNR",
+    "bid_price": 1.09,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AKTS",
+    "bid_price": 6.69,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LGL",
+    "bid_price": 5.78,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RLGT",
+    "bid_price": 5.065,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LSCC",
+    "bid_price": 6.412775,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NERV",
+    "bid_price": 6.591676,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SLNO",
+    "bid_price": 2.0298,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "XSPA",
+    "bid_price": 1.139076,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EMX",
+    "bid_price": 0.8944055000000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MICR",
+    "bid_price": 3.4947,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SSY",
+    "bid_price": 1.4994525,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "HGT",
+    "bid_price": 0.89,
+    "quantity": 78,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "RCG",
+    "bid_price": 1.57,
+    "quantity": 44,
+    "strategy": "before-close"
+  }
+]

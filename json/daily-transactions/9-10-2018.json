@@ -1,0 +1,70 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 14.1673,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IOVA",
+    "bid_price": 11.35,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 14.625,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ESIO",
+    "bid_price": 18.150920000000003,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NLST",
+    "bid_price": 0.3955895999999999,
+    "quantity": 75,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "LITB",
+    "bid_price": 1.2412124999999996,
+    "quantity": 24,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "LITB",
+    "bid_price": 1.2375,
+    "quantity": 48,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "KANG",
+    "bid_price": 16.04,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 14.56121575,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 14.5159,
+    "quantity": "1.0000"
+  }
+]

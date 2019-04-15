@@ -1,0 +1,319 @@
+[
+  {
+    "type": "buy",
+    "ticker": "FUV",
+    "bid_price": 3.116959999999999,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "FRTA",
+    "bid_price": 8.3601,
+    "quantity": 1,
+    "strategy": "based-on-jump-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "JRJR",
+    "bid_price": 0.12531579999999992,
+    "quantity": 23,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "SCYX",
+    "bid_price": 1.397179,
+    "quantity": 2,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "WLB",
+    "bid_price": 0.5719,
+    "quantity": 5,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.19067029999999996,
+    "quantity": 15,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "SCYX",
+    "bid_price": 1.3983399999999997,
+    "quantity": 2,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "WLB",
+    "bid_price": 0.555,
+    "quantity": 5,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.1884,
+    "quantity": 15,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "JRJR",
+    "bid_price": 0.127,
+    "quantity": 23,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "sell",
+    "ticker": "DARE",
+    "bid_price": 1.34,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IBIO",
+    "bid_price": 0.273625,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UQM",
+    "bid_price": 1.34325,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "XXII",
+    "bid_price": 2.56,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INFI",
+    "bid_price": 2.32,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MYSZ",
+    "bid_price": 1.6706050000000001,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GMO",
+    "bid_price": 0.4349,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INPX",
+    "bid_price": 1.439367,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "XTNT",
+    "bid_price": 6.2766,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LINC",
+    "bid_price": 1.8408495,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EGO",
+    "bid_price": 1.149225,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ALIM",
+    "bid_price": 1.14,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RTTR",
+    "bid_price": 0.2401,
+    "quantity": "29.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KIQ",
+    "bid_price": 0.54,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TLRA",
+    "bid_price": 3.97,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OREX",
+    "bid_price": 1.27,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AXU",
+    "bid_price": 1.389418,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FRTA",
+    "bid_price": 8.46,
+    "quantity": 1,
+    "strategy": "based-on-jump-fiveTo10"
+  },
+  {
+    "type": "sell",
+    "ticker": "TVIX",
+    "bid_price": 8.686350000000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SAEX",
+    "bid_price": 1.666,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "STNG",
+    "bid_price": 2.4,
+    "quantity": 5,
+    "strategy": "fizbiz-under5Target10Change2Vol200Within10of52Low"
+  },
+  {
+    "type": "buy",
+    "ticker": "CEI",
+    "bid_price": 1.4203,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "IPWR",
+    "bid_price": 1.213,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SHIP",
+    "bid_price": 1.0424178999999998,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "CEI",
+    "bid_price": 1.3903,
+    "quantity": 3,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "WHLR",
+    "bid_price": 4.12,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "TRVN",
+    "bid_price": 1.89,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SHIP",
+    "bid_price": 1.05,
+    "quantity": 4,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SHSP",
+    "bid_price": 4.74,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "FUV",
+    "bid_price": 3.0884199999999993,
+    "quantity": 1,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "MRNS",
+    "bid_price": 4,
+    "quantity": 1,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "VTGN",
+    "bid_price": 1.5093017999999996,
+    "quantity": 1,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "IMUC",
+    "bid_price": 0.3081,
+    "quantity": 7,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "AMTX",
+    "bid_price": 1.1699,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "SUMR",
+    "bid_price": 1.35,
+    "quantity": 1,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "NEXT",
+    "bid_price": 5.08,
+    "quantity": 1,
+    "strategy": "swings-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "TRVN",
+    "bid_price": 1.875,
+    "quantity": 1,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "FUV",
+    "bid_price": 3.038,
+    "quantity": 3,
+    "strategy": "week-swings"
+  }
+]

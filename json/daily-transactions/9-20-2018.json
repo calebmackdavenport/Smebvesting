@@ -1,0 +1,50 @@
+[
+  {
+    "type": "buy",
+    "ticker": "BRZU",
+    "bid_price": 0,
+    "strategy": "based-on-jump-fourToEightOvernight-trending53-gt100kvolume-first1-fifteenTo20",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "MTEM",
+    "bid_price": 5.7001,
+    "quantity": "30.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FOLD",
+    "bid_price": 12.74,
+    "strategy": "based-on-jump-gtEightOvernight-trending53-notWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "FOLD",
+    "bid_price": 12.74,
+    "strategy": "based-on-jump-gtEightOvernight-trending53-notWatchout-first1-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "TRQ",
+    "bid_price": 2.196,
+    "strategy": "spread-singleLargestSpreadAbs1milVolume",
+    "min": 58
+  },
+  {
+    "type": "buy",
+    "ticker": "FIHD",
+    "bid_price": 174.788,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddowngt30-notWatchout",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "ICCC",
+    "bid_price": 8.68,
+    "strategy": "sudden-drops-last30trend-filter10-fiveTo10",
+    "min": 360
+  }
+]

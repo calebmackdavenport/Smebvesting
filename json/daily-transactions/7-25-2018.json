@@ -1,0 +1,14 @@
+[
+  {
+    "type": "sell",
+    "ticker": "RFIL",
+    "bid_price": 8.541450000000001,
+    "quantity": "19.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WMLP",
+    "bid_price": 1.6647930000000009,
+    "quantity": 44
+  }
+]

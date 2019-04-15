@@ -1,0 +1,88 @@
+[
+  {
+    "type": "buy",
+    "ticker": "MGNX",
+    "bid_price": 13.12495,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "FATE",
+    "bid_price": 16.77,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "DTRM",
+    "bid_price": 0.6,
+    "quantity": 164
+  },
+  {
+    "type": "sell",
+    "ticker": "BNED",
+    "bid_price": 4.65,
+    "quantity": 34
+  },
+  {
+    "type": "sell",
+    "ticker": "KOLD",
+    "bid_price": 11.64,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "DFFN",
+    "bid_price": 0.24353000000000016,
+    "quantity": 527
+  },
+  {
+    "type": "buy",
+    "ticker": "ZEAL",
+    "bid_price": 13.438,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-tenTo15",
+    "min": 80
+  },
+  {
+    "type": "buy",
+    "ticker": "STKS",
+    "bid_price": 2.08,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "AGE",
+    "bid_price": 3.9,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "JP",
+    "bid_price": 4.89,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "CAPR",
+    "bid_price": 0.526,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "JP",
+    "bid_price": 4.768,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddowngt20",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "JRJC",
+    "bid_price": 1.06,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  }
+]

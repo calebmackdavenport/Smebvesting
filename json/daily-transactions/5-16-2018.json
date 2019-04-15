@@ -1,0 +1,210 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SND",
+    "bid_price": 6.6883,
+    "quantity": 7,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-shouldWatchout-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "YRIV",
+    "bid_price": 4.301,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "NVIV",
+    "bid_price": 8.3916,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "VKTX",
+    "bid_price": 4.8923,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trend5to10",
+    "min": 95
+  },
+  {
+    "type": "sell",
+    "ticker": "OMNT",
+    "bid_price": 1.1149600000000006,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "VVUS",
+    "bid_price": 0.6103,
+    "quantity": 7
+  },
+  {
+    "type": "buy",
+    "ticker": "ASNA",
+    "bid_price": 3.2854,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-filtered60",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FRED",
+    "bid_price": 1.8559,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-filtered60",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "EBIO",
+    "bid_price": 3.32,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-filtered60",
+    "min": 100
+  },
+  {
+    "type": "sell",
+    "ticker": "PRPO",
+    "bid_price": 0.39650085000000035,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "RDVT",
+    "bid_price": 7.959349400000002,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "SGLB",
+    "bid_price": 1.3486500000000001,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "FTD",
+    "bid_price": 4.905,
+    "quantity": 3
+  },
+  {
+    "type": "buy",
+    "ticker": "ZSAN",
+    "bid_price": 4.4447,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "PME",
+    "bid_price": 3.7,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown1to3",
+    "min": 210
+  },
+  {
+    "type": "sell",
+    "ticker": "SPCB",
+    "bid_price": 1.8547,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "YRIV",
+    "bid_price": 4.551720000000002,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "NVIV",
+    "bid_price": 8.01,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "OMNT",
+    "bid_price": 1.1194400000000002,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "VVUS",
+    "bid_price": 0.6549,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "PRPO",
+    "bid_price": 0.4028,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "DRNA",
+    "bid_price": 13.97,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "DXR",
+    "bid_price": 7.063944400000003,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CHEK",
+    "bid_price": 4.4501,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "RDVT",
+    "bid_price": 7.889148500000001,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SGLB",
+    "bid_price": 1.3928,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "FTD",
+    "bid_price": 5.04,
+    "quantity": 2
+  },
+  {
+    "type": "buy",
+    "ticker": "VOC",
+    "bid_price": 6.03404,
+    "quantity": 2,
+    "strategy": "sudden-drops-last3trend-first2-fiveTo10",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "FSNN",
+    "bid_price": 5.1909600000000005,
+    "quantity": 2,
+    "strategy": "sudden-drops-last3trend-first2-fiveTo10",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "BOXL",
+    "bid_price": 9.7,
+    "quantity": 3,
+    "strategy": "sudden-drops-last5trend-first2-fiveTo10",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "XTNT",
+    "bid_price": 6,
+    "quantity": 5,
+    "strategy": "sudden-drops-last5trend-first2-fiveTo10",
+    "min": 328
+  }
+]

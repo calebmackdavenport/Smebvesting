@@ -1,0 +1,86 @@
+[
+  {
+    "type": "buy",
+    "ticker": "AWX",
+    "bid_price": 3.7426703999999997,
+    "quantity": 32,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trenddown1to3-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "ALTY",
+    "bid_price": 15.245,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ANY",
+    "bid_price": 0.22,
+    "quantity": "152.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OMER",
+    "bid_price": 19.285352500000002,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MTEX",
+    "bid_price": 20.68965,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MHLD",
+    "bid_price": 4.393400000000001,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "OTEL",
+    "bid_price": 15.8065,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "ATV",
+    "bid_price": 17.36152000000001,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MHLD",
+    "bid_price": 4.3206386000000006,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MTEX",
+    "bid_price": 20.589700000000004,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FNKO",
+    "bid_price": 19.89972,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatPoints-trenddown7to10-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "sell",
+    "ticker": "MTEX",
+    "bid_price": 20.5747,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "XOMA",
+    "bid_price": 18.781200000000002,
+    "quantity": "3.0000"
+  }
+]

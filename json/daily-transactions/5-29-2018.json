@@ -1,0 +1,104 @@
+[
+  {
+    "type": "sell",
+    "ticker": "PFIE",
+    "bid_price": 4.3,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MTNB",
+    "bid_price": 0.49865025000000013,
+    "quantity": "141.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ITUS",
+    "bid_price": 3.6372,
+    "quantity": 14,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "TPIV",
+    "bid_price": 4.049082,
+    "quantity": 13,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trend3to5",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "BLIN",
+    "bid_price": 1.41312,
+    "quantity": 37,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "TCCO",
+    "bid_price": 4.4955099999999995,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "NFEC",
+    "bid_price": 2.4766,
+    "quantity": 10,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "MYSZ",
+    "bid_price": 1.215,
+    "quantity": 21,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "NFEC",
+    "bid_price": 2.4766,
+    "quantity": 21,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 32
+  },
+  {
+    "type": "sell",
+    "ticker": "GSAT",
+    "bid_price": 0.5784,
+    "quantity": 48
+  },
+  {
+    "type": "buy",
+    "ticker": "TNTR",
+    "bid_price": 0.5838,
+    "quantity": 181,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "CODX",
+    "bid_price": 3.08,
+    "quantity": 28,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints",
+    "min": 250
+  },
+  {
+    "type": "sell",
+    "ticker": "YRIV",
+    "bid_price": 8.2060949,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "GSAT",
+    "bid_price": 0.5773900000000003,
+    "quantity": 24
+  }
+]

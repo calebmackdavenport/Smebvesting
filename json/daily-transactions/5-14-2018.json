@@ -1,0 +1,178 @@
+[
+  {
+    "type": "buy",
+    "ticker": "AST",
+    "bid_price": 1.725,
+    "quantity": 8,
+    "strategy": "dynamo-3000-top50tso-notWatchout-highestTSO",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "CPRX",
+    "bid_price": 3.2204094,
+    "quantity": 4,
+    "strategy": "dynamo-3000-top50tso-notWatchout-highestTSO",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "FRSH",
+    "bid_price": 5.494607999999995,
+    "quantity": 5,
+    "strategy": "sudden-drops-last1trend-first1-fiveTo10",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "ASPN",
+    "bid_price": 5.1,
+    "quantity": 1,
+    "strategy": "constant-downers-10minute-percDownCloseOnly-filtered60-fiveTo10",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "SSG",
+    "bid_price": 7.58,
+    "quantity": 1,
+    "strategy": "constant-downers-10minute-percDownCloseOnly-filtered60-fiveTo10",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "NICK",
+    "bid_price": 8.89679999999999,
+    "quantity": 1,
+    "strategy": "constant-downers-10minute-percDownCloseOnly-filtered60-fiveTo10",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "APEN",
+    "bid_price": 6.1203,
+    "quantity": 1,
+    "strategy": "constant-downers-5minute-percDownCloseOnly-filtered40-fiveTo10",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "LAZY",
+    "bid_price": 8.858849999999999,
+    "quantity": 1,
+    "strategy": "constant-downers-5minute-percDownCloseOnly-filtered40-fiveTo10",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "DVCR",
+    "bid_price": 6.750109999999999,
+    "quantity": 1,
+    "strategy": "constant-downers-5minute-percDownCloseOnly-filtered40-fiveTo10",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "AGEN",
+    "bid_price": 3.2799124999999996,
+    "quantity": 9,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "CHEK",
+    "bid_price": 4.03403,
+    "quantity": 7,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "MNLO",
+    "bid_price": 9.63,
+    "quantity": 1,
+    "strategy": "ups-then-downs-prevClose-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "WOW",
+    "bid_price": 8.4,
+    "quantity": 1,
+    "strategy": "ups-then-downs-prevClose-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "ARWR",
+    "bid_price": 9.26,
+    "quantity": 1,
+    "strategy": "ups-then-downs-prevClose-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "CHEK",
+    "bid_price": 4.1319649499999995,
+    "quantity": 7,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to10",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "PRPO",
+    "bid_price": 0.48524249999999997,
+    "quantity": 61,
+    "strategy": "sudden-drops-last50trend-first1",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "SPCB",
+    "bid_price": 2.05,
+    "quantity": 7,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-lowestTSO",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "BSQR",
+    "bid_price": 3.755551799999999,
+    "quantity": 3,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-lowestTSO",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "LLIT",
+    "bid_price": 1.72,
+    "quantity": 8,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "OMNT",
+    "bid_price": 1.2662649999999998,
+    "quantity": 11,
+    "strategy": "dynamo-3000-bottom50tso-absvolume",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "OMNT",
+    "bid_price": 1.265,
+    "quantity": 11,
+    "strategy": "dynamo-3000-overall-absvolume",
+    "min": 381
+  },
+  {
+    "type": "buy",
+    "ticker": "FRED",
+    "bid_price": 1.8984,
+    "quantity": 7,
+    "strategy": "dynamo-3000-overall-absvolume",
+    "min": 381
+  }
+]

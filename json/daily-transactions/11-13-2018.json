@@ -1,0 +1,26 @@
+[
+  {
+    "type": "sell",
+    "ticker": "OPHC",
+    "bid_price": 4.45,
+    "quantity": 17
+  },
+  {
+    "type": "sell",
+    "ticker": "UAMY",
+    "bid_price": 0.64,
+    "quantity": 59
+  },
+  {
+    "type": "sell",
+    "ticker": "GSAT",
+    "bid_price": 0.33120285000000016,
+    "quantity": 109
+  },
+  {
+    "type": "sell",
+    "ticker": "HIL",
+    "bid_price": 3.1955550000000015,
+    "quantity": 52
+  }
+]

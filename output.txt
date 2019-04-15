@@ -1,0 +1,3291 @@
+
+> robinsmeb@1.0.0 start C:\Users\calebdavenport\Code\robinhood-playground
+> node index.js --max-old-space-size=16384
+
+State changed to connecting
+initializing Robinhood
+State changed to authenticating
+State changed to connected
+Connected
+key auth_token
+key expire_token
+key investment_profile
+key fundamentals
+key instruments
+key popularity
+key quote_data
+key accounts
+key user
+key dividends
+key earnings
+key orders
+key cancel_order
+key place_buy_order
+key place_sell_order
+key positions
+key nonzero_positions
+key news
+key tag
+key markets
+key sp500_up
+key sp500_down
+key create_watch_list
+key watchlists
+key splits
+key historicals
+key url
+Robinhood initialized
+canceling all orders...
+init refresh
+refreshing past data
+includeToday false
+days back 5
+mincount 0
+[INFO] Listening on *:3000
+[
+  {
+    "updated_at": "2019-03-29T13:59:11.085979Z",
+    "ref_id": "34288b2d-94f6-43ab-9b83-b699bbb90cfa",
+    "time_in_force": "gfd",
+    "fees": "0.00",
+    "cancel": null,
+    "response_category": "unknown",
+    "id": "41617ac5-01d6-4147-915e-1a89e4b945d8",
+    "cumulative_quantity": "100.00000",
+    "stop_price": null,
+    "reject_reason": null,
+    "instrument": "https://api.robinhood.com/instruments/9c0d317e-efc9-4a45-80c8-639b25e8f9bd/",
+    "state": "filled",
+    "trigger": "immediate",
+    "override_dtbp_checks": false,
+    "type": "market",
+    "last_transaction_at": "2019-03-29T13:59:10.735000Z",
+    "price": "0.34540000",
+    "executions": [
+      {
+        "timestamp": "2019-03-29T13:59:10.735000Z",
+        "price": "0.32802100",
+        "settlement_date": "2019-04-02",
+        "id": "3aae2dec-172e-48c1-9003-f55b205cc06a",
+        "quantity": "100.00000"
+      }
+    ],
+    "extended_hours": false,
+    "account": "https://api.robinhood.com/accounts/5SQ16994/",
+    "url": "https://api.robinhood.com/orders/41617ac5-01d6-4147-915e-1a89e4b945d8/",
+    "created_at": "2019-03-29T13:59:10.607782Z",
+    "side": "buy",
+    "override_day_trade_checks": false,
+    "position": "https://api.robinhood.com/positions/5SQ16994/9c0d317e-efc9-4a45-80c8-639b25e8f9bd/",
+    "average_price": "0.32800000",
+    "quantity": "100.00000"
+  }
+]
+orders []
+{ adjusted_open_equity: null,
+  adjusted_previous_close_equity: null,
+  open_equity: null,
+  previous_close_equity: null,
+  open_time: null,
+  interval: 'day',
+  span: 'year',
+  bounds: 'regular',
+  total_return: '0',
+  equity_historicals:
+   [ { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-03-29T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-02T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-03T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-04T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-05T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-06T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-09T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-10T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-11T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-12T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-13T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-16T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-17T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-18T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-19T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-20T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-23T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-24T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-25T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-26T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-27T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-04-30T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-01T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-02T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-03T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-04T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-07T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-08T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-09T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-10T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-11T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-14T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-15T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-16T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-17T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-18T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-21T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-22T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-23T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-24T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-25T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-29T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-30T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-05-31T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-01T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-04T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-05T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-06T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-07T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-08T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-11T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-12T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-13T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-14T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-15T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-18T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-19T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-20T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-21T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-22T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-25T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-26T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-27T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-28T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-06-29T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-02T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-03T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-05T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-06T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-09T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-10T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-11T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-12T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-13T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-16T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-17T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-18T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-19T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-20T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-23T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-24T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-25T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-26T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-27T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-30T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-07-31T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-01T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-02T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-03T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-06T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-07T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-08T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-09T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-10T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-13T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-14T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-15T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-16T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-17T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     { adjusted_open_equity: '250',
+       adjusted_close_equity: '250',
+       open_equity: '250',
+       close_equity: '250',
+       open_market_value: '0',
+       close_market_value: '0',
+       begins_at: '2018-08-20T00:00:00Z',
+       net_return: '0',
+       session: 'reg' },
+     ... 152 more items ],
+  use_new_hp: true } 'log port val'
+initializing  ask-watchers
+initializing  based-on-jump
+initializing  before-close-up
+initializing  big-day-trend-up
+initializing  cheapest-picks
+initializing  constant-downers
+initializing  constant-risers
+initializing  dow-historical
+initializing  ema-crossover-last-trade
+initializing  ema-crossover-overnight
+initializing  ema-crossover-two-days-back
+initializing  ema-crossover-watchers
+running init fn
+{ runAgainstPastData: false }
+Chunks:  1 / 5
+Chunks:  2 / 5
+Chunks:  3 / 5
+initializing  ema-crossover
+initializing  first-greens
+initializing  high-volume
+initializing  undefined
+initializing  low-float-high-volume
+initializing  most-picked
+initializing  new-highs
+initializing  only-up
+initializing  fizbiz
+initializing  stockinvest
+initializing  spread
+initializing  stock-invest
+initializing  sudden-drops
+initializing  swings
+initializing  technical-indicators
+initializing  ticker-watchers
+running init fn
+{ runAgainstPastData: false }
+Chunks:  1 / 5
+Chunks:  2 / 5
+Chunks:  3 / 5
+initializing  up-streak
+initializing  ups-then-downs
+initializing  user-modules
+initializing  week-swings
+4:00:00 AM 0 4 * * 1-5 clear ticker-watchers price cache  -  -330
+9:26:00 AM 26 9 * * 1-5 execute cheapest-picks strategy  -  -4
+9:30:00 AM 30 9 * * 1-5 execute new-highs strategy  -  0
+9:32:00 AM 32 9 * * 1-5 set ema-crossover-watchers tickers (< $15)  -  2
+9:32:00 AM 32 9 * * 1-5 set ticker-watchers tickers (< $15)  -  2
+9:34:00 AM 34 9 * * 1-5 execute only-up strategy  -  4
+9:34:00 AM 34 9 * * 1-5 execute stock-invest strategy  -  4
+9:34:00 AM 34 9 * * 1-5 execute cheapest-picks strategy  -  4
+9:35:00 AM 35 9 * * 1-5 execute high-volume strategy  -  5
+9:37:00 AM 37 9 * * 1-5 execute ema-crossover-two-days-back strategy  -  7
+9:48:00 AM 48 9 * * 1-5 execute ema-crossover-overnight strategy  -  18
+9:54:00 AM 54 9 * * 1-5 execute ema-crossover-last-trade strategy  -  24
+10:30:00 AM 30 10 * * 1-5 execute high-volume strategy  -  60
+10:35:00 AM 35 10 * * 1-5 execute cheapest-picks strategy  -  65
+11:00:00 AM 0 11 * * 1-5 execute new-highs strategy  -  90
+11:05:00 AM 5 11 * * 1-5 execute only-up strategy  -  95
+11:10:00 AM 10 11 * * 1-5 execute ema-crossover-last-trade strategy  -  100
+11:13:00 AM 13 11 * * 1-5 execute ema-crossover-two-days-back strategy  -  103
+11:14:00 AM 14 11 * * 1-5 execute stock-invest strategy  -  104
+11:35:00 AM 35 11 * * 1-5 execute cheapest-picks strategy  -  125
+12:20:00 PM 20 12 * * 1-5 execute high-volume strategy  -  170
+12:25:00 PM 25 12 * * 1-5 execute cheapest-picks strategy  -  175
+12:30:00 PM 30 12 * * 1-5 execute only-up strategy  -  180
+12:50:00 PM 50 12 * * 1-5 execute ema-crossover-last-trade strategy  -  200
+12:50:00 PM 50 12 * * 1-5 execute stock-invest strategy  -  200
+1:10:00 PM 10 13 * * 1-5 execute ema-crossover-overnight strategy  -  220
+1:15:00 PM 15 13 * * 1-5 execute cheapest-picks strategy  -  225
+1:40:00 PM 40 13 * * 1-5 execute only-up strategy  -  250
+1:45:00 PM 45 13 * * 1-5 execute high-volume strategy  -  255
+3:00:00 PM 0 15 * * 1-5 execute ema-crossover-last-trade strategy  -  330
+3:15:00 PM 15 15 * * 1-5 execute only-up strategy  -  345
+3:30:00 PM 30 15 * * 1-5 execute ema-crossover-last-trade strategy  -  360
+3:50:00 PM 50 15 * * 1-5 execute ema-crossover-last-trade strategy  -  380
+3:56:00 PM 56 15 * * 1-5 execute cheapest-picks strategy  -  386
+4:50:00 PM 50 16 * * 1-5 stop ema-crossover-watchers  -  440
+5:50:00 PM 50 17 * * 1-5 stop ticker-watchers  -  500
+selected days []
+done getting strat perf overall
+init picks
+{ day: 5, isWeekday: true, dateStr: '3-29-2019' }
+hasPicksData false
+cur date now 3-29-2019
+refreshing prediction models
+get prices
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+about to init balance report
+Global Robinhood
+{ auth_token: [AsyncFunction: attempt],
+  expire_token: [AsyncFunction: attempt],
+  investment_profile: [AsyncFunction: attempt],
+  fundamentals: [AsyncFunction: attempt],
+  instruments: [AsyncFunction: attempt],
+  popularity: [AsyncFunction: attempt],
+  quote_data: [AsyncFunction: attempt],
+  accounts: [AsyncFunction: attempt],
+  user: [AsyncFunction: attempt],
+  dividends: [AsyncFunction: attempt],
+  earnings: [AsyncFunction: attempt],
+  orders: [AsyncFunction: attempt],
+  cancel_order: [AsyncFunction: attempt],
+  place_buy_order: [AsyncFunction: attempt],
+  place_sell_order: [AsyncFunction: attempt],
+  positions: [AsyncFunction: attempt],
+  nonzero_positions: [AsyncFunction: attempt],
+  news: [AsyncFunction: attempt],
+  tag: [AsyncFunction: attempt],
+  markets: [AsyncFunction: attempt],
+  sp500_up: [AsyncFunction: attempt],
+  sp500_down: [AsyncFunction: attempt],
+  create_watch_list: [AsyncFunction: attempt],
+  watchlists: [AsyncFunction: attempt],
+  splits: [AsyncFunction: attempt],
+  historicals: [AsyncFunction: attempt],
+  url: [AsyncFunction: attempt] }
+init balance reports []
+foundReports [ { _id: 5c9d225f2205fc1c801976b9,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.6, nasdaq: 7668.04, russell2000: 1532.41 },
+    isRegularHours: true,
+    time: 2019-03-28T19:37:03.518Z,
+    __v: 0 },
+  { _id: 5c9d22722205fc1c801976ba,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.05, nasdaq: 7668.81, russell2000: 1532.45 },
+    isRegularHours: true,
+    time: 2019-03-28T19:37:22.719Z,
+    __v: 0 },
+  { _id: 5c9d22892205fc1c801976bb,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.19, nasdaq: 7669.1, russell2000: 1532.46 },
+    isRegularHours: true,
+    time: 2019-03-28T19:37:45.195Z,
+    __v: 0 },
+  { _id: 5c9d229c2205fc1c801976bc,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.43, nasdaq: 7669.78, russell2000: 1532.51 },
+    isRegularHours: true,
+    time: 2019-03-28T19:38:04.514Z,
+    __v: 0 },
+  { _id: 5c9d22ff2205fc1c801976bd,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.32, nasdaq: 7669.81, russell2000: 1532.63 },
+    isRegularHours: true,
+    time: 2019-03-28T19:39:43.018Z,
+    __v: 0 },
+  { _id: 5c9d23132205fc1c801976be,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.14, nasdaq: 7669.35, russell2000: 1532.65 },
+    isRegularHours: true,
+    time: 2019-03-28T19:40:03.376Z,
+    __v: 0 },
+  { _id: 5c9d23292205fc1c801976bf,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.02, nasdaq: 7668.84, russell2000: 1532.69 },
+    isRegularHours: true,
+    time: 2019-03-28T19:40:25.589Z,
+    __v: 0 },
+  { _id: 5c9d233d2205fc1c801976c0,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.06, nasdaq: 7669.14, russell2000: 1532.75 },
+    isRegularHours: true,
+    time: 2019-03-28T19:40:45.673Z,
+    __v: 0 },
+  { _id: 5c9d23512205fc1c801976c1,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.07, nasdaq: 7669.17, russell2000: 1532.73 },
+    isRegularHours: true,
+    time: 2019-03-28T19:41:05.921Z,
+    __v: 0 },
+  { _id: 5c9d23662205fc1c801976c2,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.47, nasdaq: 7669.96, russell2000: 1533.24 },
+    isRegularHours: true,
+    time: 2019-03-28T19:41:26.480Z,
+    __v: 0 },
+  { _id: 5c9d237a2205fc1c801976c3,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.75, nasdaq: 7670.51, russell2000: 1533.24 },
+    isRegularHours: true,
+    time: 2019-03-28T19:41:46.646Z,
+    __v: 0 },
+  { _id: 5c9d238f2205fc1c801976c6,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.7, nasdaq: 7670.52, russell2000: 1533.63 },
+    isRegularHours: true,
+    time: 2019-03-28T19:42:07.500Z,
+    __v: 0 },
+  { _id: 5c9d23a32205fc1c801976c7,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.08, nasdaq: 7671.37, russell2000: 1533.62 },
+    isRegularHours: true,
+    time: 2019-03-28T19:42:27.775Z,
+    __v: 0 },
+  { _id: 5c9d23b72205fc1c801976c8,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.12, nasdaq: 7671.39, russell2000: 1533.61 },
+    isRegularHours: true,
+    time: 2019-03-28T19:42:47.747Z,
+    __v: 0 },
+  { _id: 5c9d23ca2205fc1c801976c9,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.83, nasdaq: 7671.07, russell2000: 1533.6 },
+    isRegularHours: true,
+    time: 2019-03-28T19:43:06.854Z,
+    __v: 0 },
+  { _id: 5c9d23de2205fc1c801976ca,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.65, nasdaq: 7670.41, russell2000: 1533.58 },
+    isRegularHours: true,
+    time: 2019-03-28T19:43:26.768Z,
+    __v: 0 },
+  { _id: 5c9d23f22205fc1c801976cb,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.26, nasdaq: 7671.8, russell2000: 1533.46 },
+    isRegularHours: true,
+    time: 2019-03-28T19:43:46.658Z,
+    __v: 0 },
+  { _id: 5c9d24062205fc1c801976cc,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.38, nasdaq: 7672.05, russell2000: 1533.36 },
+    isRegularHours: true,
+    time: 2019-03-28T19:44:06.701Z,
+    __v: 0 },
+  { _id: 5c9d24192205fc1c801976cd,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.28, nasdaq: 7671.52, russell2000: 1533.01 },
+    isRegularHours: true,
+    time: 2019-03-28T19:44:25.988Z,
+    __v: 0 },
+  { _id: 5c9d242d2205fc1c801976ce,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.12, nasdaq: 7671.28, russell2000: 1532.98 },
+    isRegularHours: true,
+    time: 2019-03-28T19:44:45.734Z,
+    __v: 0 },
+  { _id: 5c9d24412205fc1c801976cf,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.1, nasdaq: 7671.1, russell2000: 1532.92 },
+    isRegularHours: true,
+    time: 2019-03-28T19:45:05.455Z,
+    __v: 0 },
+  { _id: 5c9d24a12205fc1c801976d2,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.21, nasdaq: 7672.39, russell2000: 1532.94 },
+    isRegularHours: true,
+    time: 2019-03-28T19:46:41.705Z,
+    __v: 0 },
+  { _id: 5c9d24b72205fc1c801976d3,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.51, nasdaq: 7672.79, russell2000: 1532.88 },
+    isRegularHours: true,
+    time: 2019-03-28T19:47:03.058Z,
+    __v: 0 },
+  { _id: 5c9d24cc2205fc1c801976d4,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.3, nasdaq: 7672.41, russell2000: 1532.89 },
+    isRegularHours: true,
+    time: 2019-03-28T19:47:24.176Z,
+    __v: 0 },
+  { _id: 5c9d24df2205fc1c801976d5,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.13, nasdaq: 7672.1, russell2000: 1532.99 },
+    isRegularHours: true,
+    time: 2019-03-28T19:47:43.777Z,
+    __v: 0 },
+  { _id: 5c9d24f22205fc1c801976d6,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.16, nasdaq: 7672.11, russell2000: 1533.01 },
+    isRegularHours: true,
+    time: 2019-03-28T19:48:02.819Z,
+    __v: 0 },
+  { _id: 5c9d25072205fc1c801976d7,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.41, nasdaq: 7669.93, russell2000: 1532.99 },
+    isRegularHours: true,
+    time: 2019-03-28T19:48:23.353Z,
+    __v: 0 },
+  { _id: 5c9d251e2205fc1c801976d8,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.08, nasdaq: 7668.9, russell2000: 1532.9 },
+    isRegularHours: true,
+    time: 2019-03-28T19:48:46.709Z,
+    __v: 0 },
+  { _id: 5c9d25322205fc1c801976d9,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.81, nasdaq: 7667.44, russell2000: 1532.9 },
+    isRegularHours: true,
+    time: 2019-03-28T19:49:06.347Z,
+    __v: 0 },
+  { _id: 5c9d25462205fc1c801976da,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.47, nasdaq: 7667.1, russell2000: 1533.01 },
+    isRegularHours: true,
+    time: 2019-03-28T19:49:26.248Z,
+    __v: 0 },
+  { _id: 5c9d25592205fc1c801976db,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.69, nasdaq: 7667.57, russell2000: 1533.07 },
+    isRegularHours: true,
+    time: 2019-03-28T19:49:45.165Z,
+    __v: 0 },
+  { _id: 5c9d256c2205fc1c801976dc,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.49, nasdaq: 7667.15, russell2000: 1533.17 },
+    isRegularHours: true,
+    time: 2019-03-28T19:50:04.978Z,
+    __v: 0 },
+  { _id: 5c9d25822205fc1c801976dd,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.28, nasdaq: 7666.5, russell2000: 1533.19 },
+    isRegularHours: true,
+    time: 2019-03-28T19:50:26.425Z,
+    __v: 0 },
+  { _id: 5c9d25962205fc1c801976de,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.25, nasdaq: 7666.36, russell2000: 1533.33 },
+    isRegularHours: true,
+    time: 2019-03-28T19:50:46.466Z,
+    __v: 0 },
+  { _id: 5c9d25a92205fc1c801976df,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.47, nasdaq: 7667.22, russell2000: 1533.37 },
+    isRegularHours: true,
+    time: 2019-03-28T19:51:05.390Z,
+    __v: 0 },
+  { _id: 5c9d25bd2205fc1c801976e0,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.04, nasdaq: 7666.07, russell2000: 1533.43 },
+    isRegularHours: true,
+    time: 2019-03-28T19:51:25.054Z,
+    __v: 0 },
+  { _id: 5c9d25d02205fc1c801976e1,
+    accountBalance: 0,
+    indexPrices: { sp500: 2813.98, nasdaq: 7665.61, russell2000: 1533.48 },
+    isRegularHours: true,
+    time: 2019-03-28T19:51:44.592Z,
+    __v: 0 },
+  { _id: 5c9d25e42205fc1c801976e2,
+    accountBalance: 0,
+    indexPrices: { sp500: 2813.99, nasdaq: 7665.44, russell2000: 1533.43 },
+    isRegularHours: true,
+    time: 2019-03-28T19:52:04.540Z,
+    __v: 0 },
+  { _id: 5c9d25f72205fc1c801976e3,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.08, nasdaq: 7665.4, russell2000: 1533.43 },
+    isRegularHours: true,
+    time: 2019-03-28T19:52:23.903Z,
+    __v: 0 },
+  { _id: 5c9d260c2205fc1c801976e4,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.05, nasdaq: 7665.33, russell2000: 1533.43 },
+    isRegularHours: true,
+    time: 2019-03-28T19:52:44.631Z,
+    __v: 0 },
+  { _id: 5c9d26202205fc1c801976e5,
+    accountBalance: 0,
+    indexPrices: { sp500: 2813.86, nasdaq: 7664.74, russell2000: 1533.57 },
+    isRegularHours: true,
+    time: 2019-03-28T19:53:04.306Z,
+    __v: 0 },
+  { _id: 5c9d26342205fc1c801976e6,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.58, nasdaq: 7665.6, russell2000: 1533.57 },
+    isRegularHours: true,
+    time: 2019-03-28T19:53:24.645Z,
+    __v: 0 },
+  { _id: 5c9d26482205fc1c801976e7,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.28, nasdaq: 7665.21, russell2000: 1533.46 },
+    isRegularHours: true,
+    time: 2019-03-28T19:53:44.919Z,
+    __v: 0 },
+  { _id: 5c9d265b2205fc1c801976e8,
+    accountBalance: 0,
+    indexPrices: { sp500: 2814.64, nasdaq: 7665.93, russell2000: 1533.39 },
+    isRegularHours: true,
+    time: 2019-03-28T19:54:03.866Z,
+    __v: 0 },
+  { _id: 5c9d266f2205fc1c801976e9,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.94, nasdaq: 7669.63, russell2000: 1533.52 },
+    isRegularHours: true,
+    time: 2019-03-28T19:54:23.126Z,
+    __v: 0 },
+  { _id: 5c9d26832205fc1c801976ea,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.1, nasdaq: 7668.17, russell2000: 1533.52 },
+    isRegularHours: true,
+    time: 2019-03-28T19:54:43.227Z,
+    __v: 0 },
+  { _id: 5c9d26972205fc1c801976eb,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.43, nasdaq: 7670.43, russell2000: 1533.29 },
+    isRegularHours: true,
+    time: 2019-03-28T19:55:03.867Z,
+    __v: 0 },
+  { _id: 5c9d26ab2205fc1c801976ec,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.87, nasdaq: 7670.32, russell2000: 1533.17 },
+    isRegularHours: true,
+    time: 2019-03-28T19:55:23.481Z,
+    __v: 0 },
+  { _id: 5c9d26bf2205fc1c801976ed,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.92, nasdaq: 7669.94, russell2000: 1533.19 },
+    isRegularHours: true,
+    time: 2019-03-28T19:55:43.029Z,
+    __v: 0 },
+  { _id: 5c9d26d12205fc1c801976ee,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.06, nasdaq: 7670.29, russell2000: 1533.18 },
+    isRegularHours: true,
+    time: 2019-03-28T19:56:01.701Z,
+    __v: 0 },
+  { _id: 5c9d26e52205fc1c801976ef,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.92, nasdaq: 7670.05, russell2000: 1533.22 },
+    isRegularHours: true,
+    time: 2019-03-28T19:56:21.989Z,
+    __v: 0 },
+  { _id: 5c9d26f92205fc1c801976f0,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.57, nasdaq: 7669.13, russell2000: 1533.24 },
+    isRegularHours: true,
+    time: 2019-03-28T19:56:41.317Z,
+    __v: 0 },
+  { _id: 5c9d270c2205fc1c801976f1,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.7, nasdaq: 7669.46, russell2000: 1533.3 },
+    isRegularHours: true,
+    time: 2019-03-28T19:57:00.347Z,
+    __v: 0 },
+  { _id: 5c9d271e2205fc1c801976f2,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.22, nasdaq: 7671.35, russell2000: 1533.33 },
+    isRegularHours: true,
+    time: 2019-03-28T19:57:18.854Z,
+    __v: 0 },
+  { _id: 5c9d27332205fc1c801976f3,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.44, nasdaq: 7671.5, russell2000: 1533.41 },
+    isRegularHours: true,
+    time: 2019-03-28T19:57:39.159Z,
+    __v: 0 },
+  { _id: 5c9d27462205fc1c801976f4,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.77, nasdaq: 7672.57, russell2000: 1533.33 },
+    isRegularHours: true,
+    time: 2019-03-28T19:57:58.406Z,
+    __v: 0 },
+  { _id: 5c9d275a2205fc1c801976f5,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.2, nasdaq: 7671.72, russell2000: 1533.4 },
+    isRegularHours: true,
+    time: 2019-03-28T19:58:18.532Z,
+    __v: 0 },
+  { _id: 5c9d276d2205fc1c801976f6,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.46, nasdaq: 7672.2, russell2000: 1533.55 },
+    isRegularHours: true,
+    time: 2019-03-28T19:58:37.998Z,
+    __v: 0 },
+  { _id: 5c9d27812205fc1c801976f7,
+    accountBalance: 0,
+    indexPrices: { sp500: 2816.24, nasdaq: 7671.58, russell2000: 1533.66 },
+    isRegularHours: true,
+    time: 2019-03-28T19:58:57.641Z,
+    __v: 0 },
+  { _id: 5c9d27952205fc1c801976f8,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.59, nasdaq: 7670.59, russell2000: 1533.71 },
+    isRegularHours: true,
+    time: 2019-03-28T19:59:17.544Z,
+    __v: 0 },
+  { _id: 5c9d27a92205fc1c801976f9,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.28, nasdaq: 7669.32, russell2000: 1533.76 },
+    isRegularHours: true,
+    time: 2019-03-28T19:59:37.661Z,
+    __v: 0 },
+  { _id: 5c9d27bc2205fc1c801976fa,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.85, nasdaq: 7670.09, russell2000: 1533.78 },
+    isRegularHours: true,
+    time: 2019-03-28T19:59:56.508Z,
+    __v: 0 },
+  { _id: 5c9d27cf2205fc1c801976fb,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.41, nasdaq: 7669.17, russell2000: 1533.98 },
+    isRegularHours: true,
+    time: 2019-03-28T20:00:15.282Z,
+    __v: 0 },
+  { _id: 5c9d27e32205fc1c801976fc,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.41, nasdaq: 7669.17, russell2000: 1534.03 },
+    isRegularHours: true,
+    time: 2019-03-28T20:00:35.717Z,
+    __v: 0 },
+  { _id: 5c9d27f92205fc1c801976fd,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.42, nasdaq: 7669.17, russell2000: 1534.06 },
+    isRegularHours: true,
+    time: 2019-03-28T20:00:57.111Z,
+    __v: 0 },
+  { _id: 5c9d280d2205fc1c801976fe,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.43, nasdaq: 7669.17, russell2000: 1534.11 },
+    isRegularHours: true,
+    time: 2019-03-28T20:01:17.266Z,
+    __v: 0 },
+  { _id: 5c9d28202205fc1c801976ff,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.45, nasdaq: 7669.17, russell2000: 1534.08 },
+    isRegularHours: true,
+    time: 2019-03-28T20:01:36.662Z,
+    __v: 0 },
+  { _id: 5c9d28332205fc1c80197700,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.45, nasdaq: 7669.17, russell2000: 1534.29 },
+    isRegularHours: true,
+    time: 2019-03-28T20:01:55.239Z,
+    __v: 0 },
+  { _id: 5c9d28462205fc1c80197701,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.46, nasdaq: 7669.17, russell2000: 1534.21 },
+    isRegularHours: true,
+    time: 2019-03-28T20:02:14.181Z,
+    __v: 0 },
+  { _id: 5c9d28592205fc1c80197702,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.45, nasdaq: 7669.17, russell2000: 1534.34 },
+    isRegularHours: true,
+    time: 2019-03-28T20:02:33.155Z,
+    __v: 0 },
+  { _id: 5c9d286d2205fc1c80197703,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.45, nasdaq: 7669.17, russell2000: 1534.31 },
+    isRegularHours: true,
+    time: 2019-03-28T20:02:53.366Z,
+    __v: 0 },
+  { _id: 5c9d28812205fc1c80197704,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1534.2 },
+    isRegularHours: true,
+    time: 2019-03-28T20:03:13.227Z,
+    __v: 0 },
+  { _id: 5c9d28952205fc1c80197705,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1533.94 },
+    isRegularHours: true,
+    time: 2019-03-28T20:03:33.083Z,
+    __v: 0 },
+  { _id: 5c9d28a72205fc1c80197706,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1533.82 },
+    isRegularHours: true,
+    time: 2019-03-28T20:03:51.630Z,
+    __v: 0 },
+  { _id: 5c9d28ba2205fc1c80197707,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1533.72 },
+    isRegularHours: true,
+    time: 2019-03-28T20:04:10.616Z,
+    __v: 0 },
+  { _id: 5c9d28cf2205fc1c80197708,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1533.57 },
+    isRegularHours: true,
+    time: 2019-03-28T20:04:31.093Z,
+    __v: 0 },
+  { _id: 5c9d28e12205fc1c80197709,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1533.56 },
+    isRegularHours: true,
+    time: 2019-03-28T20:04:49.867Z,
+    __v: 0 },
+  { _id: 5c9d28f52205fc1c8019770a,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1533.45 },
+    isRegularHours: true,
+    time: 2019-03-28T20:05:09.082Z,
+    __v: 0 },
+  { _id: 5c9d29082205fc1c8019770b,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1533.37 },
+    isRegularHours: true,
+    time: 2019-03-28T20:05:28.618Z,
+    __v: 0 },
+  { _id: 5c9d291c2205fc1c8019770c,
+    accountBalance: 0,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1533.29 },
+    isRegularHours: true,
+    time: 2019-03-28T20:05:48.477Z,
+    __v: 0 },
+  { _id: 5c9d382ae05cd323f4104118,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:10:02.106Z,
+    __v: 0 },
+  { _id: 5c9d385ae05cd323f4104119,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:10:50.900Z,
+    __v: 0 },
+  { _id: 5c9d387ed150ae2514ea3365,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:11:26.102Z,
+    __v: 0 },
+  { _id: 5c9d38afd150ae2514ea3366,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:12:15.791Z,
+    __v: 0 },
+  { _id: 5c9d38e1d150ae2514ea3367,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:13:05.624Z,
+    __v: 0 },
+  { _id: 5c9d3913d150ae2514ea3368,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:13:55.773Z,
+    __v: 0 },
+  { _id: 5c9d3944d150ae2514ea3369,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:14:44.716Z,
+    __v: 0 },
+  { _id: 5c9d3977d150ae2514ea336a,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:15:35.294Z,
+    __v: 0 },
+  { _id: 5c9d39a8d150ae2514ea336b,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:16:24.117Z,
+    __v: 0 },
+  { _id: 5c9d39d9d150ae2514ea336c,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:17:13.887Z,
+    __v: 0 },
+  { _id: 5c9d3a0ad150ae2514ea336d,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:18:02.989Z,
+    __v: 0 },
+  { _id: 5c9d3a3cd150ae2514ea336e,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:18:52.018Z,
+    __v: 0 },
+  { _id: 5c9d3a6cd150ae2514ea336f,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:19:40.819Z,
+    __v: 0 },
+  { _id: 5c9d3a9fd150ae2514ea3370,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:20:31.244Z,
+    __v: 0 },
+  { _id: 5c9d3ad0d150ae2514ea3371,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:21:20.993Z,
+    __v: 0 },
+  { _id: 5c9d3b01d150ae2514ea3372,
+    accountBalance: 250,
+    indexPrices: { sp500: 2815.44, nasdaq: 7669.17, russell2000: 1535.1 },
+    isRegularHours: false,
+    time: 2019-03-28T21:22:09.940Z,
+    __v: 0 },
+  { _id: 5c9e44eaca79ef1e207c66be,
+    accountBalance: 246.61,
+    indexPrices: { sp500: 2823.24, nasdaq: 7699.62, russell2000: 1536.92 },
+    isRegularHours: true,
+    time: 2019-03-29T16:16:42.490Z,
+    __v: 0 },
+  { _id: 5c9e44fcca79ef1e207c66bf,
+    accountBalance: 246.61,
+    indexPrices: { sp500: 2823.52, nasdaq: 7700.06, russell2000: 1536.94 },
+    isRegularHours: true,
+    time: 2019-03-29T16:17:00.278Z,
+    __v: 0 },
+  { _id: 5c9e450eca79ef1e207c66c0,
+    accountBalance: 246.61,
+    indexPrices: { sp500: 2823.81, nasdaq: 7700.62, russell2000: 1536.91 },
+    isRegularHours: true,
+    time: 2019-03-29T16:17:18.748Z,
+    __v: 0 },
+  { _id: 5c9e4521ca79ef1e207c66c1,
+    accountBalance: 246.61,
+    indexPrices: { sp500: 2823.23, nasdaq: 7699.48, russell2000: 1536.86 },
+    isRegularHours: true,
+    time: 2019-03-29T16:17:37.008Z,
+    __v: 0 },
+  ... 197 more items ]
+{ currentMin: 394 }
+starting because day in progress
+starting balance report manager
+runAndSetTimeout { isRunning: true }
+Chunks:  4 / 5
+{ cashAvailable: 217.2 }
+Chunks:  5 / 5
+Chunks:  4 / 5
+Chunks:  5 / 5
+{ allUnder15:
+   [ 'SAVA',
+     'DSSI',
+     'THCB',
+     'TROX',
+     'CPLP',
+     'CRMD',
+     'GMHI',
+     'CARE',
+     'PVT',
+     'GSL',
+     'OSW',
+     'TIGR',
+     'SHIP',
+     'EARS',
+     'PDSB',
+     'ATIS',
+     'TH',
+     'OTLK',
+     'RBZ',
+     'XFOR',
+     'ICON',
+     'CHAC',
+     'AM',
+     'OPTT',
+     'FHL',
+     'DCAR',
+     'HHHH',
+     'ANDA',
+     'DCIX',
+     'ELGX',
+     'VISL',
+     'EFC',
+     'MR',
+     'KLDO',
+     'ITMR',
+     'MNCL',
+     'SLGG',
+     'CTST',
+     'XSPA',
+     'MLNT',
+     'SOLY',
+     'VFF',
+     'MYT',
+     'NTZ',
+     'TROV',
+     'HOTH',
+     'EPSN',
+     'HGLB',
+     'AREC',
+     'MTBC',
+     'ANCN',
+     'ZYXI',
+     'CTRM',
+     'CLDX',
+     'HARP',
+     'TRNX',
+     'ALEC',
+     'PULM',
+     'INMB',
+     'WORX',
+     'OHRP',
+     'DQJCY',
+     'ESI',
+     'NFE',
+     'CFFAW',
+     'CFFA',
+     'NAO',
+     'STNL',
+     'TTNP',
+     'SEEL',
+     'HEXO',
+     'STNG',
+     'RBKB',
+     'GLG',
+     'SAMA',
+     'BCOW',
+     'FTAC',
+     'FTACW',
+     'SXTC',
+     'OZM',
+     'NM',
+     'CHFS',
+     'HROW',
+     'APYX',
+     'RHE',
+     'MAXR',
+     'KOS',
+     'CATB',
+     'CADC',
+     'ORGO',
+     'ERSX',
+     'PHCF',
+     'EGO',
+     'AMCI',
+     'CEI',
+     'DTSS',
+     'APM',
+     'LEGH',
+     'PLG',
+     'QFIN',
+     ... 3138 more items ] }
+adding fundamentals
+Chunks:  1 / 324
+Chunks:  2 / 324
+Chunks:  3 / 324
+{ allUnder15:
+   [ 'SAVA',
+     'DSSI',
+     'THCB',
+     'TROX',
+     'CPLP',
+     'CRMD',
+     'GMHI',
+     'CARE',
+     'PVT',
+     'GSL',
+     'OSW',
+     'TIGR',
+     'SHIP',
+     'EARS',
+     'PDSB',
+     'ATIS',
+     'TH',
+     'OTLK',
+     'RBZ',
+     'XFOR',
+     'ICON',
+     'CHAC',
+     'AM',
+     'OPTT',
+     'FHL',
+     'DCAR',
+     'HHHH',
+     'ANDA',
+     'DCIX',
+     'ELGX',
+     'VISL',
+     'EFC',
+     'MR',
+     'KLDO',
+     'ITMR',
+     'MNCL',
+     'SLGG',
+     'CTST',
+     'XSPA',
+     'MLNT',
+     'SOLY',
+     'VFF',
+     'MYT',
+     'NTZ',
+     'TROV',
+     'HOTH',
+     'EPSN',
+     'HGLB',
+     'AREC',
+     'MTBC',
+     'ANCN',
+     'ZYXI',
+     'CTRM',
+     'CLDX',
+     'HARP',
+     'TRNX',
+     'ALEC',
+     'PULM',
+     'INMB',
+     'WORX',
+     'OHRP',
+     'DQJCY',
+     'ESI',
+     'NFE',
+     'CFFAW',
+     'CFFA',
+     'NAO',
+     'STNL',
+     'TTNP',
+     'SEEL',
+     'HEXO',
+     'STNG',
+     'RBKB',
+     'GLG',
+     'SAMA',
+     'BCOW',
+     'FTAC',
+     'FTACW',
+     'SXTC',
+     'OZM',
+     'NM',
+     'CHFS',
+     'HROW',
+     'APYX',
+     'RHE',
+     'MAXR',
+     'KOS',
+     'CATB',
+     'CADC',
+     'ORGO',
+     'ERSX',
+     'PHCF',
+     'EGO',
+     'AMCI',
+     'CEI',
+     'DTSS',
+     'APM',
+     'LEGH',
+     'PLG',
+     'QFIN',
+     ... 3138 more items ] }
+adding tickers [ 'SAVA',
+  'DSSI',
+  'THCB',
+  'TROX',
+  'CPLP',
+  'CRMD',
+  'GMHI',
+  'CARE',
+  'PVT',
+  'GSL',
+  'OSW',
+  'TIGR',
+  'SHIP',
+  'EARS',
+  'PDSB',
+  'ATIS',
+  'TH',
+  'OTLK',
+  'RBZ',
+  'XFOR',
+  'ICON',
+  'CHAC',
+  'AM',
+  'OPTT',
+  'FHL',
+  'DCAR',
+  'HHHH',
+  'ANDA',
+  'DCIX',
+  'ELGX',
+  'VISL',
+  'EFC',
+  'MR',
+  'KLDO',
+  'ITMR',
+  'MNCL',
+  'SLGG',
+  'CTST',
+  'XSPA',
+  'MLNT',
+  'SOLY',
+  'VFF',
+  'MYT',
+  'NTZ',
+  'TROV',
+  'HOTH',
+  'EPSN',
+  'HGLB',
+  'AREC',
+  'MTBC',
+  'ANCN',
+  'ZYXI',
+  'CTRM',
+  'CLDX',
+  'HARP',
+  'TRNX',
+  'ALEC',
+  'PULM',
+  'INMB',
+  'WORX',
+  'OHRP',
+  'DQJCY',
+  'ESI',
+  'NFE',
+  'CFFAW',
+  'CFFA',
+  'NAO',
+  'STNL',
+  'TTNP',
+  'SEEL',
+  'HEXO',
+  'STNG',
+  'RBKB',
+  'GLG',
+  'SAMA',
+  'BCOW',
+  'FTAC',
+  'FTACW',
+  'SXTC',
+  'OZM',
+  'NM',
+  'CHFS',
+  'HROW',
+  'APYX',
+  'RHE',
+  'MAXR',
+  'KOS',
+  'CATB',
+  'CADC',
+  'ORGO',
+  'ERSX',
+  'PHCF',
+  'EGO',
+  'AMCI',
+  'CEI',
+  'DTSS',
+  'APM',
+  'LEGH',
+  'PLG',
+  'QFIN',
+  ... 3138 more items ]
+ticker-watchers getRelatedPrices
+ticker-watchers getting related prices 3238
+Chunks:  1 / 2
+Chunks:  2 / 2
+Chunks:  4 / 324
+Chunks:  5 / 324
+Chunks:  6 / 324
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+Chunks:  7 / 324
+Chunks:  8 / 324
+Chunks:  9 / 324
+ticker-watchers done getting related prices
+Chunks:  10 / 324
+Chunks:  11 / 324
+Chunks:  12 / 324
+Chunks:  13 / 324
+Chunks:  14 / 324
+Chunks:  15 / 324
+Chunks:  16 / 324
+Chunks:  17 / 324
+Chunks:  18 / 324
+Chunks:  19 / 324
+Chunks:  20 / 324
+Chunks:  21 / 324
+Chunks:  22 / 324
+Chunks:  23 / 324
+Chunks:  24 / 324
+Chunks:  25 / 324
+Chunks:  26 / 324
+Chunks:  27 / 324
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+Chunks:  28 / 324
+Chunks:  29 / 324
+Chunks:  30 / 324
+Chunks:  31 / 324
+Chunks:  32 / 324
+Chunks:  33 / 324
+Chunks:  34 / 324
+Chunks:  35 / 324
+Chunks:  36 / 324
+Chunks:  37 / 324
+Chunks:  38 / 324
+Chunks:  39 / 324
+Chunks:  40 / 324
+Chunks:  41 / 324
+Chunks:  42 / 324
+Chunks:  43 / 324
+Chunks:  44 / 324
+Chunks:  45 / 324
+Chunks:  46 / 324
+Chunks:  47 / 324
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+Chunks:  48 / 324
+Chunks:  49 / 324
+Chunks:  50 / 324
+Chunks:  51 / 324
+Chunks:  52 / 324
+Chunks:  53 / 324
+Chunks:  54 / 324
+Chunks:  55 / 324
+Chunks:  56 / 324
+Chunks:  57 / 324
+Chunks:  58 / 324
+initd strat manager
+Chunks:  59 / 324
+Chunks:  60 / 324
+Chunks:  61 / 324
+Chunks:  62 / 324
+Chunks:  63 / 324
+Chunks:  64 / 324
+Chunks:  65 / 324
+Chunks:  66 / 324
+Chunks:  67 / 324
+Chunks:  68 / 324
+Chunks:  69 / 324
+Chunks:  70 / 324
+Chunks:  71 / 324
+Chunks:  72 / 324
+Chunks:  73 / 324
+Chunks:  74 / 324
+Chunks:  75 / 324
+Chunks:  76 / 324
+Chunks:  77 / 324
+Chunks:  78 / 324
+Chunks:  79 / 324
+Chunks:  80 / 324
+Chunks:  81 / 324
+Chunks:  82 / 324
+Chunks:  83 / 324
+Chunks:  84 / 324
+Chunks:  85 / 324
+Chunks:  86 / 324
+Chunks:  87 / 324
+Chunks:  88 / 324
+Chunks:  89 / 324
+Chunks:  90 / 324
+Chunks:  91 / 324
+Chunks:  92 / 324
+Chunks:  93 / 324
+Chunks:  94 / 324
+Chunks:  95 / 324
+Chunks:  96 / 324
+Chunks:  97 / 324
+Chunks:  98 / 324
+Chunks:  99 / 324
+Chunks:  100 / 324
+Chunks:  101 / 324
+Chunks:  102 / 324
+Chunks:  103 / 324
+Chunks:  104 / 324
+Chunks:  105 / 324
+Chunks:  106 / 324
+Chunks:  107 / 324
+Chunks:  108 / 324
+Chunks:  109 / 324
+Chunks:  110 / 324
+Chunks:  111 / 324
+Chunks:  112 / 324
+Chunks:  113 / 324
+Chunks:  114 / 324
+Chunks:  115 / 324
+Chunks:  116 / 324
+Chunks:  117 / 324
+Chunks:  118 / 324
+Chunks:  119 / 324
+Chunks:  120 / 324
+Chunks:  121 / 324
+Chunks:  122 / 324
+Chunks:  123 / 324
+Chunks:  124 / 324
+Chunks:  125 / 324
+Chunks:  126 / 324
+Chunks:  127 / 324
+Chunks:  128 / 324
+Chunks:  129 / 324
+Chunks:  130 / 324
+Chunks:  131 / 324
+Chunks:  132 / 324
+Chunks:  133 / 324
+Chunks:  134 / 324
+Chunks:  135 / 324
+Chunks:  136 / 324
+Chunks:  137 / 324
+Chunks:  138 / 324
+Chunks:  139 / 324
+Chunks:  140 / 324
+Chunks:  141 / 324
+Chunks:  142 / 324
+Chunks:  143 / 324
+Chunks:  144 / 324
+Chunks:  145 / 324
+Chunks:  146 / 324
+Chunks:  147 / 324
+Chunks:  148 / 324
+Chunks:  149 / 324
+Chunks:  150 / 324
+Chunks:  151 / 324
+Chunks:  152 / 324
+Chunks:  153 / 324
+Chunks:  154 / 324
+Chunks:  155 / 324
+Chunks:  156 / 324
+Chunks:  157 / 324
+Chunks:  158 / 324
+Chunks:  159 / 324
+Chunks:  160 / 324
+Chunks:  161 / 324
+Chunks:  162 / 324
+Chunks:  163 / 324
+Chunks:  164 / 324
+Chunks:  165 / 324
+Chunks:  166 / 324
+Chunks:  167 / 324
+Chunks:  168 / 324
+Chunks:  169 / 324
+Chunks:  170 / 324
+Chunks:  171 / 324
+Chunks:  172 / 324
+Chunks:  173 / 324
+Chunks:  174 / 324
+Chunks:  175 / 324
+Chunks:  176 / 324
+Chunks:  177 / 324
+Chunks:  178 / 324
+Chunks:  179 / 324
+Chunks:  180 / 324
+Chunks:  181 / 324
+Chunks:  182 / 324
+Chunks:  183 / 324
+Chunks:  184 / 324
+Chunks:  185 / 324
+Chunks:  186 / 324
+Chunks:  187 / 324
+Chunks:  188 / 324
+Chunks:  189 / 324
+Chunks:  190 / 324
+Chunks:  191 / 324
+Chunks:  192 / 324
+Chunks:  193 / 324
+Chunks:  194 / 324
+Chunks:  195 / 324
+Chunks:  196 / 324
+Chunks:  197 / 324
+Chunks:  198 / 324
+Chunks:  199 / 324
+Chunks:  200 / 324
+Chunks:  201 / 324
+Chunks:  202 / 324
+Chunks:  203 / 324
+Chunks:  204 / 324
+Chunks:  205 / 324
+Chunks:  206 / 324
+Chunks:  207 / 324
+Chunks:  208 / 324
+Chunks:  209 / 324
+Chunks:  210 / 324
+Chunks:  211 / 324
+Chunks:  212 / 324
+Chunks:  213 / 324
+Chunks:  214 / 324
+Chunks:  215 / 324
+Chunks:  216 / 324
+Chunks:  217 / 324
+Chunks:  218 / 324
+Chunks:  219 / 324
+Chunks:  220 / 324
+Chunks:  221 / 324
+Chunks:  222 / 324
+Chunks:  223 / 324
+Chunks:  224 / 324
+Chunks:  225 / 324
+Chunks:  226 / 324
+Chunks:  227 / 324
+Chunks:  228 / 324
+Chunks:  229 / 324
+Chunks:  230 / 324
+Chunks:  231 / 324
+Chunks:  232 / 324
+Chunks:  233 / 324
+Chunks:  234 / 324
+Chunks:  235 / 324
+Chunks:  236 / 324
+Chunks:  237 / 324
+Chunks:  238 / 324
+Chunks:  239 / 324
+Chunks:  240 / 324
+Chunks:  241 / 324
+Chunks:  242 / 324
+Chunks:  243 / 324
+Chunks:  244 / 324
+Chunks:  245 / 324
+Chunks:  246 / 324
+Chunks:  247 / 324
+Chunks:  248 / 324
+Chunks:  249 / 324
+Chunks:  250 / 324
+Chunks:  251 / 324
+Chunks:  252 / 324
+Chunks:  253 / 324
+Chunks:  254 / 324
+Chunks:  255 / 324
+Chunks:  256 / 324
+Chunks:  257 / 324
+Chunks:  258 / 324
+Chunks:  259 / 324
+Chunks:  260 / 324
+Chunks:  261 / 324
+Chunks:  262 / 324
+Chunks:  263 / 324
+Chunks:  264 / 324
+Chunks:  265 / 324
+Chunks:  266 / 324
+Chunks:  267 / 324
+Chunks:  268 / 324
+Chunks:  269 / 324
+Chunks:  270 / 324
+Chunks:  271 / 324
+Chunks:  272 / 324
+Chunks:  273 / 324
+Chunks:  274 / 324
+Chunks:  275 / 324
+Chunks:  276 / 324
+Chunks:  277 / 324
+Chunks:  278 / 324
+Chunks:  279 / 324
+Chunks:  280 / 324
+Chunks:  281 / 324
+Chunks:  282 / 324
+Chunks:  283 / 324
+Chunks:  284 / 324
+Chunks:  285 / 324
+Chunks:  286 / 324
+Chunks:  287 / 324
+Chunks:  288 / 324
+Chunks:  289 / 324
+Chunks:  290 / 324
+Chunks:  291 / 324
+Chunks:  292 / 324
+Chunks:  293 / 324
+Chunks:  294 / 324
+Chunks:  295 / 324
+Chunks:  296 / 324
+Chunks:  297 / 324
+Chunks:  298 / 324
+Chunks:  299 / 324
+Chunks:  300 / 324
+Chunks:  301 / 324
+Chunks:  302 / 324
+Chunks:  303 / 324
+Chunks:  304 / 324
+Chunks:  305 / 324
+Chunks:  306 / 324
+Chunks:  307 / 324
+Chunks:  308 / 324
+Chunks:  309 / 324
+Chunks:  310 / 324
+Chunks:  311 / 324
+Chunks:  312 / 324
+Chunks:  313 / 324
+Chunks:  314 / 324
+Chunks:  315 / 324
+Chunks:  316 / 324
+Chunks:  317 / 324
+Chunks:  318 / 324
+Chunks:  319 / 324
+Chunks:  320 / 324
+Chunks:  321 / 324
+Chunks:  322 / 324
+Chunks:  323 / 324
+Chunks:  324 / 324
+Chunks:  1 / 44
+Chunks:  2 / 44
+Chunks:  3 / 44
+Chunks:  4 / 44
+Chunks:  5 / 44
+Chunks:  6 / 44
+Chunks:  7 / 44
+Chunks:  8 / 44
+Chunks:  9 / 44
+Chunks:  10 / 44
+Chunks:  11 / 44
+Chunks:  12 / 44
+Chunks:  13 / 44
+Chunks:  14 / 44
+Chunks:  15 / 44
+Chunks:  16 / 44
+Chunks:  17 / 44
+Chunks:  18 / 44
+Chunks:  19 / 44
+Chunks:  20 / 44
+Chunks:  21 / 44
+Chunks:  22 / 44
+Chunks:  23 / 44
+Chunks:  24 / 44
+Chunks:  25 / 44
+Chunks:  26 / 44
+Chunks:  27 / 44
+Chunks:  28 / 44
+Chunks:  29 / 44
+Chunks:  30 / 44
+Chunks:  31 / 44
+Chunks:  32 / 44
+Chunks:  33 / 44
+Chunks:  34 / 44
+Chunks:  35 / 44
+Chunks:  36 / 44
+Chunks:  37 / 44
+Chunks:  38 / 44
+Chunks:  39 / 44
+Chunks:  40 / 44
+Chunks:  41 / 44
+Chunks:  42 / 44
+Chunks:  43 / 44
+Chunks:  44 / 44
+starting below 35day ema [ 'THCB',
+  'TROX',
+  'GMHI',
+  'SHIP',
+  'EARS',
+  'PDSB',
+  'TH',
+  'OTLK',
+  'ICON',
+  'AM',
+  'OPTT',
+  'VISL',
+  'MR',
+  'SLGG',
+  'CTST',
+  'XSPA',
+  'MLNT',
+  'NTZ',
+  'TROV',
+  'HOTH',
+  'HGLB',
+  'ANCN',
+  'ZYXI',
+  'CLDX',
+  'HARP',
+  'TRNX',
+  'ALEC',
+  'PULM',
+  'OHRP',
+  'ESI',
+  'NFE',
+  'NAO',
+  'SEEL',
+  'SAMA',
+  'CHFS',
+  'HROW',
+  'APYX',
+  'RHE',
+  'MAXR',
+  'ORGO',
+  'ERSX',
+  'PHCF',
+  'CEI',
+  'DTSS',
+  'APM',
+  'LEGH',
+  'CHIU',
+  'ENOB',
+  'WTER',
+  'MOGU',
+  'NMCI',
+  'TBLT',
+  'AINV',
+  'PASS',
+  'RTW',
+  'PACD',
+  'WTRH',
+  'RPT',
+  'ROAN',
+  'AKER',
+  'SG',
+  'ANY',
+  'APHA',
+  'INPX',
+  'REZI',
+  'GMDA',
+  'AMTB',
+  'AMTBB',
+  'MSC',
+  'SIBN',
+  'LMFA',
+  'GLBS',
+  'OSMT',
+  'COOP',
+  'LTHM',
+  'RGLS',
+  'KOD',
+  'UPWK',
+  'GTX',
+  'RC',
+  'ANIX',
+  'SIVR',
+  'RMED',
+  'ARVN',
+  'KPFS',
+  'UROV',
+  'GRTS',
+  'PNRL',
+  'LAIX',
+  'LGCY',
+  'NEPT',
+  'NVCN',
+  'WISA',
+  'AFIF',
+  'XYF',
+  'EB',
+  'CWEN.A',
+  'SAEX',
+  'QTT',
+  'FVCB',
+  ... 1532 more items ]
+3238 1632 236
+adding tickers [ 'THCB',
+  'TROX',
+  'GMHI',
+  'SHIP',
+  'EARS',
+  'PDSB',
+  'TH',
+  'OTLK',
+  'ICON',
+  'AM',
+  'OPTT',
+  'VISL',
+  'MR',
+  'SLGG',
+  'CTST',
+  'XSPA',
+  'MLNT',
+  'NTZ',
+  'TROV',
+  'HOTH',
+  'HGLB',
+  'ANCN',
+  'ZYXI',
+  'CLDX',
+  'HARP',
+  'TRNX',
+  'ALEC',
+  'PULM',
+  'OHRP',
+  'ESI',
+  'NFE',
+  'NAO',
+  'SEEL',
+  'SAMA',
+  'CHFS',
+  'HROW',
+  'APYX',
+  'RHE',
+  'MAXR',
+  'ORGO',
+  'ERSX',
+  'PHCF',
+  'CEI',
+  'DTSS',
+  'APM',
+  'LEGH',
+  'CHIU',
+  'ENOB',
+  'WTER',
+  'MOGU',
+  'NMCI',
+  'TBLT',
+  'AINV',
+  'PASS',
+  'RTW',
+  'PACD',
+  'WTRH',
+  'RPT',
+  'ROAN',
+  'AKER',
+  'SG',
+  'ANY',
+  'APHA',
+  'INPX',
+  'REZI',
+  'GMDA',
+  'AMTB',
+  'AMTBB',
+  'MSC',
+  'SIBN',
+  'LMFA',
+  'GLBS',
+  'OSMT',
+  'COOP',
+  'LTHM',
+  'RGLS',
+  'KOD',
+  'UPWK',
+  'GTX',
+  'RC',
+  'ANIX',
+  'SIVR',
+  'RMED',
+  'ARVN',
+  'KPFS',
+  'UROV',
+  'GRTS',
+  'PNRL',
+  'LAIX',
+  'LGCY',
+  'NEPT',
+  'NVCN',
+  'WISA',
+  'AFIF',
+  'XYF',
+  'EB',
+  'CWEN.A',
+  'SAEX',
+  'QTT',
+  'FVCB',
+  ... 1532 more items ]
+ema-crossover-watchers getRelatedPrices
+ema-crossover-watchers getting related prices 1632
+Chunks:  1 / 2
+Chunks:  2 / 2
+ema-crossover-watchers done getting related prices
+hittt it
+{ ticker: 'THCB',
+  crossPrice: 9.7566,
+  new5ema: 9.752962962962963,
+  open35ema: 9.74991608367627,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'TROX',
+  crossPrice: 13.15,
+  new5ema: 12.882345679012346,
+  open35ema: 12.843394871208659,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'TROV',
+  crossPrice: 3.75,
+  new5ema: 3.736486421684021,
+  open35ema: 3.7331176628086067,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'WTRH',
+  crossPrice: 12.29,
+  new5ema: 12.250221517031024,
+  open35ema: 12.196701054389864,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'GRTS',
+  crossPrice: 13.3,
+  new5ema: 12.35509456648736,
+  open35ema: 12.347116110407656,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'AFIF',
+  crossPrice: 10.01,
+  new5ema: 10.001045271529083,
+  open35ema: 9.9997071732222,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'FID',
+  crossPrice: 16.77,
+  new5ema: 16.743485970565857,
+  open35ema: 16.736132060492192,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'SYN',
+  crossPrice: 0.6789,
+  new5ema: 0.6873267852245837,
+  open35ema: 0.6871981116658649,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'SDVKY',
+  crossPrice: 16.295,
+  new5ema: 16.224630004413484,
+  open35ema: 16.166414981303255,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'HDELY',
+  crossPrice: 14.36,
+  new5ema: 14.35635189285257,
+  open35ema: 14.31118622922097,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'DBOEY',
+  crossPrice: 12.775,
+  new5ema: 12.741513009337002,
+  open35ema: 12.734115355773472,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'DMLRY',
+  crossPrice: 14.615,
+  new5ema: 14.464293362348943,
+  open35ema: 14.443239664670648,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'BLNK',
+  crossPrice: 3.13,
+  new5ema: 2.992660271058035,
+  open35ema: 2.955966255483909,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'HX',
+  crossPrice: 3.34,
+  new5ema: 2.9767751532437474,
+  open35ema: 2.9325966233473286,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'RNGR',
+  crossPrice: 7.97,
+  new5ema: 7.341582759247521,
+  open35ema: 7.195713960241205,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'EFBI',
+  crossPrice: 15.95,
+  new5ema: 15.761323475005524,
+  open35ema: 15.688812396660197,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'TOCA',
+  crossPrice: 10.87,
+  new5ema: 10.608045628000593,
+  open35ema: 10.605188815195207,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'VVPR',
+  crossPrice: 1.28,
+  new5ema: 1.2920870448032307,
+  open35ema: 1.285755153085817,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'SNDE',
+  crossPrice: 3,
+  new5ema: 2.8153448147702336,
+  open35ema: 2.796616692562861,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'MRUS',
+  crossPrice: 14.77,
+  new5ema: 13.31895430843061,
+  open35ema: 12.661525056109054,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'BNTC',
+  crossPrice: 1.96,
+  new5ema: 1.870047090351188,
+  open35ema: 1.8127419280569543,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'NTG',
+  crossPrice: 14.02,
+  new5ema: 13.933148351036705,
+  open35ema: 13.930090897643968,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'PPR',
+  crossPrice: 4.78,
+  new5ema: 4.759106511822113,
+  open35ema: 4.750042108058947,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'TSI',
+  crossPrice: 5.5,
+  new5ema: 5.498856528972861,
+  open35ema: 5.482561400548209,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'EVG',
+  crossPrice: 12.97,
+  new5ema: 12.863941681701244,
+  open35ema: 12.859548446813562,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'ECC',
+  crossPrice: 16.64,
+  new5ema: 16.507668713235663,
+  open35ema: 16.475572405949993,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'MFA',
+  crossPrice: 7.27,
+  new5ema: 7.2755462221401155,
+  open35ema: 7.271529467242484,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'SOHO',
+  crossPrice: 6.81,
+  new5ema: 6.714638354831667,
+  open35ema: 6.682305736235378,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'VALE',
+  crossPrice: 13.06,
+  new5ema: 12.909801801739894,
+  open35ema: 12.86159249887375,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'FENG',
+  crossPrice: 4.21,
+  new5ema: 4.105942549766175,
+  open35ema: 4.0511496252632355,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'JKS',
+  crossPrice: 18,
+  new5ema: 17.74830801840859,
+  open35ema: 17.73719444181537,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'CG',
+  crossPrice: 18.28,
+  new5ema: 18.344617371558524,
+  open35ema: 18.335382263012896,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'CELP',
+  crossPrice: 7.3969,
+  new5ema: 7.3794762524434185,
+  open35ema: 7.376270302318881,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'WBAI',
+  crossPrice: 13.96,
+  new5ema: 13.966200333451505,
+  open35ema: 13.960844421877573,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'ARDX',
+  crossPrice: 2.8,
+  new5ema: 2.920195467792375,
+  open35ema: 2.9154945383108934,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'RESN',
+  crossPrice: 3,
+  new5ema: 2.9863318289695115,
+  open35ema: 2.982107219528141,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'AVNW',
+  crossPrice: 15.36,
+  new5ema: 14.136476477089806,
+  open35ema: 13.779284498285623,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'RDI',
+  crossPrice: 15.96,
+  new5ema: 15.980483055361642,
+  open35ema: 15.97963710727936,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'MLP',
+  crossPrice: 11.43,
+  new5ema: 11.296511954832452,
+  open35ema: 11.287430931983407,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'GALT',
+  crossPrice: 5.11,
+  new5ema: 4.859414812552486,
+  open35ema: 4.836505235360777,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'EWO',
+  crossPrice: 19.89,
+  new5ema: 19.911421139008308,
+  open35ema: 19.897922078159187,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'GBR',
+  crossPrice: 2.24,
+  new5ema: 1.976887823448385,
+  open35ema: 1.8801727971620763,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'ARAY',
+  crossPrice: 4.77,
+  new5ema: 4.713108000909702,
+  open35ema: 4.711087422003876,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'AOSL',
+  crossPrice: 11.51,
+  new5ema: 11.026148991506854,
+  open35ema: 10.976017148731916,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'FLEX',
+  crossPrice: 10,
+  new5ema: 9.980991185301203,
+  open35ema: 9.97412097648242,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'CHII',
+  crossPrice: 14.6184,
+  new5ema: 14.419162858372646,
+  open35ema: 14.32540989668671,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'UNAM',
+  crossPrice: 6,
+  new5ema: 5.998787287336209,
+  open35ema: 5.964709509689888,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'MFNC',
+  crossPrice: 15.74,
+  new5ema: 15.588358835295374,
+  open35ema: 15.583237689773838,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'SSW',
+  crossPrice: 8.7,
+  new5ema: 8.472547371366366,
+  open35ema: 8.453947308237641,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'IDT',
+  crossPrice: 6.64,
+  new5ema: 6.489011652168354,
+  open35ema: 6.442141884381972,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'SHOS',
+  crossPrice: 2.2,
+  new5ema: 2.124976938991257,
+  open35ema: 2.1153662550374186,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'GTXI',
+  crossPrice: 1.2,
+  new5ema: 1.1720473287532944,
+  open35ema: 1.1716410414430276,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'TTPH',
+  crossPrice: 1.34,
+  new5ema: 1.2641091490570988,
+  open35ema: 1.2633435259648838,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'ICAD',
+  crossPrice: 5.17,
+  new5ema: 4.7613952676990285,
+  open35ema: 4.681295043863193,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+hittt it
+{ ticker: 'NVLN',
+  crossPrice: 1.23,
+  new5ema: 1.2086579439435086,
+  open35ema: 1.19628009085162,
+  aboveCount: undefined,
+  sma180trendingUp: false }
+hittt it
+{ ticker: 'NOA',
+  crossPrice: 11.64,
+  new5ema: 11.68671485255623,
+  open35ema: 11.682855626827699,
+  aboveCount: undefined,
+  sma180trendingUp: true }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+ticker-watchers getRelatedPrices
+ticker-watchers getting related prices 3238
+Chunks:  1 / 2
+Chunks:  2 / 2
+ticker-watchers done getting related prices
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+ema-crossover-watchers getRelatedPrices
+ema-crossover-watchers getting related prices 1632
+Chunks:  1 / 2
+Chunks:  2 / 2
+ema-crossover-watchers done getting related prices
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+ticker-watchers getRelatedPrices
+ticker-watchers getting related prices 3238
+Chunks:  1 / 2
+Chunks:  2 / 2
+ticker-watchers done getting related prices
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+ema-crossover-watchers getRelatedPrices
+ema-crossover-watchers getting related prices 1632
+Chunks:  1 / 2
+Chunks:  2 / 2
+ema-crossover-watchers done getting related prices
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+ticker-watchers getRelatedPrices
+ticker-watchers getting related prices 3238
+Chunks:  1 / 2
+Chunks:  2 / 2
+ticker-watchers done getting related prices
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+ticker-watchers getRelatedPrices
+ticker-watchers getting related prices 3238
+Chunks:  1 / 2
+Chunks:  2 / 2
+ticker-watchers done getting related prices
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+ema-crossover-watchers getRelatedPrices
+ema-crossover-watchers getting related prices 1632
+Chunks:  1 / 2
+Chunks:  2 / 2
+ema-crossover-watchers done getting related prices
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+runAndSetTimeout { isRunning: true }
+{ equity: '246.1800', accountBalance: '246.2100' }
+{ index: 'sp500',
+  url: 'https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC' }
+{ index: 'nasdaq',
+  url: 'https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC' }
+{ index: 'russell2000',
+  url: 'https://finance.yahoo.com/quote/%5ERUT?p=^RUT' }
+stratManager getRelatedPrices
+stratManager getting related prices 0
+stratManager done getting related prices
+calc pm perfs
+done calcing pm perfs
+Terminate batch job (Y/N)?

@@ -1,0 +1,620 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SGRP",
+    "bid_price": 1.6607,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SYNC",
+    "bid_price": 1.7338,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "EMKR",
+    "bid_price": 6.25,
+    "quantity": 1,
+    "strategy": "based-on-jump-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "PIXY",
+    "bid_price": 3.0103,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "TRPX",
+    "bid_price": 5.75,
+    "quantity": 2,
+    "strategy": "based-on-jump-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "TIPT",
+    "bid_price": 6.95,
+    "quantity": 1,
+    "strategy": "based-on-jump-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "SYNC",
+    "bid_price": 1.7415,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "ASTC",
+    "bid_price": 2.659,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "ASTC",
+    "bid_price": 2.6749539999999996,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "PIXY",
+    "bid_price": 3.0099,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.1393,
+    "quantity": 25,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "SGRP",
+    "bid_price": 1.6312,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 1.02,
+    "quantity": 3,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.137,
+    "quantity": 26,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "ATNM",
+    "bid_price": 0.3781,
+    "quantity": 9,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "ONTX",
+    "bid_price": 1.0562082,
+    "quantity": 3,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "EVEP",
+    "bid_price": 0.164,
+    "quantity": 21,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "EVEP",
+    "bid_price": 0.16498400000000002,
+    "quantity": 21,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "TRPX",
+    "bid_price": 5.76,
+    "quantity": 1,
+    "strategy": "based-on-jump-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "ATNM",
+    "bid_price": 0.3872,
+    "quantity": 9,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 1.0361,
+    "quantity": 3,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "ONTX",
+    "bid_price": 1.0711675999999999,
+    "quantity": 3,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "RCG",
+    "bid_price": 1.4539928,
+    "quantity": 12,
+    "strategy": "up-streak-lt$3-upstreak-4-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "BLIN",
+    "bid_price": 2.2489600000000003,
+    "quantity": 2,
+    "strategy": "up-streak-lt$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "ISIG",
+    "bid_price": 1.6780856,
+    "quantity": 3,
+    "strategy": "up-streak-lt$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "CIG",
+    "bid_price": 2.5551,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "TGEN",
+    "bid_price": 2.3693396,
+    "quantity": 2,
+    "strategy": "up-streak-lt$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "HOS",
+    "bid_price": 3.168,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "AVEO",
+    "bid_price": 2.8093,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "JCP",
+    "bid_price": 3.095,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "SCYX",
+    "bid_price": 1.495,
+    "quantity": 2,
+    "strategy": "dow-historical-sortedByPercUp"
+  },
+  {
+    "type": "buy",
+    "ticker": "FAC",
+    "bid_price": 0.7940849999999999,
+    "quantity": 4,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "TMQ",
+    "bid_price": 1.34268,
+    "quantity": 2,
+    "strategy": "dow-historical-sortedByPercUp"
+  },
+  {
+    "type": "buy",
+    "ticker": "AMTX",
+    "bid_price": 2.01402,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "ANY",
+    "bid_price": 1.923664,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "ALO",
+    "bid_price": 2.1799,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "CRMD",
+    "bid_price": 0.3149286,
+    "quantity": 11,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "AVGR",
+    "bid_price": 1.1984,
+    "quantity": 3,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "sell",
+    "ticker": "YTEN",
+    "bid_price": 2.12,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "PULM",
+    "bid_price": 1.18,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "NSPR",
+    "bid_price": 2.6195399999999998,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "INFI",
+    "bid_price": 2.495,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "RAND",
+    "bid_price": 2.551,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "EARS",
+    "bid_price": 1.515,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "SLS",
+    "bid_price": 5.01,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "LYG",
+    "bid_price": 3.81085,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "OREX",
+    "bid_price": 0.26227500000000004,
+    "quantity": 61
+  },
+  {
+    "type": "sell",
+    "ticker": "HTBX",
+    "bid_price": 1.921345,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "AAU",
+    "bid_price": 0.8216009999999999,
+    "quantity": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "ATNM",
+    "bid_price": 0.400299,
+    "quantity": 8,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "sell",
+    "ticker": "HSGX",
+    "bid_price": 2.981,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "FWP",
+    "bid_price": 2.8609020000000003,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ABIO",
+    "bid_price": 0.6425,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "ARLZ",
+    "bid_price": 1.76115,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "CEI",
+    "bid_price": 0.7503,
+    "quantity": 15
+  },
+  {
+    "type": "sell",
+    "ticker": "SHIP",
+    "bid_price": 0.9374,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "BIOC",
+    "bid_price": 0.313425,
+    "quantity": 46
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.136,
+    "quantity": 26,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "sell",
+    "ticker": "SEED",
+    "bid_price": 1.1295,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "SNSS",
+    "bid_price": 3.4504,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SAUC",
+    "bid_price": 1.352302,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "F",
+    "bid_price": 10.99475,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "TUES",
+    "bid_price": 3.9,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SPEX",
+    "bid_price": 1.28355,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "ADMP",
+    "bid_price": 3.5887,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "DLPN",
+    "bid_price": 2.95,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "FRSH",
+    "bid_price": 5.38,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "PTI",
+    "bid_price": 6.8764,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "DDD",
+    "bid_price": 11.91,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "SLDB",
+    "bid_price": 9.27,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "CYRN",
+    "bid_price": 2.44,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "JILL",
+    "bid_price": 4.3425,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "TECS",
+    "bid_price": 5.308325,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "EVEP",
+    "bid_price": 0.1560384,
+    "quantity": 23,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "RXII",
+    "bid_price": 4.6370556,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "CPST",
+    "bid_price": 1.07,
+    "quantity": 3,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARQL",
+    "bid_price": 2.3125,
+    "quantity": 1,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "FAC",
+    "bid_price": 0.81162,
+    "quantity": 8,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "AMTX",
+    "bid_price": 2.07,
+    "quantity": 3,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "ANY",
+    "bid_price": 1.917138,
+    "quantity": 3,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "VERU",
+    "bid_price": 1.98576,
+    "quantity": 1,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "WMIH",
+    "bid_price": 1.4909400000000002,
+    "quantity": 2,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "BLIN",
+    "bid_price": 2.24,
+    "quantity": 2,
+    "strategy": "up-streak-lt$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "TGEN",
+    "bid_price": 2.4,
+    "quantity": 2,
+    "strategy": "up-streak-lt$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "ISIG",
+    "bid_price": 1.64,
+    "quantity": 3,
+    "strategy": "up-streak-lt$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "RARX",
+    "bid_price": 6.32,
+    "quantity": 1,
+    "strategy": "swings-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "CYTR",
+    "bid_price": 1.7603,
+    "quantity": 5,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "CRMD",
+    "bid_price": 0.2875,
+    "quantity": 12,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "TRX",
+    "bid_price": 0.3847,
+    "quantity": 9,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "AVGR",
+    "bid_price": 1.35,
+    "quantity": 2,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "ONTX",
+    "bid_price": 1.0568,
+    "quantity": 3,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "HUSA",
+    "bid_price": 0.3057102,
+    "quantity": 11,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.12464879999999999,
+    "quantity": 28,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  }
+]

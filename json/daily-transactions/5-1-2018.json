@@ -1,0 +1,210 @@
+[
+  {
+    "type": "buy",
+    "ticker": "LBY",
+    "bid_price": 6.035,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-shouldWatchout-first3-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "WAIR",
+    "bid_price": 9.55,
+    "quantity": 5,
+    "strategy": "sudden-drops-last1trend-first1-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "WAIR",
+    "bid_price": 9.55,
+    "quantity": 5,
+    "strategy": "sudden-drops-last1trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "ELVT",
+    "bid_price": 7.911849999999999,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-shouldWatchout-first3-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "TVIX",
+    "bid_price": 7.1885924999999995,
+    "quantity": 6,
+    "strategy": "sudden-drops-last1trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "PCTI",
+    "bid_price": 7.03,
+    "quantity": 3,
+    "strategy": "sudden-drops-last3trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "SLS",
+    "bid_price": 5.533399349999998,
+    "quantity": 4,
+    "strategy": "sudden-drops-last3trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "PCTI",
+    "bid_price": 7.03,
+    "quantity": 35,
+    "strategy": "sudden-drops-last5trend-fiveTo10",
+    "min": 32
+  },
+  {
+    "type": "buy",
+    "ticker": "ASYS",
+    "bid_price": 7.1,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "QHC",
+    "bid_price": 7.31,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "RFIL",
+    "bid_price": 5.9114,
+    "quantity": 3,
+    "strategy": "dynamo-3000-top50tso-trendingUp3010-5highestTSO-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "IOTS",
+    "bid_price": 9.4,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-trendingUp3010-5highestTSO-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "NEO",
+    "bid_price": 9.965,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-trendingUp3010-5highestTSO-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "NTRP",
+    "bid_price": 8.82,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-trendingUp3010-5highestTSO-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "MDR",
+    "bid_price": 6.761754999999999,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "MTEM",
+    "bid_price": 9.03,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-trendingUp3010-5highestTSO-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "PCTI",
+    "bid_price": 7.117109999999999,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-shouldWatchout-first3-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "HUSA",
+    "bid_price": 0.2361,
+    "quantity": 141,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "ARDM",
+    "bid_price": 1.3210179499999992,
+    "quantity": 25,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "ALIM",
+    "bid_price": 1.1155499999999996,
+    "quantity": 29,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "ELOX",
+    "bid_price": 13.229814999999999,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-highovernightjumps-tenTo15",
+    "min": 198
+  },
+  {
+    "type": "buy",
+    "ticker": "IBIO",
+    "bid_price": 0.1688,
+    "quantity": 148,
+    "strategy": "sudden-drops-last1trend",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "OPGN",
+    "bid_price": 1.868499999999998,
+    "quantity": 13,
+    "strategy": "sudden-drops-last1trend",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "CKPT",
+    "bid_price": 3.452325999999999,
+    "quantity": 14,
+    "strategy": "sudden-drops-last2trend-first1",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "AYTU",
+    "bid_price": 0.42,
+    "quantity": 39,
+    "strategy": "constant-downers-5minute-percDownCloseOnlyPoints-filtered60",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "ATOS",
+    "bid_price": 4.0025986,
+    "quantity": 4,
+    "strategy": "constant-downers-5minute-percDownCloseOnlyPoints-filtered60",
+    "min": 309
+  }
+]

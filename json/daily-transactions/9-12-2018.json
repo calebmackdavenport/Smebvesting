@@ -1,0 +1,16 @@
+[
+  {
+    "type": "buy",
+    "ticker": "NUGT",
+    "bid_price": 12.495,
+    "quantity": 12,
+    "strategy": "low-float-high-volume-volToAvgPoints-trend10to15-shouldWatchout-tenTo15",
+    "min": 276
+  },
+  {
+    "type": "sell",
+    "ticker": "OHRP",
+    "bid_price": 0.19361200000000006,
+    "quantity": "476.0000"
+  }
+]

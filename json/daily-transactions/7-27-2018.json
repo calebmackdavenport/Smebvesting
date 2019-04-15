@@ -1,0 +1,30 @@
+[
+  {
+    "type": "buy",
+    "ticker": "AMID",
+    "bid_price": 8.65,
+    "quantity": 6,
+    "strategy": "based-on-jump-down5overnight-notWatchout-gtneg20percmax-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "ALNA",
+    "bid_price": 9.97,
+    "quantity": 37,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10",
+    "min": 276
+  },
+  {
+    "type": "sell",
+    "ticker": "MGTX",
+    "bid_price": 8.650895000000004,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "MCRB",
+    "bid_price": 7.5424500000000005,
+    "quantity": 15
+  }
+]

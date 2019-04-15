@@ -1,0 +1,482 @@
+[
+  {
+    "type": "buy",
+    "ticker": "HMY",
+    "bid_price": 2.11,
+    "quantity": 16,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "APRI",
+    "bid_price": 2.845,
+    "quantity": 12,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "HTGM",
+    "bid_price": 5.1,
+    "quantity": 6,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "NOK",
+    "bid_price": 5.74719,
+    "quantity": 6,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "GGB",
+    "bid_price": 4.648904999999999,
+    "quantity": 7,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "BDSI",
+    "bid_price": 2.175,
+    "quantity": 6,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "BURG",
+    "bid_price": 3.93,
+    "quantity": 3,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "XXII",
+    "bid_price": 2.995,
+    "quantity": 4,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "TCON",
+    "bid_price": 2.35,
+    "quantity": 6,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "CGI",
+    "bid_price": 4.7,
+    "quantity": 3,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "EAST",
+    "bid_price": 4.995,
+    "quantity": 2,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "XELB",
+    "bid_price": 3.1594499999999996,
+    "quantity": 4,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "GALT",
+    "bid_price": 3.9207269999999994,
+    "quantity": 3,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "SNMX",
+    "bid_price": 1.2574611,
+    "quantity": 11,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "AKTX",
+    "bid_price": 2.4924549999999996,
+    "quantity": 5,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "WMIH",
+    "bid_price": 1.2687949999999997,
+    "quantity": 11,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "EKSO",
+    "bid_price": 1.4958741999999998,
+    "quantity": 9,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "MBII",
+    "bid_price": 1.1704399999999995,
+    "quantity": 12,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "GBIM",
+    "bid_price": 0.5474,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "CFRX",
+    "bid_price": 1.58,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "THM",
+    "bid_price": 0.555,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "CNXR",
+    "bid_price": 0.3475,
+    "quantity": 4,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "ONS",
+    "bid_price": 1.24,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "QCCO",
+    "bid_price": 0.52,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "BVXVW",
+    "bid_price": 1.7,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "ATOS",
+    "bid_price": 0.7455,
+    "quantity": 2,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "GLCH",
+    "bid_price": 0.515,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "PLM",
+    "bid_price": 1.1889,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "TCPIF",
+    "bid_price": 0.95,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "ROYL",
+    "bid_price": 0.41,
+    "quantity": 4,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "FENX",
+    "bid_price": 0.46,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "EMX",
+    "bid_price": 0.92,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "WMIH",
+    "bid_price": 1.27,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "RVP",
+    "bid_price": 0.8375,
+    "quantity": 2,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "GEN",
+    "bid_price": 1.1301,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "AEMD",
+    "bid_price": 1.6201,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "DDE",
+    "bid_price": 1.26,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "AKG",
+    "bid_price": 0.9798,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "RAS",
+    "bid_price": 0.5011990999999999,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "VGZ",
+    "bid_price": 0.8625799999999999,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "CRMD",
+    "bid_price": 0.5654725999999999,
+    "quantity": 3,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "EBIO",
+    "bid_price": 0.8753205999999998,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "OHAI",
+    "bid_price": 1.2374735999999995,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "CASM",
+    "bid_price": 1.1941599999999994,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "APHB",
+    "bid_price": 1.2061015999999996,
+    "quantity": 1,
+    "strategy": "based-on-jump"
+  },
+  {
+    "type": "buy",
+    "ticker": "TEUM",
+    "bid_price": 2.09,
+    "quantity": 16,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARWR",
+    "bid_price": 5.55662,
+    "quantity": 6,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "XXII",
+    "bid_price": 3.1644649999999994,
+    "quantity": 11,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "XXII",
+    "bid_price": 3.205,
+    "quantity": 2,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "XELB",
+    "bid_price": 3,
+    "quantity": 2,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "GALT",
+    "bid_price": 3.91,
+    "quantity": 1,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "MARPS",
+    "bid_price": 4.1489,
+    "quantity": 1,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "AKTX",
+    "bid_price": 2.46,
+    "quantity": 3,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "NM",
+    "bid_price": 1.2852,
+    "quantity": 5,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "TCON",
+    "bid_price": 2.3,
+    "quantity": 3,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "JASN",
+    "bid_price": 2.36,
+    "quantity": 3,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "SNMX",
+    "bid_price": 1.23,
+    "quantity": 6,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "LITB",
+    "bid_price": 2.4473199999999995,
+    "quantity": 3,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "MBII",
+    "bid_price": 1.1673916999999998,
+    "quantity": 6,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "BURG",
+    "bid_price": 3.8348701999999997,
+    "quantity": 1,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "WMIH",
+    "bid_price": 1.2645419999999996,
+    "quantity": 6,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "buy",
+    "ticker": "EKSO",
+    "bid_price": 1.4687599999999996,
+    "quantity": 5,
+    "strategy": "dow-historical-sortedByAvgToday"
+  },
+  {
+    "type": "sell",
+    "ticker": "OXBR",
+    "bid_price": 2.3501,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MTBC",
+    "bid_price": 3.57205,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "APPS",
+    "bid_price": 2.3482,
+    "quantity": "28.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "APRI",
+    "bid_price": 3.1999,
+    "quantity": 10,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "AMPE",
+    "bid_price": 3.429,
+    "quantity": 10,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "CERC",
+    "bid_price": 3.7711797,
+    "quantity": 9,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "HMY",
+    "bid_price": 2.091255,
+    "quantity": 16,
+    "strategy": "stockinvest-top100"
+  }
+]

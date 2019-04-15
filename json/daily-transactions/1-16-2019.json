@@ -1,0 +1,302 @@
+[
+  {
+    "type": "sell",
+    "ticker": "IGLD",
+    "bid_price": 0.9547920000000032,
+    "quantity": 219
+  },
+  {
+    "type": "sell",
+    "ticker": "SBOT",
+    "bid_price": 1.298,
+    "quantity": 331
+  },
+  {
+    "type": "sell",
+    "ticker": "TYME",
+    "bid_price": 4.1085,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "SHOS",
+    "bid_price": 2.2290400000000004,
+    "quantity": 104
+  },
+  {
+    "type": "sell",
+    "ticker": "RESN",
+    "bid_price": 2.7787100000000002,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "DLPN",
+    "bid_price": 1.3095,
+    "quantity": 23
+  },
+  {
+    "type": "sell",
+    "ticker": "PCG",
+    "bid_price": 6.66,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "WISA",
+    "bid_price": 3.2398,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "HGSH",
+    "bid_price": 1.01,
+    "quantity": 227
+  },
+  {
+    "type": "sell",
+    "ticker": "WTER",
+    "bid_price": 3.3868,
+    "quantity": 16
+  },
+  {
+    "type": "sell",
+    "ticker": "IGLD",
+    "bid_price": 0.8613,
+    "quantity": 219
+  },
+  {
+    "type": "sell",
+    "ticker": "CNFR",
+    "bid_price": 4.630464,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "SBOT",
+    "bid_price": 1.1977,
+    "quantity": 331
+  },
+  {
+    "type": "sell",
+    "ticker": "BIOC",
+    "bid_price": 2.06,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "INPX",
+    "bid_price": 2.6,
+    "quantity": 182
+  },
+  {
+    "type": "sell",
+    "ticker": "WINR",
+    "bid_price": 2.93,
+    "quantity": 68
+  },
+  {
+    "type": "sell",
+    "ticker": "RESN",
+    "bid_price": 2.5146,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "BKYI",
+    "bid_price": 0.9,
+    "quantity": 44
+  },
+  {
+    "type": "sell",
+    "ticker": "CUE",
+    "bid_price": 5.73,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "FVE",
+    "bid_price": 0.742401,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "ELTK",
+    "bid_price": 2.5026,
+    "quantity": 63
+  },
+  {
+    "type": "sell",
+    "ticker": "USAT",
+    "bid_price": 5.42,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ESTR",
+    "bid_price": 1.91,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "BVSN",
+    "bid_price": 1.386,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "GEC",
+    "bid_price": 3.3066,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "SHOS",
+    "bid_price": 1.91575,
+    "quantity": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "MBOT",
+    "bid_price": 9.94,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "DXR",
+    "bid_price": 14.3,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "HYRE",
+    "bid_price": 4.035,
+    "strategy": "sudden-drops-last1trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "OESX",
+    "bid_price": 1.01,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ALJJ",
+    "bid_price": 1.447157894736842,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "IAG",
+    "bid_price": 3.2130526315789476,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SQBG",
+    "bid_price": 0.9352421052631579,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "OESX",
+    "bid_price": 1.0054,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SQBG",
+    "bid_price": 0.9352421052631579,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-highestsharesToCap",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ALJJ",
+    "bid_price": 1.4612631578947368,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "KZIA",
+    "bid_price": 2.7392000000000003,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "HYRE",
+    "bid_price": 3.883578947368421,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "sell",
+    "ticker": "ENG",
+    "bid_price": 0.767904,
+    "quantity": 17
+  },
+  {
+    "type": "buy",
+    "ticker": "ALRN",
+    "bid_price": 1.475157894736842,
+    "strategy": "sudden-drops-last2trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "QTT",
+    "bid_price": 7.821052631578947,
+    "strategy": "sudden-drops-last30trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "AEHR",
+    "bid_price": 1.1957894736842105,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "KTOV",
+    "bid_price": 1.688538947368421,
+    "strategy": "sudden-drops-last18trend-filter30",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "HUSA",
+    "bid_price": 0.1986,
+    "strategy": "constant-downers-5minute-percDownCloseOnly-lowovernightjumps",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "KTOV",
+    "bid_price": 1.5978947368421053,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "KTOV",
+    "bid_price": 1.568842105263158,
+    "strategy": "double-down",
+    "min": 378
+  },
+  {
+    "type": "buy",
+    "ticker": "KTOV",
+    "bid_price": 1.5966315789473684,
+    "strategy": "sudden-drops-last30trend-filter30",
+    "min": 388
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "type": "sell",
+    "ticker": "LINU",
+    "bid_price": 1.94,
+    "quantity": "17.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OSUR",
+    "bid_price": 19.99,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHK",
+    "bid_price": 4.28,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NSPR",
+    "bid_price": 0.15,
+    "quantity": "46.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SIRI",
+    "bid_price": 5.48,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "UONE",
+    "bid_price": 1.95,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CATB",
+    "bid_price": 1.53,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TRPX",
+    "bid_price": 5.82,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARCI",
+    "bid_price": 1.02,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AXSM",
+    "bid_price": 3.22,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OHGI",
+    "bid_price": 1.64,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EDGE",
+    "bid_price": 10.77,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LGCY",
+    "bid_price": 2.06,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ICD",
+    "bid_price": 4.79,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SENS",
+    "bid_price": 3,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WAC",
+    "bid_price": 0.75,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IMTE",
+    "bid_price": 5.86,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SID",
+    "bid_price": 3.33,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "AMC",
+    "bid_price": 14.55,
+    "quantity": 2,
+    "strategy": "pattern-predict-top-five"
+  },
+  {
+    "type": "sell",
+    "ticker": "SWN",
+    "bid_price": 5.45,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ERF",
+    "bid_price": 11.07,
+    "quantity": 1,
+    "strategy": "pattern-predict-top"
+  },
+  {
+    "type": "buy",
+    "ticker": "CPG",
+    "bid_price": 9.09,
+    "quantity": 1,
+    "strategy": "pattern-predict-top"
+  },
+  {
+    "type": "buy",
+    "ticker": "CTIB",
+    "bid_price": 4.33,
+    "quantity": 15,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "AVEO",
+    "bid_price": 2.86,
+    "quantity": 23,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "AETI",
+    "bid_price": 1.65,
+    "quantity": 40,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "CFRX",
+    "bid_price": 1.14,
+    "quantity": 58,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "PES",
+    "bid_price": 3.67,
+    "quantity": 18,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "CODX",
+    "bid_price": 3,
+    "quantity": 22,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "CHNR",
+    "bid_price": 3.15,
+    "quantity": 21,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "AVXL",
+    "bid_price": 3,
+    "quantity": 22,
+    "strategy": "before-close"
+  }
+]

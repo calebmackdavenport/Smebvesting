@@ -1,0 +1,68 @@
+[
+  {
+    "type": "sell",
+    "ticker": "JNP",
+    "bid_price": 10.139850000000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EVK",
+    "bid_price": 3.8922,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IFMK",
+    "bid_price": 8.191799999999999,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "IFMK",
+    "bid_price": 8.249199999999993,
+    "quantity": 4,
+    "strategy": "week-swings-fiveTo10",
+    "min": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "AKG",
+    "bid_price": 1.0019969999999998,
+    "quantity": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "JNP",
+    "bid_price": 10.139850000000001,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "AUY",
+    "bid_price": 2.75724,
+    "quantity": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "AKG",
+    "bid_price": 1.0130299999999988,
+    "quantity": 5,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-filtered40",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "AUY",
+    "bid_price": 2.7875999999999967,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-filtered40",
+    "min": 40
+  },
+  {
+    "type": "sell",
+    "ticker": "GST",
+    "bid_price": 0.678,
+    "quantity": 0
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "type": "buy",
+    "ticker": "CYCC",
+    "bid_price": 1.488,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 0.3184,
+    "strategy": "based-on-jump-down8overnight-trending103-gt1milvolume-first3",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "PTIE",
+    "bid_price": 1.368,
+    "strategy": "based-on-jump-down8overnight-trending103-gt1milvolume-first3",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "VTVT",
+    "bid_price": 2.44,
+    "strategy": "based-on-jump-down8overnight-trending103-gt1milvolume-first3",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "UONE",
+    "bid_price": 2.492,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "CARV",
+    "bid_price": 4.4719999999999995,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "BLRX",
+    "bid_price": 1.48,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-notWatchout-gtneg20percmax",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "CCRN",
+    "bid_price": 8.73,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered70-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "BLRX",
+    "bid_price": 1.472,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-notWatchout-gtneg20percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "BLRX",
+    "bid_price": 1.472,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-notWatchout-gtneg20percmax-first1",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "BLRX",
+    "bid_price": 1.475,
+    "strategy": "based-on-jump-gtEightOvernight-trending53-notWatchout-gtneg20percmax",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "BLRX",
+    "bid_price": 1.47,
+    "strategy": "based-on-jump-gtEightOvernight-trending53-notWatchout-gtneg20percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 0.3079,
+    "strategy": "dynamo-3000-overall-overall-lowestYP",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "AST",
+    "bid_price": 1.17,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "NVLN",
+    "bid_price": 2.158,
+    "strategy": "sudden-drops-notWatchout-prevCloseTrendAbsLT30-last3trend-filter5",
+    "min": 100
+  }
+]

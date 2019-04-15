@@ -1,0 +1,322 @@
+[
+  {
+    "type": "buy",
+    "ticker": "CLXT",
+    "bid_price": 14.86,
+    "quantity": 1,
+    "strategy": "week-swings-tenTo15",
+    "min": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "IMUC",
+    "bid_price": 0.3099,
+    "quantity": "45.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SHLD",
+    "bid_price": 3.33,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KONE",
+    "bid_price": 7.29,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "I",
+    "bid_price": 6.4033902,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GNCA",
+    "bid_price": 0.9390599999999999,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GSAT",
+    "bid_price": 0.835,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ENT",
+    "bid_price": 1.133865,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "CTRV",
+    "bid_price": 0.2673,
+    "quantity": 17,
+    "strategy": "based-on-jump-down3overnight-trending35257",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "OMNT",
+    "bid_price": 3.15052,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JNUG",
+    "bid_price": 14.4363,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DCAR",
+    "bid_price": 2.091,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DRIP",
+    "bid_price": 10.7768,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARGS",
+    "bid_price": 0.976044,
+    "quantity": "35.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INTT",
+    "bid_price": 6.3415,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVIV",
+    "bid_price": 0.3797,
+    "quantity": 12,
+    "strategy": "dynamo-3000-middle50tso-onlyWatchout-5lowestYP",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "GNCA",
+    "bid_price": 0.94,
+    "quantity": 4,
+    "strategy": "dynamo-3000-middle50tso-onlyWatchout-5lowestYP",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "OHRP",
+    "bid_price": 0.2391,
+    "quantity": 19,
+    "strategy": "dynamo-3000-middle50tso-onlyWatchout-5lowestYP",
+    "min": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "GEMP",
+    "bid_price": 6.12,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IRIX",
+    "bid_price": 5.7642299999999995,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RUBI",
+    "bid_price": 2.155,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IMMP",
+    "bid_price": 1.82817,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EGC",
+    "bid_price": 4.505471,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PRSS",
+    "bid_price": 1.3262724,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "IMMP",
+    "bid_price": 1.8318299999999998,
+    "quantity": 2,
+    "strategy": "based-on-jump-down3overnight-trending35257",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "PRSS",
+    "bid_price": 1.3717704,
+    "quantity": 3,
+    "strategy": "based-on-jump-down3overnight-trending35257",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "GENE",
+    "bid_price": 1.36,
+    "quantity": 3,
+    "strategy": "based-on-jump-down3overnight-trending35257",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "EGLT",
+    "bid_price": 0.6422,
+    "quantity": "17.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "TVIX",
+    "bid_price": 9.4499,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-ltneg50percmax-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "AMMA",
+    "bid_price": 0.48828779999999994,
+    "quantity": 9,
+    "strategy": "dynamo-3000-middle50tso-onlyWatchout-5lowestYP",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "PULM",
+    "bid_price": 0.5007001999999999,
+    "quantity": 9,
+    "strategy": "dynamo-3000-middle50tso-onlyWatchout-5lowestYP",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "TVIX",
+    "bid_price": 9.4905,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-ltneg50percmax-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "RDVT",
+    "bid_price": 8.6086,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-ltneg50percmax-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "RDVT",
+    "bid_price": 8.618609999999999,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-ltneg50percmax-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "AOBC",
+    "bid_price": 10.89,
+    "quantity": 2,
+    "strategy": "based-on-jump-up3overnight-ltneg50percmax-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "WHLM",
+    "bid_price": 6.91,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-gtneg20percmax-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "GEVO",
+    "bid_price": 0.43,
+    "quantity": 21,
+    "strategy": "dow-historical-sortedByAvgToday",
+    "min": 73
+  },
+  {
+    "type": "buy",
+    "ticker": "CNET",
+    "bid_price": 2.5388,
+    "quantity": 3,
+    "strategy": "dow-historical-sortedByAvgToday",
+    "min": 73
+  },
+  {
+    "type": "buy",
+    "ticker": "CYH",
+    "bid_price": 4.12,
+    "quantity": 2,
+    "strategy": "fizbiz-under5Target10Change2Vol200Within10of52Low",
+    "min": 75
+  },
+  {
+    "type": "buy",
+    "ticker": "ARLZ",
+    "bid_price": 1.4634,
+    "quantity": 6,
+    "strategy": "dow-historical-sortedByAvgToday",
+    "min": 73
+  },
+  {
+    "type": "buy",
+    "ticker": "LC",
+    "bid_price": 3.3216299999999994,
+    "quantity": 3,
+    "strategy": "fizbiz-under5Target10Change2Vol200Within10of52Low",
+    "min": 75
+  },
+  {
+    "type": "buy",
+    "ticker": "HTGM",
+    "bid_price": 3.6282419999999993,
+    "quantity": 2,
+    "strategy": "dow-historical-sortedByAvgToday",
+    "min": 73
+  },
+  {
+    "type": "buy",
+    "ticker": "CXRX",
+    "bid_price": 0.5253931999999998,
+    "quantity": 17,
+    "strategy": "dow-historical-sortedByAvgToday",
+    "min": 73
+  },
+  {
+    "type": "buy",
+    "ticker": "CADC",
+    "bid_price": 2.5999,
+    "quantity": 2,
+    "strategy": "constant-downers-5minute-percDownLowClosePoints-filtered60",
+    "min": 242
+  },
+  {
+    "type": "buy",
+    "ticker": "GEVO",
+    "bid_price": 0.40760719999999995,
+    "quantity": 13,
+    "strategy": "constant-downers-5minute-percDownLowClosePoints-filtered60",
+    "min": 242
+  }
+]

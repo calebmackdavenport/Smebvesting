@@ -1,0 +1,140 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SCO",
+    "bid_price": 15.6244,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SNGX",
+    "bid_price": 1.3703145,
+    "quantity": "19.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 16.041975,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JAGX",
+    "bid_price": 0.8595700000000001,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FVE",
+    "bid_price": 0.9,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CUE",
+    "bid_price": 8.38,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GRAM",
+    "bid_price": 3.5,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CATO",
+    "bid_price": 21.158615400000002,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WYY",
+    "bid_price": 0.4783200000000002,
+    "quantity": "29.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NBY",
+    "bid_price": 1.9940000000000007,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SYN",
+    "bid_price": 2.6950950000000016,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CDXS",
+    "bid_price": 15.95,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NUGT",
+    "bid_price": 14.32293495,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NBY",
+    "bid_price": 1.9940000000000007,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PAVM",
+    "bid_price": 1.0657200000000004,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OVAS",
+    "bid_price": 0.7583840000000006,
+    "quantity": "34.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GASX",
+    "bid_price": 17.803225600000015,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NBY",
+    "bid_price": 1.9368,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HBM",
+    "bid_price": 4.9733,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AUMN",
+    "bid_price": 0.285,
+    "quantity": "52.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HBM",
+    "bid_price": 4.925,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GNCA",
+    "bid_price": 0.5994,
+    "quantity": "18.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NBY",
+    "bid_price": 1.9441500000000007,
+    "quantity": "7.0000"
+  }
+]

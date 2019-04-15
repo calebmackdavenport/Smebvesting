@@ -1,0 +1,129 @@
+[
+  {
+    "type": "sell",
+    "ticker": "GNMX",
+    "bid_price": 0.219,
+    "quantity": 2700
+  },
+  {
+    "type": "sell",
+    "ticker": "RLM",
+    "bid_price": 1.8399,
+    "quantity": 21
+  },
+  {
+    "type": "sell",
+    "ticker": "ASCMA",
+    "bid_price": 0.41,
+    "quantity": 525
+  },
+  {
+    "type": "buy",
+    "ticker": "RDC",
+    "bid_price": 9.16,
+    "strategy": "based-on-jump-fourToEightOvernight-trending53-notWatchout-ltneg50percmax-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "FLXN",
+    "bid_price": 11.949555555555555,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first1-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "DWT",
+    "bid_price": 13.2,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "DRIP",
+    "bid_price": 14.5011,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "WTID",
+    "bid_price": 14.367787777777776,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "GPL",
+    "bid_price": 0.6969588888888889,
+    "strategy": "low-float-high-volume-absVolPoints-trenddown3to10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "SPI",
+    "bid_price": 0.8986500000000002,
+    "quantity": 488
+  },
+  {
+    "type": "buy",
+    "ticker": "OILU",
+    "bid_price": 16.0299,
+    "strategy": "up-streak-3to5days-gt3overnight-fifteenTo20",
+    "min": 45
+  },
+  {
+    "type": "buy",
+    "ticker": "UWT",
+    "bid_price": 10.836266666666667,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-tenTo15",
+    "min": 80
+  },
+  {
+    "type": "sell",
+    "ticker": "BPMX",
+    "bid_price": 0.105,
+    "quantity": 462
+  },
+  {
+    "type": "sell",
+    "ticker": "DPW",
+    "bid_price": 0.12326705000000006,
+    "quantity": 425
+  },
+  {
+    "type": "buy",
+    "ticker": "DFFN",
+    "bid_price": 2.1272666666666664,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "HAIR",
+    "bid_price": 0.64,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "PLXP",
+    "bid_price": 2.102222222222222,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "RCUS",
+    "bid_price": 8.666666666666666,
+    "strategy": "low-float-high-volume-volToAvgPoints-trenddowngt10-notWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "RCUS",
+    "bid_price": 8.65,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-notWatchout-fiveTo10",
+    "min": 150
+  }
+]

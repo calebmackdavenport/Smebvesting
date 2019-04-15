@@ -1,0 +1,54 @@
+[
+  {
+    "type": "sell",
+    "ticker": "ACET",
+    "bid_price": 3.64,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NNVC",
+    "bid_price": 0.4415,
+    "quantity": "160.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AYTU",
+    "bid_price": 0.371,
+    "quantity": "593.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OPGN",
+    "bid_price": 2.2688650000000004,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HMNY",
+    "bid_price": 0.37144200000000005,
+    "quantity": "183.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JVA",
+    "bid_price": 5.676745300000006,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ERII",
+    "bid_price": 8.25147,
+    "quantity": 8,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddown7to10-notWatchout-fiveTo10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "ERII",
+    "bid_price": 8.25147,
+    "quantity": 8,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout-fiveTo10",
+    "min": 150
+  }
+]

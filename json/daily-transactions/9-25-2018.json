@@ -1,0 +1,62 @@
+[
+  {
+    "type": "buy",
+    "ticker": "LBJ",
+    "bid_price": 20.08,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first1-fifteenTo20",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "WMLP",
+    "bid_price": 2.2,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "REFR",
+    "bid_price": 1.66,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered70",
+    "min": 80
+  },
+  {
+    "type": "sell",
+    "ticker": "GBR",
+    "bid_price": 3.0082,
+    "quantity": 41
+  },
+  {
+    "type": "sell",
+    "ticker": "EPZM",
+    "bid_price": 9.990000000000002,
+    "quantity": 19
+  },
+  {
+    "type": "buy",
+    "ticker": "YUMA",
+    "bid_price": 0.3456,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 189
+  },
+  {
+    "type": "sell",
+    "ticker": "XON",
+    "bid_price": 16.95,
+    "quantity": 22
+  },
+  {
+    "type": "buy",
+    "ticker": "SANW",
+    "bid_price": 2.7473,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 388
+  },
+  {
+    "type": "buy",
+    "ticker": "CEI",
+    "bid_price": 0.4461,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 388
+  }
+]

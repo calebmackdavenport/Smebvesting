@@ -1,0 +1,106 @@
+[
+  {
+    "type": "sell",
+    "ticker": "DRYS",
+    "bid_price": 6.606695000000001,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SLNO",
+    "bid_price": 2.66733,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SYBX",
+    "bid_price": 9.47,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SFS",
+    "bid_price": 6.143850000000001,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TSRI",
+    "bid_price": 6.3,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 1.6442250000000005,
+    "quantity": "62.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ICLK",
+    "bid_price": 5.82,
+    "quantity": 8,
+    "strategy": "dynamo-3000-overall-notWatchout-lowestTSO-fiveTo10",
+    "min": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "WWR",
+    "bid_price": 0.40761975000000034,
+    "quantity": "238.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "CMCL",
+    "bid_price": 8.4525104,
+    "quantity": 5,
+    "strategy": "dynamo-3000-overall-notWatchout-lowestTSO-fiveTo10",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "LBY",
+    "bid_price": 8.105,
+    "quantity": 12,
+    "strategy": "based-on-jump-oneToFourOvernight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "RENN",
+    "bid_price": 2.56,
+    "quantity": 39,
+    "strategy": "low-float-high-volume-volToAvgPoints-trendup1to3-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "ABIL",
+    "bid_price": 12.53,
+    "quantity": 7,
+    "strategy": "based-on-jump-down3overnight-trending607-shouldWatchout-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "AST",
+    "bid_price": 1.575,
+    "quantity": 31
+  },
+  {
+    "type": "buy",
+    "ticker": "ASLN",
+    "bid_price": 8.37,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "TRXC",
+    "bid_price": 5.46,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend5to10-shouldWatchout-fiveTo10",
+    "min": 210
+  }
+]

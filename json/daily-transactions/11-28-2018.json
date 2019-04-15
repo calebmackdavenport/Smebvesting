@@ -1,0 +1,80 @@
+[
+  {
+    "type": "buy",
+    "ticker": "KOLD",
+    "bid_price": 12.5,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-first1-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "NYNY",
+    "bid_price": 13.9278,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "SBRCY",
+    "bid_price": 11.514240000000001,
+    "quantity": 15
+  },
+  {
+    "type": "sell",
+    "ticker": "JKS",
+    "bid_price": 11.8001,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "RSLS",
+    "bid_price": 0.8548158500000002,
+    "quantity": 180
+  },
+  {
+    "type": "sell",
+    "ticker": "TENX",
+    "bid_price": 2.256599400000001,
+    "quantity": 64
+  },
+  {
+    "type": "buy",
+    "ticker": "KOLD",
+    "bid_price": 12.47,
+    "strategy": "based-on-jump-down5overnight-trending53-shouldWatchout-first2-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "ARVN",
+    "bid_price": 17.768,
+    "strategy": "low-float-high-volume-floatPoints-trendgt5-shouldWatchout-fifteenTo20",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "SMRT",
+    "bid_price": 1.356,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 153
+  },
+  {
+    "type": "sell",
+    "ticker": "CPRX",
+    "bid_price": 3.1934025,
+    "quantity": 185
+  },
+  {
+    "type": "buy",
+    "ticker": "EVLV",
+    "bid_price": 0.665,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddowngt20",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "ALQA",
+    "bid_price": 2.9,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  }
+]

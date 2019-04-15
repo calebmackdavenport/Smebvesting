@@ -1,0 +1,9 @@
+[
+  {
+    "type": "buy",
+    "ticker": "AWX",
+    "bid_price": 2.98,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  }
+]

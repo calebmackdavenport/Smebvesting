@@ -1,0 +1,318 @@
+[
+  {
+    "type": "sell",
+    "ticker": "AMPE",
+    "bid_price": 0.615,
+    "quantity": "50.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EKSO",
+    "bid_price": 2.6473,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "XGTI",
+    "bid_price": 0.42978500000000003,
+    "quantity": "142.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GSAT",
+    "bid_price": 0.4841578,
+    "quantity": "40.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VKTX",
+    "bid_price": 12.77,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRON",
+    "bid_price": 10.7692,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GME",
+    "bid_price": 13.23,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JAGX",
+    "bid_price": 0.8582800000000002,
+    "quantity": "33.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "LBJ",
+    "bid_price": 17.6309,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-notWatchout-ltneg50percmax-first1-fifteenTo20",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "LBJ",
+    "bid_price": 17.6309,
+    "quantity": 2,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first1-fifteenTo20",
+    "min": 16
+  },
+  {
+    "type": "sell",
+    "ticker": "IMMP",
+    "bid_price": 2.5804170000000006,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMCN",
+    "bid_price": 0.421,
+    "quantity": "44.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EVFM",
+    "bid_price": 4.033800000000002,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "COTY",
+    "bid_price": 12.26,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CVM",
+    "bid_price": 2.6148825000000007,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BILI",
+    "bid_price": 12.3601,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HTZ",
+    "bid_price": 17.27,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DKILY",
+    "bid_price": 12.42,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TLYS",
+    "bid_price": 23.94,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TUR",
+    "bid_price": 19.98,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "YVR",
+    "bid_price": 1.031,
+    "quantity": "21.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NAO",
+    "bid_price": 0.931,
+    "quantity": "30.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GGAL",
+    "bid_price": 20.06996,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EROS",
+    "bid_price": 11.25,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SQQQ",
+    "bid_price": 11.385,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SOUHY",
+    "bid_price": 12.213890000000001,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PDEX",
+    "bid_price": 9.09545,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TIS",
+    "bid_price": 3.5,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PTX",
+    "bid_price": 1.09,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WTBDY",
+    "bid_price": 14.942525,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LIVX",
+    "bid_price": 5.2,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CZR",
+    "bid_price": 10.1,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OBLN",
+    "bid_price": 2.6586700000000003,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "TA",
+    "bid_price": 5.85,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-volToAvgPoints-trend10to15-notWatchout-fiveTo10",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "MSON",
+    "bid_price": 19.7,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DLHC",
+    "bid_price": 5.587873750000002,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "SGMO",
+    "bid_price": 18.2,
+    "quantity": 1,
+    "strategy": "up-streak-3to5days-gt3overnight-fifteenTo20",
+    "min": 45
+  },
+  {
+    "type": "buy",
+    "ticker": "QTNA",
+    "bid_price": 18.927780000000002,
+    "quantity": 1,
+    "strategy": "up-streak-3to5days-gt3overnight-fifteenTo20",
+    "min": 45
+  },
+  {
+    "type": "sell",
+    "ticker": "WYY",
+    "bid_price": 0.5247375000000001,
+    "quantity": "19.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ADIL",
+    "bid_price": 2.92584,
+    "quantity": 6,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "RKDA",
+    "bid_price": 6.15452,
+    "quantity": 6,
+    "strategy": "sudden-drops-last10trend-filter10-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "RKDA",
+    "bid_price": 5.898273,
+    "quantity": 3,
+    "strategy": "sudden-drops-last2trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "RKDA",
+    "bid_price": 5.8865,
+    "quantity": 6,
+    "strategy": "sudden-drops-last5trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "GALT",
+    "bid_price": 6.15,
+    "quantity": 1,
+    "strategy": "sudden-drops-last5trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "RKDA",
+    "bid_price": 5.88,
+    "quantity": 1,
+    "strategy": "sudden-drops-last5trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "NYNY",
+    "bid_price": 10.4,
+    "quantity": 1,
+    "strategy": "sudden-drops-last3trend-first1-tenTo15",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "NYNY",
+    "bid_price": 10.45,
+    "quantity": 1,
+    "strategy": "sudden-drops-last5trend-first1-tenTo15",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "EBMT",
+    "bid_price": 18.95,
+    "quantity": 3,
+    "strategy": "sudden-drops-last10trend-first1-fifteenTo20",
+    "min": 360
+  }
+]

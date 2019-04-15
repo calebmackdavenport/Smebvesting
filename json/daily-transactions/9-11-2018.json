@@ -1,0 +1,134 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 14.75,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KONE",
+    "bid_price": 7.065,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "LBJ",
+    "bid_price": 17.063423999999987,
+    "quantity": 5,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first1-fifteenTo20",
+    "min": 16
+  },
+  {
+    "type": "sell",
+    "ticker": "BRZU",
+    "bid_price": 14.96,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DOMO",
+    "bid_price": 21.029449500000002,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PSDO",
+    "bid_price": 16.845,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "XENE",
+    "bid_price": 14.91,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KANG",
+    "bid_price": 17.3617,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LITB",
+    "bid_price": 1.1,
+    "quantity": "72.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "OHRP",
+    "bid_price": 0.21,
+    "quantity": 476,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "sell",
+    "ticker": "XENE",
+    "bid_price": 14.775,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NLST",
+    "bid_price": 0.62062,
+    "quantity": 241,
+    "strategy": "sudden-drops-last5trend-filter20",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "NLST",
+    "bid_price": 0.5860854999999999,
+    "quantity": 255,
+    "strategy": "sudden-drops-last10trend-filter20",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "NLST",
+    "bid_price": 0.595,
+    "quantity": 168,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "NLST",
+    "bid_price": 0.5899,
+    "quantity": 169,
+    "strategy": "sudden-drops-last30trend-filter30",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "NLST",
+    "bid_price": 0.4891887,
+    "quantity": 306,
+    "strategy": "sudden-drops-last18trend-filter30",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "NLST",
+    "bid_price": 0.49499449999999995,
+    "quantity": 303,
+    "strategy": "sudden-drops-last30trend-filter30",
+    "min": 328
+  },
+  {
+    "type": "sell",
+    "ticker": "XENE",
+    "bid_price": 14.8,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "AGRX",
+    "bid_price": 0.57,
+    "quantity": 175,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 360
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "type": "sell",
+    "ticker": "VKTX",
+    "bid_price": 9.15,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CATS",
+    "bid_price": 6.41,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NVLN",
+    "bid_price": 3.89,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FSP",
+    "bid_price": 8.43,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "IMV",
+    "bid_price": 7.19,
+    "quantity": 5,
+    "strategy": "based-on-jump-fourToEightOvernight-notWatchout-first2-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "BSBR",
+    "bid_price": 9.56,
+    "quantity": 8,
+    "strategy": "based-on-jump-oneToFourOvernight-notWatchout-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "DNR",
+    "bid_price": 4.27854,
+    "quantity": 9,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown1to3",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "CODX",
+    "bid_price": 4.2370572,
+    "quantity": 9,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "CODX",
+    "bid_price": 4.2918,
+    "quantity": 9,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "GOGO",
+    "bid_price": 4.9554912,
+    "quantity": 8,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown3to5-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "CODX",
+    "bid_price": 4.41882,
+    "quantity": 9,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to10",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "GOGO",
+    "bid_price": 4.99998,
+    "quantity": 8,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddown3to5-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "TRXC",
+    "bid_price": 3.57,
+    "quantity": 11,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-gt500kvolume-first1",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "YECO",
+    "bid_price": 2.9738,
+    "quantity": 6,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "CHCI",
+    "bid_price": 3.65178,
+    "quantity": 5,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 63
+  },
+  {
+    "type": "buy",
+    "ticker": "ATXI",
+    "bid_price": 4.1164,
+    "quantity": 9,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trenddown3to5-notWatchout",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "ESTE",
+    "bid_price": 8.39676,
+    "quantity": 4,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-notWatchout-fiveTo10",
+    "min": 150
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "sell",
+    "ticker": "PYDS",
+    "bid_price": 1.7109,
+    "quantity": 48
+  },
+  {
+    "type": "sell",
+    "ticker": "BCAUY",
+    "bid_price": 8.09,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "SOFO",
+    "bid_price": 1.5077350000000003,
+    "quantity": 23
+  },
+  {
+    "type": "sell",
+    "ticker": "MLSS",
+    "bid_price": 0.59,
+    "quantity": 54
+  },
+  {
+    "type": "sell",
+    "ticker": "QRHC",
+    "bid_price": 2.0789600000000004,
+    "quantity": 36
+  },
+  {
+    "type": "buy",
+    "ticker": "LTRX",
+    "bid_price": 4.01,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-notWatchout",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "HIL",
+    "bid_price": 3.172050000000001,
+    "quantity": 43
+  },
+  {
+    "type": "sell",
+    "ticker": "CLGN",
+    "bid_price": 5.578820000000001,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "LJPC",
+    "bid_price": 17.057250000000007,
+    "quantity": 2
+  }
+]

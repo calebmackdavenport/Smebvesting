@@ -1,0 +1,118 @@
+[
+  {
+    "type": "sell",
+    "ticker": "MPVD",
+    "bid_price": 1.16,
+    "quantity": 26
+  },
+  {
+    "type": "buy",
+    "ticker": "NEON",
+    "bid_price": 2.3526736842105263,
+    "quantity": 53,
+    "strategy": "ticker-watchers-under5-notWatchout",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "BRS",
+    "bid_price": 3.4163796,
+    "quantity": 31
+  },
+  {
+    "type": "sell",
+    "ticker": "CCXI",
+    "bid_price": 11.99,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "JMU",
+    "bid_price": 0.76664,
+    "quantity": 163,
+    "strategy": "ticker-watchers-under1-notWatchout",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "LINK",
+    "bid_price": 1.7232631578947368,
+    "quantity": 72,
+    "strategy": "ticker-watchers-under5-notWatchout",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "IDXG",
+    "bid_price": 0.7913818947368421,
+    "quantity": 157,
+    "strategy": "ticker-watchers-under1-notWatchout",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "SPI",
+    "bid_price": 2.361,
+    "quantity": 123
+  },
+  {
+    "type": "sell",
+    "ticker": "VTVT",
+    "bid_price": 3.22,
+    "quantity": 41
+  },
+  {
+    "type": "sell",
+    "ticker": "CAW",
+    "bid_price": 2.2473,
+    "quantity": 39
+  },
+  {
+    "type": "sell",
+    "ticker": "CODX",
+    "bid_price": 0.9996,
+    "quantity": 193
+  },
+  {
+    "type": "buy",
+    "ticker": "RCUS",
+    "bid_price": 10.37690105263158,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-tenTo15",
+    "min": 80
+  },
+  {
+    "type": "sell",
+    "ticker": "AGEN",
+    "bid_price": 3.545,
+    "quantity": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "ASLN",
+    "bid_price": 3.6882526315789472,
+    "quantity": 20,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "MBOT",
+    "bid_price": 9.765063157894737,
+    "quantity": 2,
+    "strategy": "spread-singleLargestSpreadPerc100kVolume-fiveTo10",
+    "min": 202
+  },
+  {
+    "type": "sell",
+    "ticker": "BIOC",
+    "bid_price": 2.04,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "ADIL",
+    "bid_price": 5.585,
+    "quantity": 3
+  }
+]

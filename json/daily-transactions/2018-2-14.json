@@ -1,0 +1,82 @@
+[
+  {
+    "type": "sell",
+    "ticker": "OXBR",
+    "bid_price": 2.426,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AFMD",
+    "bid_price": 2.175,
+    "quantity": "50.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BLIN",
+    "bid_price": 2.37,
+    "quantity": "50.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NSU",
+    "bid_price": 2.24,
+    "quantity": "100.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GLUU",
+    "bid_price": 3.76,
+    "quantity": "35.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MULE",
+    "bid_price": 25.299,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LTS",
+    "bid_price": 3.18,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JCP",
+    "bid_price": 3.58,
+    "quantity": "30.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ONDK",
+    "bid_price": 4.920275,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ESNC",
+    "bid_price": 0.39491099999999996,
+    "quantity": "250.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "REFR",
+    "bid_price": 0.91605,
+    "quantity": "80.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "MTBC",
+    "bid_price": 3.73,
+    "quantity": 18,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "APPS",
+    "bid_price": 2.4473199999999995,
+    "quantity": 28,
+    "strategy": "stockinvest-top100"
+  }
+]

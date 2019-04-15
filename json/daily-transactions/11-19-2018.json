@@ -1,0 +1,21 @@
+[
+  {
+    "type": "buy",
+    "ticker": "DOMO",
+    "bid_price": 14.498,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt10-notWatchout-tenTo15",
+    "min": 276
+  },
+  {
+    "type": "sell",
+    "ticker": "EDRY",
+    "bid_price": 9.45,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "BNTC",
+    "bid_price": 2.264861200000001,
+    "quantity": 17
+  }
+]

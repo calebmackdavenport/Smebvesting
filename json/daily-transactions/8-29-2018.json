@@ -1,0 +1,178 @@
+[
+  {
+    "type": "sell",
+    "ticker": "NEON",
+    "bid_price": 0.3109,
+    "quantity": "118.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ATAI",
+    "bid_price": 2.3189399500000003,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PXLW",
+    "bid_price": 4.907545000000001,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "STAF",
+    "bid_price": 2.25,
+    "quantity": "30.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SFUN",
+    "bid_price": 2.9735125000000004,
+    "quantity": "25.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRON",
+    "bid_price": 12.33,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ACST",
+    "bid_price": 0.4876,
+    "quantity": "142.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMEH",
+    "bid_price": 16.005,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "EIDX",
+    "bid_price": 14.2,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IGLD",
+    "bid_price": 2.5839,
+    "quantity": "13.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SGBX",
+    "bid_price": 3.5847300000000026,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "URG",
+    "bid_price": 0.7948000000000006,
+    "quantity": "50.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "KFS",
+    "bid_price": 2.495,
+    "quantity": 8,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "ITUS",
+    "bid_price": 3.99,
+    "quantity": 2,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "PED",
+    "bid_price": 2.354799999999996,
+    "quantity": 4,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "MJCO",
+    "bid_price": 7.309529999999992,
+    "quantity": 1,
+    "strategy": "sudden-drops-last3trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "CMCL",
+    "bid_price": 6.350912399999985,
+    "quantity": 1,
+    "strategy": "sudden-drops-last3trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "TGS",
+    "bid_price": 12.455,
+    "quantity": 1,
+    "strategy": "sudden-drops-last30trend-first1-tenTo15",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "UAVS",
+    "bid_price": 2.279079999999999,
+    "quantity": 8,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trend10to15-shouldWatchout",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "CSIQ",
+    "bid_price": 14.89,
+    "quantity": 1,
+    "strategy": "technical-indicators-5minute-day-topSMAoverUnderHist-tenTo15",
+    "min": 320
+  },
+  {
+    "type": "buy",
+    "ticker": "BILI",
+    "bid_price": 13.835,
+    "quantity": 1,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade-tenTo15",
+    "min": 320
+  },
+  {
+    "type": "buy",
+    "ticker": "AKRX",
+    "bid_price": 14.86,
+    "quantity": 1,
+    "strategy": "technical-indicators-day-year-topSMAoverUnderLastTrade-tenTo15",
+    "min": 320
+  },
+  {
+    "type": "buy",
+    "ticker": "UBX",
+    "bid_price": 17.41,
+    "quantity": 1,
+    "strategy": "sudden-drops-last10trend-first1-fifteenTo20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "USO",
+    "bid_price": 14.679664999999998,
+    "quantity": 1,
+    "strategy": "technical-indicators-day-year-topOBV-tenTo15",
+    "min": 383
+  },
+  {
+    "type": "buy",
+    "ticker": "BPI",
+    "bid_price": 11.795,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trenddown7to10-shouldWatchout-tenTo15",
+    "min": 384
+  }
+]

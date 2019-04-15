@@ -1,0 +1,266 @@
+[
+  {
+    "type": "sell",
+    "ticker": "FLKS",
+    "bid_price": 0.39,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "RGSE",
+    "bid_price": 0.52,
+    "quantity": 234
+  },
+  {
+    "type": "buy",
+    "ticker": "OESX",
+    "bid_price": 0.7708333333333334,
+    "strategy": "based-on-jump-down3overnight-trending103-first2",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "MBOT",
+    "bid_price": 2.487222222222222,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "ASLN",
+    "bid_price": 4.428897,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "MYND",
+    "bid_price": 1.0105833333333332,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "WWR",
+    "bid_price": 0.16531500000000002,
+    "strategy": "based-on-jump-down5overnight-trending103-notWatchout-ltneg50percmax",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "RHE",
+    "bid_price": 1.5166666666666666,
+    "strategy": "based-on-jump-down8overnight-trending35257-shouldWatchout-first1",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "ORGO",
+    "bid_price": 18.5,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-first1-fifteenTo20",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "UCO",
+    "bid_price": 16.742097777777776,
+    "strategy": "based-on-jump-fourToEightOvernight-trending53-gt100kvolume-first1-fifteenTo20",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "EDAP",
+    "bid_price": 2.34,
+    "strategy": "sudden-drops-last1trend-filter10",
+    "min": 14
+  },
+  {
+    "type": "buy",
+    "ticker": "HPR",
+    "bid_price": 3.12,
+    "strategy": "low-float-high-volume-absVolPoints-trenddown3to10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "GNCA",
+    "bid_price": 0.5268777777777778,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trenddowngt10-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "TOPS",
+    "bid_price": 1.0402,
+    "quantity": 168
+  },
+  {
+    "type": "sell",
+    "ticker": "GLG",
+    "bid_price": 0.333,
+    "quantity": 33
+  },
+  {
+    "type": "sell",
+    "ticker": "SITO",
+    "bid_price": 1.27,
+    "quantity": 18
+  },
+  {
+    "type": "sell",
+    "ticker": "CLD",
+    "bid_price": 0.4109,
+    "quantity": 224
+  },
+  {
+    "type": "sell",
+    "ticker": "DLPN",
+    "bid_price": 1.28,
+    "quantity": 39
+  },
+  {
+    "type": "sell",
+    "ticker": "TENX",
+    "bid_price": 1.2335,
+    "quantity": 100
+  },
+  {
+    "type": "sell",
+    "ticker": "PIXY",
+    "bid_price": 1.6701,
+    "quantity": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "GE",
+    "bid_price": 8.585,
+    "quantity": 15
+  },
+  {
+    "type": "sell",
+    "ticker": "RBZ",
+    "bid_price": 1.4930080000000003,
+    "quantity": 16
+  },
+  {
+    "type": "sell",
+    "ticker": "OHGI",
+    "bid_price": 0.133,
+    "quantity": 26
+  },
+  {
+    "type": "sell",
+    "ticker": "VCNX",
+    "bid_price": 3.7169450000000013,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "CCNI",
+    "bid_price": 4.213875000000004,
+    "quantity": 7
+  },
+  {
+    "type": "buy",
+    "ticker": "WTER",
+    "bid_price": 2.550133333333333,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "WWR",
+    "bid_price": 0.16056666666666666,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "RHE",
+    "bid_price": 1.4666666666666666,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "HAIR",
+    "bid_price": 0.9162333333333333,
+    "strategy": "sudden-drops-last2trend-first1",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "RHE",
+    "bid_price": 1.5133333333333334,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "sell",
+    "ticker": "ADRO",
+    "bid_price": 2.8832,
+    "quantity": 50
+  },
+  {
+    "type": "sell",
+    "ticker": "YRIV",
+    "bid_price": 2.98,
+    "quantity": 10
+  },
+  {
+    "type": "buy",
+    "ticker": "BBCP",
+    "bid_price": 7.926666666666667,
+    "strategy": "sudden-drops-last30trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "SAMA",
+    "bid_price": 9.804444444444444,
+    "strategy": "sudden-drops-last30trend-first2-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "SAMA",
+    "bid_price": 9.804444444444444,
+    "strategy": "sudden-drops-last30trend-filter10-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "AVCO",
+    "bid_price": 2.988888888888889,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "SAEX",
+    "bid_price": 3.1822222222222223,
+    "strategy": "sudden-drops-last50trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "RHE",
+    "bid_price": 1.4066666666666665,
+    "strategy": "double-down",
+    "min": 378
+  },
+  {
+    "type": "buy",
+    "ticker": "CGIX",
+    "bid_price": 0.35565555555555556,
+    "strategy": "sudden-drops-last3trend-first2",
+    "min": 388
+  },
+  {
+    "type": "buy",
+    "ticker": "SXE",
+    "bid_price": 0.41094444444444445,
+    "strategy": "sudden-drops-last3trend-first2",
+    "min": 388
+  }
+]

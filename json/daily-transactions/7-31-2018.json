@@ -1,0 +1,10 @@
+[
+  {
+    "type": "buy",
+    "ticker": "CART",
+    "bid_price": 8.44,
+    "quantity": 12,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown5to7-fiveTo10",
+    "min": 276
+  }
+]

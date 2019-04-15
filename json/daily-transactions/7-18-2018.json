@@ -1,0 +1,38 @@
+[
+  {
+    "type": "sell",
+    "ticker": "TSRI",
+    "bid_price": 7.3,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IFMK",
+    "bid_price": 3.9940000000000007,
+    "quantity": "41.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "BDR",
+    "bid_price": 1.355925,
+    "quantity": 125,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "TENX",
+    "bid_price": 6.6286,
+    "quantity": 25,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "ATLC",
+    "bid_price": 2.06,
+    "quantity": 38,
+    "strategy": "sudden-drops-last2trend-first1",
+    "min": 388
+  }
+]

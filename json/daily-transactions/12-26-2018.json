@@ -1,0 +1,333 @@
+[
+  {
+    "type": "sell",
+    "ticker": "LINK",
+    "bid_price": 2.11,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "EFOI",
+    "bid_price": 0.55,
+    "quantity": 32
+  },
+  {
+    "type": "sell",
+    "ticker": "SNSS",
+    "bid_price": 0.3,
+    "quantity": 522
+  },
+  {
+    "type": "sell",
+    "ticker": "NFEC",
+    "bid_price": 11.92,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "HEAR",
+    "bid_price": 13.62,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "PIR",
+    "bid_price": 0.32,
+    "quantity": 35
+  },
+  {
+    "type": "sell",
+    "ticker": "JAGX",
+    "bid_price": 0.18531450000000002,
+    "quantity": 29
+  },
+  {
+    "type": "sell",
+    "ticker": "CNST",
+    "bid_price": 4.44,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "HIL",
+    "bid_price": 3.06,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "IPIC",
+    "bid_price": 2.388805,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "MICT",
+    "bid_price": 0.8699,
+    "quantity": 13
+  },
+  {
+    "type": "sell",
+    "ticker": "KOLD",
+    "bid_price": 17.3,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "OBSV",
+    "bid_price": 10.87,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "RSLS",
+    "bid_price": 0.3461535,
+    "quantity": 44
+  },
+  {
+    "type": "sell",
+    "ticker": "UXIN",
+    "bid_price": 8.805595,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "MRNA",
+    "bid_price": 14.09,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "YVR",
+    "bid_price": 1.9071350000000002,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "GUSH",
+    "bid_price": 6.4001,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CLFD",
+    "bid_price": 9.361240000000002,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "TALO",
+    "bid_price": 14.92,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "DVLU",
+    "bid_price": 14.57,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CNFR",
+    "bid_price": 4.143360000000002,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "JOB",
+    "bid_price": 1.0394800000000002,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "EDIT",
+    "bid_price": 20.079955,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "VCNX",
+    "bid_price": 4.098049950000001,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "GNE",
+    "bid_price": 6.05697,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "TPOR",
+    "bid_price": 16.314990000000012,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "CTIC",
+    "bid_price": 0.8291700000000001,
+    "quantity": 32
+  },
+  {
+    "type": "sell",
+    "ticker": "OTLKW",
+    "bid_price": 0.142,
+    "quantity": 88
+  },
+  {
+    "type": "sell",
+    "ticker": "ADOM",
+    "bid_price": 0.244,
+    "quantity": 55
+  },
+  {
+    "type": "sell",
+    "ticker": "OGEN",
+    "bid_price": 0.853,
+    "quantity": 18
+  },
+  {
+    "type": "sell",
+    "ticker": "TRPX",
+    "bid_price": 3.351,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "SYPR",
+    "bid_price": 0.96,
+    "quantity": 173
+  },
+  {
+    "type": "sell",
+    "ticker": "CTRV",
+    "bid_price": 0.2406,
+    "quantity": 307
+  },
+  {
+    "type": "sell",
+    "ticker": "NBEV",
+    "bid_price": 4.9383,
+    "quantity": 26
+  },
+  {
+    "type": "sell",
+    "ticker": "AMRN",
+    "bid_price": 12.715971300000001,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "BPMX",
+    "bid_price": 0.0911,
+    "quantity": 1276
+  },
+  {
+    "type": "sell",
+    "ticker": "CSPI",
+    "bid_price": 9.3,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "JAKK",
+    "bid_price": 1.4970000000000003,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "GALT",
+    "bid_price": 3.543084050000002,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "ASCMA",
+    "bid_price": 0.38466,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ASCMA",
+    "bid_price": 0.378,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ASCMA",
+    "bid_price": 0.38,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "SFET",
+    "bid_price": 3.2288,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FTNW",
+    "bid_price": 2.1,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "DAC",
+    "bid_price": 0.6278,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "SBPH",
+    "bid_price": 8.940000000000001,
+    "strategy": "sudden-drops-last2trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "SBPH",
+    "bid_price": 8.940000000000001,
+    "strategy": "sudden-drops-last5trend-first2-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "SBPH",
+    "bid_price": 8.8175,
+    "strategy": "sudden-drops-last10trend-first1-fiveTo10",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "SFET",
+    "bid_price": 3.126,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddowngt20-shouldWatchout",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "PLSE",
+    "bid_price": 11.735999999999999,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend5to10-notWatchout-tenTo15",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "DAC",
+    "bid_price": 0.6172888888888889,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 360
+  },
+  {
+    "type": "buy",
+    "ticker": "DRIP",
+    "bid_price": 18.9279,
+    "strategy": "sudden-drops-last10trend-first1-fifteenTo20",
+    "min": 360
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "type": "sell",
+    "ticker": "OPGN",
+    "bid_price": 1.81,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CPG",
+    "bid_price": 8.53,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SESN",
+    "bid_price": 3.2,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OPHC",
+    "bid_price": 5.88,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "XTNT",
+    "bid_price": 5.95,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RWLK",
+    "bid_price": 1.075,
+    "quantity": "27.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARWR",
+    "bid_price": 9.585205,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AGEN",
+    "bid_price": 3.3466500000000003,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CPRX",
+    "bid_price": 3.35832,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PRPH",
+    "bid_price": 4.6,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SN",
+    "bid_price": 4.142453400000001,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DXR",
+    "bid_price": 7.1,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PME",
+    "bid_price": 3.6844650000000008,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VKTX",
+    "bid_price": 5.327335000000001,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "DNR",
+    "bid_price": 4.1856545999999994,
+    "quantity": 4,
+    "strategy": "dynamo-3000-overall-notWatchout-highestYP",
+    "min": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "FSNN",
+    "bid_price": 5.09,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHEK",
+    "bid_price": 4.63768,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARQL",
+    "bid_price": 3.41,
+    "quantity": 10,
+    "strategy": "low-float-high-volume-floatTimesvolTo2WeekPoints-trend3to5",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "FRED",
+    "bid_price": 1.7,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SSG",
+    "bid_price": 7.74,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARQL",
+    "bid_price": 3.4237404,
+    "quantity": 5,
+    "strategy": "dynamo-3000-overall-notWatchout-highestYP",
+    "min": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "SND",
+    "bid_price": 6.89655,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PFNX",
+    "bid_price": 7.289050000000001,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FRSH",
+    "bid_price": 5.657280000000002,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ERA",
+    "bid_price": 12.75,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CARV",
+    "bid_price": 9.61519,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LLIT",
+    "bid_price": 1.7450400000000017,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LAZY",
+    "bid_price": 8.492980000000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "APEN",
+    "bid_price": 6.276860000000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WOW",
+    "bid_price": 8.4915,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MNLO",
+    "bid_price": 9.94,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "RIOT",
+    "bid_price": 9.1208,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-trendingUp3010-lowestTSO-fiveTo10",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 8.376719999999999,
+    "quantity": 2,
+    "strategy": "dynamo-3000-bottom50tso-trendingUp3010-lowestTSO-fiveTo10",
+    "min": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "NICK",
+    "bid_price": 8.73878355000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FATE",
+    "bid_price": 10.7,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "VOC",
+    "bid_price": 5.958814300000004,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IBN",
+    "bid_price": 8.405,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "AGRX",
+    "bid_price": 0.59,
+    "quantity": 59,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddowngt10",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "CVM",
+    "bid_price": 2.8322,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NVUS",
+    "bid_price": 6.2134,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASNA",
+    "bid_price": 3.17,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LIVE",
+    "bid_price": 12.480620250000005,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ZSAN",
+    "bid_price": 4.2295,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DS",
+    "bid_price": 6.7676,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DVCR",
+    "bid_price": 7.007700000000004,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ASPN",
+    "bid_price": 4.902975000000005,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "DDE",
+    "bid_price": 2.27,
+    "quantity": 15,
+    "strategy": "based-on-jump-oneToFourOvernight-trending53-notWatchout-gtneg20percmax-first1",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "SGMA",
+    "bid_price": 6.3146400000000025,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 8.35,
+    "quantity": 2,
+    "strategy": "dynamo-3000-overall-trendingUp3010-highestTSO-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "ESND",
+    "bid_price": 13.56,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CDNA",
+    "bid_price": 11.4899,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "TNDM",
+    "bid_price": 12.32,
+    "quantity": 1,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered60-tenTo15",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "LGCY",
+    "bid_price": 8.545043999999999,
+    "quantity": 2,
+    "strategy": "dynamo-3000-overall-onlyWatchout-highestTSO-fiveTo10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "PCOM",
+    "bid_price": 13.12,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-floatTimestwoWeekVolToAvgPoints-trend5to10-tenTo15",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "TCS",
+    "bid_price": 8.0661,
+    "quantity": 2,
+    "strategy": "dynamo-3000-absvolume-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "TCS",
+    "bid_price": 8.046260400000001,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-onlyWatchout-highestTSO-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "TCS",
+    "bid_price": 8.0302,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-twoweekvolumetoavg-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "KMPH",
+    "bid_price": 6.275,
+    "quantity": 2,
+    "strategy": "dynamo-3000-top50tso-twoweekvolumetoavg-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "TCS",
+    "bid_price": 8.0302,
+    "quantity": 2,
+    "strategy": "dynamo-3000-overall-overall-highestTSO-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "NERV",
+    "bid_price": 8.1162,
+    "quantity": 2,
+    "strategy": "dynamo-3000-overall-overall-highestTSO-fiveTo10",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "RNET",
+    "bid_price": 11.623199999999999,
+    "quantity": 3,
+    "strategy": "sudden-drops-last18trend-first1-tenTo15",
+    "min": 221
+  }
+]

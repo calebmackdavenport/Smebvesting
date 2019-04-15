@@ -1,0 +1,36 @@
+{
+  "name": "robinsmeb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --max-old-space-size=16384"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^1.0.2",
+    "brain.js": "^1.1.2",
+    "cheerio": "^1.0.0-rc.2",
+    "compression": "^1.7.1",
+    "cron": "^1.3.0",
+    "express": "^4.16.2",
+    "gmail-send": "^1.2.14",
+    "js-combinatorics": "^0.5.3",
+    "moment": "^2.24.0",
+    "mongoose": "^5.3.1",
+    "mz": "^2.7.0",
+    "promise-map-limit": "^1.0.0",
+    "puppeteer": "^0.13.0",
+    "request": "^2.88.0",
+    "retriable-promise": "^1.0.0",
+    "robinhood": "^1.6.0",
+    "socket.io": "^2.0.4",
+    "string-similarity": "^1.2.0",
+    "technicalindicators": "^1.1.12",
+    "twitter": "^1.7.1",
+    "underscore": "^1.9.1",
+    "yahoo-stocks": "^2.0.1"
+  }
+}

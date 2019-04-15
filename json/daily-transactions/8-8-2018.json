@@ -1,0 +1,136 @@
+[
+  {
+    "type": "sell",
+    "ticker": "AWX",
+    "bid_price": 2.765,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IMMR",
+    "bid_price": 11.44,
+    "quantity": "14.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "BRY",
+    "bid_price": 13.47,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-notWatchout-tenTo15",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "APHB",
+    "bid_price": 1.0447500000000005,
+    "quantity": "83.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ENTR",
+    "bid_price": 18.20634,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "AWRE",
+    "bid_price": 3.7575,
+    "quantity": 11,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "ONS",
+    "bid_price": 0.83166,
+    "quantity": 105,
+    "strategy": "based-on-jump-down3overnight-trending53-notWatchout-ltneg50percmax-first2",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "RUSS",
+    "bid_price": 19.85,
+    "quantity": 2,
+    "strategy": "based-on-jump-fourToEightOvernight-shouldWatchout-first3-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "RRC",
+    "bid_price": 15.98,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TA",
+    "bid_price": 3.95,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "REPL",
+    "bid_price": 16.1919,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NATR",
+    "bid_price": 9.25,
+    "quantity": 4,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trend15to25-fiveTo10",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "OTIC",
+    "bid_price": 3.6,
+    "quantity": 12,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "CWH",
+    "bid_price": 19.6499,
+    "quantity": 2,
+    "strategy": "low-float-high-volume-volToAvgPoints-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "sell",
+    "ticker": "CKPT",
+    "bid_price": 2.4,
+    "quantity": "31.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NERV",
+    "bid_price": 7.846075,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PI",
+    "bid_price": 19.605375000000002,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "CYTX",
+    "bid_price": 0.42504,
+    "quantity": 103,
+    "strategy": "sudden-drops-last2trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "AMPE",
+    "bid_price": 0.6999,
+    "quantity": 62,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 280
+  }
+]

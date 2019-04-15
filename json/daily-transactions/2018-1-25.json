@@ -1,0 +1,26 @@
+[
+  {
+    "type": "sell",
+    "ticker": "APDN",
+    "bid_price": 1.6901,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SGYP",
+    "bid_price": 2.6467,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AAPL",
+    "bid_price": 173.389695,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RPRX",
+    "bid_price": 0.6621724999999999,
+    "quantity": "26.0000"
+  }
+]

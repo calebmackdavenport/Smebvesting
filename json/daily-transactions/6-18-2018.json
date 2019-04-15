@@ -1,0 +1,10 @@
+[
+  {
+    "type": "buy",
+    "ticker": "CCCL",
+    "bid_price": 1.58,
+    "quantity": 63,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 276
+  }
+]

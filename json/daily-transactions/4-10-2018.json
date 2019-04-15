@@ -1,0 +1,122 @@
+[
+  {
+    "type": "sell",
+    "ticker": "BKS",
+    "bid_price": 5.25,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SRNE",
+    "bid_price": 5.925,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ALNA",
+    "bid_price": 12.7253,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FSP",
+    "bid_price": 7.617375,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SRNE",
+    "bid_price": 6.025,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "SELB",
+    "bid_price": 10.039950000000001,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "AFMD",
+    "bid_price": 2.125,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "MBII",
+    "bid_price": 2.46,
+    "quantity": 15
+  },
+  {
+    "type": "sell",
+    "ticker": "EYEG",
+    "bid_price": 0.351,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "RARX",
+    "bid_price": 5.4945,
+    "quantity": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "DRIP",
+    "bid_price": 11.2001,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "CLXT",
+    "bid_price": 14.52,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "INTT",
+    "bid_price": 6.295,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "ASPU",
+    "bid_price": 6.9,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "SHNY",
+    "bid_price": 7.9620299999999995,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "EVFM",
+    "bid_price": 5.64732,
+    "quantity": 3
+  },
+  {
+    "type": "buy",
+    "ticker": "CNET",
+    "bid_price": 2.3,
+    "quantity": 2,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "LODE",
+    "bid_price": 0.3295,
+    "quantity": 18,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "NVIV",
+    "bid_price": 0.4051047,
+    "quantity": 14,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 140
+  }
+]

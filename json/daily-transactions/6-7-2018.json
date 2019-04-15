@@ -1,0 +1,162 @@
+[
+  {
+    "type": "sell",
+    "ticker": "CKPT",
+    "bid_price": 3.17,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CODX",
+    "bid_price": 5.25,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TRXC",
+    "bid_price": 3.1,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OSN",
+    "bid_price": 2.56,
+    "quantity": "15.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BSQR",
+    "bid_price": 3.2,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMEH",
+    "bid_price": 14.54,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ANW",
+    "bid_price": 1.165,
+    "quantity": "108.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "LTRX",
+    "bid_price": 3.03,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TNXP",
+    "bid_price": 3.9880050000000002,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "FGP",
+    "bid_price": 3.5238,
+    "quantity": 16,
+    "strategy": "based-on-jump-down3overnight-trending103-notWatchout-first1",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "ELTK",
+    "bid_price": 4.127935,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PEIX",
+    "bid_price": 3.143700000000001,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "MDXG",
+    "bid_price": 6.07,
+    "quantity": 9,
+    "strategy": "based-on-jump-down3overnight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "AMMA",
+    "bid_price": 0.343501,
+    "quantity": 168,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddown7to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "SB",
+    "bid_price": 3.8,
+    "quantity": 15,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown1to3",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "MDXG",
+    "bid_price": 7.18,
+    "quantity": 8,
+    "strategy": "based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "MDXG",
+    "bid_price": 7.2598,
+    "quantity": 3,
+    "strategy": "based-on-jump-down5overnight-trending607-shouldWatchout-first1-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "OPHT",
+    "bid_price": 3.6559,
+    "quantity": 7,
+    "strategy": "low-float-high-volume-floatTimesvolToAvgPoints-trend10to15-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "CHK",
+    "bid_price": 4.7595,
+    "quantity": 12,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints-filtered60",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "TOPS",
+    "bid_price": 1.2758,
+    "quantity": 22,
+    "strategy": "constant-risers-5minute-percUpCloseOnlyPoints-filtered50",
+    "min": 198
+  },
+  {
+    "type": "buy",
+    "ticker": "ONTX",
+    "bid_price": 0.701,
+    "quantity": 124,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered60",
+    "min": 300
+  },
+  {
+    "type": "sell",
+    "ticker": "PEIX",
+    "bid_price": 3.1,
+    "quantity": 3
+  },
+  {
+    "type": "buy",
+    "ticker": "ATHX",
+    "bid_price": 2.7574,
+    "quantity": 21,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-notWatchout",
+    "min": 315
+  }
+]

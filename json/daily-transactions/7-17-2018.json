@@ -1,0 +1,30 @@
+[
+  {
+    "type": "sell",
+    "ticker": "INNT",
+    "bid_price": 9,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BIOC",
+    "bid_price": 6.830383100000001,
+    "quantity": "34.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "IFMK",
+    "bid_price": 4.1381598,
+    "quantity": 41,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "TSRI",
+    "bid_price": 7.3152,
+    "quantity": 23,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown3to10-shouldWatchout-fiveTo10",
+    "min": 95
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "type": "sell",
+    "ticker": "RDCM",
+    "bid_price": 14.1579175,
+    "quantity": "26.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JP",
+    "bid_price": 9.662784050000003,
+    "quantity": "16.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "ASCMA",
+    "bid_price": 0.9072,
+    "quantity": 110,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ASCMA",
+    "bid_price": 0.9072,
+    "quantity": 110,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 11.9,
+    "quantity": 12,
+    "strategy": "low-float-high-volume-volToAvgPoints-trend10to15-shouldWatchout-tenTo15",
+    "min": 276
+  },
+  {
+    "type": "sell",
+    "ticker": "PEYUF",
+    "bid_price": 8.0304,
+    "quantity": "18.0000"
+  }
+]

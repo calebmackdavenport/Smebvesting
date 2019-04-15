@@ -1,0 +1,268 @@
+[
+  {
+    "type": "sell",
+    "ticker": "ZOM",
+    "bid_price": 1.23008,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "TMQ",
+    "bid_price": 2.05504,
+    "quantity": 12
+  },
+  {
+    "type": "sell",
+    "ticker": "DWT",
+    "bid_price": 10.16,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "WINR",
+    "bid_price": 2.59,
+    "quantity": 33,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "SPI",
+    "bid_price": 2.6099,
+    "quantity": 33,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "CODX",
+    "bid_price": 0.9877,
+    "quantity": 89,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "sell",
+    "ticker": "HAIR",
+    "bid_price": 1.13,
+    "quantity": 13
+  },
+  {
+    "type": "sell",
+    "ticker": "CMCL",
+    "bid_price": 5.5278,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "WTIU",
+    "bid_price": 12.43,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "YINN",
+    "bid_price": 19.989720000000002,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "BCOM",
+    "bid_price": 4.69763,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "CTEK",
+    "bid_price": 4.6,
+    "quantity": 14
+  },
+  {
+    "type": "sell",
+    "ticker": "SMMT",
+    "bid_price": 1.45416,
+    "quantity": 87
+  },
+  {
+    "type": "sell",
+    "ticker": "EARS",
+    "bid_price": 0.4248,
+    "quantity": 134
+  },
+  {
+    "type": "buy",
+    "ticker": "BRS",
+    "bid_price": 2.767357894736842,
+    "quantity": 31,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "CCXI",
+    "bid_price": 11.465263157894737,
+    "quantity": 1,
+    "strategy": "based-on-jump-down5overnight-trending53-shouldWatchout-first2-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "VTVT",
+    "bid_price": 3.09288,
+    "quantity": 7,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trend10to15-shouldWatchout",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "PULM",
+    "bid_price": 0.2288,
+    "quantity": 288,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "sell",
+    "ticker": "VTL",
+    "bid_price": 0.2047136,
+    "quantity": 243
+  },
+  {
+    "type": "sell",
+    "ticker": "RNN",
+    "bid_price": 0.59,
+    "quantity": 100
+  },
+  {
+    "type": "sell",
+    "ticker": "SELB",
+    "bid_price": 1.50396,
+    "quantity": 40
+  },
+  {
+    "type": "sell",
+    "ticker": "ABIL",
+    "bid_price": 2.077224,
+    "quantity": 28
+  },
+  {
+    "type": "buy",
+    "ticker": "VTVT",
+    "bid_price": 3.3221052631578947,
+    "quantity": 6,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "VTVT",
+    "bid_price": 3.32556,
+    "quantity": 6,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered40",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "AGEN",
+    "bid_price": 3.346698947368421,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-floatPoints-trenddown7to10-notWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "SPI",
+    "bid_price": 2.36,
+    "quantity": 60,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "WINR",
+    "bid_price": 2.5487105263157894,
+    "quantity": 38,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CODX",
+    "bid_price": 0.961178947368421,
+    "quantity": 104,
+    "strategy": "double-down",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FTK",
+    "bid_price": 2.551894736842105,
+    "quantity": 8,
+    "strategy": "technical-indicators-10minute-week-topSMAoverUnderLastTrade",
+    "min": 114
+  },
+  {
+    "type": "buy",
+    "ticker": "BIOC",
+    "bid_price": 2.229263157894737,
+    "quantity": 19,
+    "strategy": "low-float-high-volume-volToAvgPoints-trendgt10",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "CBAT",
+    "bid_price": 1.0839789473684212,
+    "quantity": 40,
+    "strategy": "low-float-high-volume-volToAvgPoints-trendup1to3-shouldWatchout",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "CAW",
+    "bid_price": 2.2301052631578946,
+    "quantity": 39,
+    "strategy": "ticker-watchers-under5",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "VTVT",
+    "bid_price": 3.0601,
+    "quantity": 22,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "ADIL",
+    "bid_price": 5.95,
+    "quantity": 3,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-highovernightjumps-fiveTo10",
+    "min": 198
+  },
+  {
+    "type": "buy",
+    "ticker": "AQ",
+    "bid_price": 9.335,
+    "quantity": 2,
+    "strategy": "spread-singleLargestSpreadAbs100kVolume-fiveTo10",
+    "min": 202
+  },
+  {
+    "type": "buy",
+    "ticker": "NURO",
+    "bid_price": 0.9894,
+    "quantity": 22,
+    "strategy": "constant-downers-5minute-percDownLowClose-lowovernightjumps",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "NURO",
+    "bid_price": 0.9894,
+    "quantity": 22,
+    "strategy": "constant-downers-5minute-percDownCloseOnly-lowovernightjumps",
+    "min": 309
+  }
+]

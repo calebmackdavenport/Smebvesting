@@ -1,0 +1,182 @@
+[
+  {
+    "type": "sell",
+    "ticker": "NETE",
+    "bid_price": 9.0999,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MFGP",
+    "bid_price": 15.44904,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PTN",
+    "bid_price": 1.2288699,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BZQ",
+    "bid_price": 7.3531395,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IMMY",
+    "bid_price": 2,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GLMD",
+    "bid_price": 5.97,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TELL",
+    "bid_price": 8.5,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRK",
+    "bid_price": 5.9196,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PBR.A",
+    "bid_price": 12.62,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TCAP",
+    "bid_price": 11.7698,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRMD",
+    "bid_price": 0.2449548,
+    "quantity": "200.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SRNE",
+    "bid_price": 5.375,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OPGN",
+    "bid_price": 1.9095,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JE",
+    "bid_price": 4.5206,
+    "quantity": "11.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RSLS",
+    "bid_price": 0.68,
+    "quantity": "42.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AFMD",
+    "bid_price": 2.075,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CNAT",
+    "bid_price": 4.09,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RIGL",
+    "bid_price": 3.2,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NAVB",
+    "bid_price": 0.3515,
+    "quantity": "150.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PVG",
+    "bid_price": 6.55,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TEUM",
+    "bid_price": 2.35764,
+    "quantity": "10.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CLDR",
+    "bid_price": 13.5,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRVS",
+    "bid_price": 10.78,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AIPT",
+    "bid_price": 0.9309,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ADAP",
+    "bid_price": 10.779209999999999,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IRIX",
+    "bid_price": 5.65,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ALRN",
+    "bid_price": 6.703080000000001,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NTRP",
+    "bid_price": 7.73672,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHEK",
+    "bid_price": 3.9117916999999998,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MYND",
+    "bid_price": 1.29559,
+    "quantity": "20.0000"
+  }
+]

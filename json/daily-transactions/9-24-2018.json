@@ -1,0 +1,73 @@
+[
+  {
+    "type": "buy",
+    "ticker": "EPZM",
+    "bid_price": 10.55,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddown7to10-shouldWatchout-tenTo15",
+    "min": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "TRQ",
+    "bid_price": 2.21,
+    "quantity": 100
+  },
+  {
+    "type": "sell",
+    "ticker": "IGC",
+    "bid_price": 2.51,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "MDXG",
+    "bid_price": 6.2,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "INVA",
+    "bid_price": 15,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "DTEA",
+    "bid_price": 2.45,
+    "quantity": 38
+  },
+  {
+    "type": "sell",
+    "ticker": "ASCMA",
+    "bid_price": 1.7762316500000002,
+    "quantity": 48
+  },
+  {
+    "type": "buy",
+    "ticker": "XON",
+    "bid_price": 17.66,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-first1-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "XON",
+    "bid_price": 17.6424,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-gt100kvolume-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "UAMY",
+    "bid_price": 0.88688,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "GBR",
+    "bid_price": 3.25,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 388
+  }
+]

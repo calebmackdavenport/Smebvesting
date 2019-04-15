@@ -1,0 +1,76 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SIGM",
+    "bid_price": 0.275,
+    "quantity": 218,
+    "strategy": "based-on-jump-down5overnight-trending103-notWatchout-gtneg20percmax-first1",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "MTEX",
+    "bid_price": 20.45,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "FNKO",
+    "bid_price": 20.36,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "OTEL",
+    "bid_price": 17.45,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "HOLI",
+    "bid_price": 16.89,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-fifteenTo20",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "EVOL",
+    "bid_price": 2.1586,
+    "quantity": 18,
+    "strategy": "dynamo-3000-bottom50tso-topPE",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "TAOP",
+    "bid_price": 1.26504,
+    "quantity": 31,
+    "strategy": "dynamo-3000-bottom50tso-topPE",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "RYB",
+    "bid_price": 19.2791,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatPoints-trenddown7to10-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "RYB",
+    "bid_price": 19.2858,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "RYB",
+    "bid_price": 19.235,
+    "quantity": 3,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddown7to10-shouldWatchout-fifteenTo20",
+    "min": 210
+  }
+]

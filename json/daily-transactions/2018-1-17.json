@@ -1,0 +1,125 @@
+[
+  {
+    "type": "sell",
+    "ticker": "CPG",
+    "bid_price": 8.87,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AMC",
+    "bid_price": 13.8,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ERF",
+    "bid_price": 11.14,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AXSM",
+    "bid_price": 2.9,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IMTE",
+    "bid_price": 5.79,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SWN",
+    "bid_price": 5.3,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AVEO",
+    "bid_price": 2.87,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CFRX",
+    "bid_price": 1.14,
+    "quantity": "58.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CODX",
+    "bid_price": 3.03,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AVXL",
+    "bid_price": 3.05,
+    "quantity": "22.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "SIRI",
+    "bid_price": 5.43,
+    "quantity": 6,
+    "strategy": "pattern-predict-top-five"
+  },
+  {
+    "type": "buy",
+    "ticker": "TWTR",
+    "bid_price": 24.86,
+    "quantity": 1,
+    "strategy": "pattern-predict-top-five"
+  },
+  {
+    "type": "buy",
+    "ticker": "SIRI",
+    "bid_price": 5.44,
+    "quantity": 3,
+    "strategy": "pattern-predict-top"
+  },
+  {
+    "type": "buy",
+    "ticker": "NSPR",
+    "bid_price": 0.18,
+    "quantity": 105,
+    "strategy": "pattern-predict-top"
+  },
+  {
+    "type": "buy",
+    "ticker": "DRYS",
+    "bid_price": 3.71,
+    "quantity": 5,
+    "strategy": "pattern-predict-top"
+  },
+  {
+    "type": "buy",
+    "ticker": "SNAP",
+    "bid_price": 13.7,
+    "quantity": 1,
+    "strategy": "pattern-predict-somewhat"
+  },
+  {
+    "type": "buy",
+    "ticker": "NEOS",
+    "bid_price": 10.55,
+    "quantity": 1,
+    "strategy": "pattern-predict-somewhat"
+  },
+  {
+    "type": "buy",
+    "ticker": "ACLS",
+    "bid_price": 27.15,
+    "quantity": 13,
+    "strategy": "before-close"
+  },
+  {
+    "type": "buy",
+    "ticker": "TTNP",
+    "bid_price": 1.29,
+    "quantity": 150,
+    "strategy": "before-close"
+  }
+]

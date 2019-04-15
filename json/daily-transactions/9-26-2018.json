@@ -1,0 +1,147 @@
+[
+  {
+    "type": "buy",
+    "ticker": "ALDX",
+    "bid_price": 12.75,
+    "strategy": "based-on-jump-gtEightOvernight-trending53-first1-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "sell",
+    "ticker": "RCON",
+    "bid_price": 1.2701,
+    "quantity": 67
+  },
+  {
+    "type": "sell",
+    "ticker": "INPX",
+    "bid_price": 0.21,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "OGEN",
+    "bid_price": 0.589705,
+    "quantity": 233
+  },
+  {
+    "type": "sell",
+    "ticker": "ESNC",
+    "bid_price": 0.26356815,
+    "quantity": 113
+  },
+  {
+    "type": "sell",
+    "ticker": "ISR",
+    "bid_price": 0.5046475500000001,
+    "quantity": 32
+  },
+  {
+    "type": "sell",
+    "ticker": "AWSM",
+    "bid_price": 10.7375,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "WMLP",
+    "bid_price": 1.97,
+    "quantity": 45
+  },
+  {
+    "type": "sell",
+    "ticker": "CEI",
+    "bid_price": 0.3721,
+    "quantity": 56
+  },
+  {
+    "type": "sell",
+    "ticker": "JAGX",
+    "bid_price": 1.34,
+    "quantity": 13
+  },
+  {
+    "type": "sell",
+    "ticker": "DGLY",
+    "bid_price": 2.95,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "LBJ",
+    "bid_price": 20.8,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "VSTM",
+    "bid_price": 7.516339950000001,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "TGTX",
+    "bid_price": 5.05,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "UAMY",
+    "bid_price": 0.8488753500000001,
+    "quantity": 57
+  },
+  {
+    "type": "sell",
+    "ticker": "AGTC",
+    "bid_price": 6,
+    "quantity": 9
+  },
+  {
+    "type": "sell",
+    "ticker": "EPZM",
+    "bid_price": 10.1,
+    "quantity": 19
+  },
+  {
+    "type": "buy",
+    "ticker": "ALDX",
+    "bid_price": 13.9,
+    "strategy": "based-on-jump-gtEightOvernight-trending53-notWatchout-first1-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "FTFT",
+    "bid_price": 1.274,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddown7to10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "CPRX",
+    "bid_price": 3.7893,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered70",
+    "min": 80
+  },
+  {
+    "type": "buy",
+    "ticker": "ANY",
+    "bid_price": 0.5839599999999999,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "ANY",
+    "bid_price": 0.586,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 189
+  },
+  {
+    "type": "buy",
+    "ticker": "ANY",
+    "bid_price": 0.386,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 388
+  }
+]

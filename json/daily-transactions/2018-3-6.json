@@ -1,0 +1,244 @@
+[
+  {
+    "type": "buy",
+    "ticker": "INPX",
+    "bid_price": 1.35,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "RTTR",
+    "bid_price": 0.227,
+    "quantity": 29,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "LINC",
+    "bid_price": 1.8354899999999998,
+    "quantity": 2,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.1997,
+    "quantity": 33,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "DARE",
+    "bid_price": 1.3257199999999996,
+    "quantity": 5,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "sell",
+    "ticker": "CEI",
+    "bid_price": 1.9101,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CHKE",
+    "bid_price": 1.6,
+    "quantity": "19.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DVD",
+    "bid_price": 2.14,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "REXX",
+    "bid_price": 0.8767440000000001,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JT",
+    "bid_price": 6.65,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SMSI",
+    "bid_price": 1.6416505,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AEZS",
+    "bid_price": 1.6417499999999998,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "SCYX",
+    "bid_price": 1.377,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "INFI",
+    "bid_price": 2.367,
+    "quantity": 1,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "SAEX",
+    "bid_price": 1.686043,
+    "quantity": 2,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "buy",
+    "ticker": "UQM",
+    "bid_price": 1.2801,
+    "quantity": 3,
+    "strategy": "fizbiz-under5TopLosers"
+  },
+  {
+    "type": "sell",
+    "ticker": "DVD",
+    "bid_price": 2.15,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ENT",
+    "bid_price": 1.295,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "LTBR",
+    "bid_price": 1.4477250000000002,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "MYSZ",
+    "bid_price": 1.7050999999999998,
+    "quantity": 3,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "XXII",
+    "bid_price": 2.54,
+    "quantity": 2,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "TLRA",
+    "bid_price": 3.93,
+    "quantity": 1,
+    "strategy": "stockinvest-undervalued"
+  },
+  {
+    "type": "buy",
+    "ticker": "ALIM",
+    "bid_price": 1.15,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "KIQ",
+    "bid_price": 0.5558279999999997,
+    "quantity": 7,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "LINC",
+    "bid_price": 1.84,
+    "quantity": 2,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "OREX",
+    "bid_price": 1.2899,
+    "quantity": 3,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "IBIO",
+    "bid_price": 0.24542699999999987,
+    "quantity": 16,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "EGO",
+    "bid_price": 1.1735099999999998,
+    "quantity": 3,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "XTNT",
+    "bid_price": 6.669687199999998,
+    "quantity": 1,
+    "strategy": "swings-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "TVIX",
+    "bid_price": 8.5985,
+    "quantity": 1,
+    "strategy": "swings-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "AXU",
+    "bid_price": 1.4491344,
+    "quantity": 2,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "GMO",
+    "bid_price": 0.4399,
+    "quantity": 9,
+    "strategy": "<$3-upstreak-3-up1overnight"
+  },
+  {
+    "type": "buy",
+    "ticker": "ALIM",
+    "bid_price": 1.14,
+    "quantity": 3,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "FUV",
+    "bid_price": 3,
+    "quantity": 1,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "LINC",
+    "bid_price": 1.85,
+    "quantity": 2,
+    "strategy": "week-swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "KIQ",
+    "bid_price": 0.57,
+    "quantity": 7,
+    "strategy": "week-swings"
+  }
+]

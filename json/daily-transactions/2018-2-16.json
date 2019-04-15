@@ -1,0 +1,240 @@
+[
+  {
+    "type": "buy",
+    "ticker": "CPRX",
+    "bid_price": 3.495,
+    "quantity": 6,
+    "strategy": "$3-$5-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "TYME",
+    "bid_price": 3.4302599999999996,
+    "quantity": 7,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "HMNY",
+    "bid_price": 4.741181,
+    "quantity": 5,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "ASCMA",
+    "bid_price": 6.49944,
+    "quantity": 3,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 1.32396,
+    "quantity": 18,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "QHC",
+    "bid_price": 6.45932,
+    "quantity": 3,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "DSX",
+    "bid_price": 3.8314599999999994,
+    "quantity": 6,
+    "strategy": "$3-$5-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "TTPH",
+    "bid_price": 2.1714949999999997,
+    "quantity": 11,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "FFHL",
+    "bid_price": 3.2709083999999993,
+    "quantity": 7,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "PME",
+    "bid_price": 3.1026045999999994,
+    "quantity": 7,
+    "strategy": "$3-$5-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "OMNT",
+    "bid_price": 3.229259999999999,
+    "quantity": 7,
+    "strategy": "$3-$5-upstreak-5"
+  },
+  {
+    "type": "buy",
+    "ticker": "OACQW",
+    "bid_price": 0.25,
+    "quantity": 10,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "PRTO",
+    "bid_price": 2.125,
+    "quantity": 1,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "ACFN",
+    "bid_price": 0.229,
+    "quantity": 11,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "PARNF",
+    "bid_price": 0.41,
+    "quantity": 6,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "SKYS",
+    "bid_price": 0.84,
+    "quantity": 3,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "QUMU",
+    "bid_price": 1.8054,
+    "quantity": 1,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "GEVO",
+    "bid_price": 0.4654187999999998,
+    "quantity": 5,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "RHE",
+    "bid_price": 0.2054359999999999,
+    "quantity": 12,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "RMGN",
+    "bid_price": 0.8779749999999995,
+    "quantity": 2,
+    "strategy": "swings"
+  },
+  {
+    "type": "buy",
+    "ticker": "NVCN",
+    "bid_price": 0.276,
+    "quantity": 15,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "TYME",
+    "bid_price": 3.41,
+    "quantity": 1,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "FFHL",
+    "bid_price": 3.4728,
+    "quantity": 1,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "HGEN",
+    "bid_price": 0.62,
+    "quantity": 6,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "TTPH",
+    "bid_price": 2.1564499999999995,
+    "quantity": 2,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "MNGA",
+    "bid_price": 1.3077999999999999,
+    "quantity": 3,
+    "strategy": "first-greens"
+  },
+  {
+    "type": "buy",
+    "ticker": "ISSC",
+    "bid_price": 3.2,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "ESEA",
+    "bid_price": 1.83,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "MUX",
+    "bid_price": 2.2662,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "AUY",
+    "bid_price": 3.0892399999999998,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "ZOM",
+    "bid_price": 2.0983147999999994,
+    "quantity": 1,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "MBII",
+    "bid_price": 1.2273199999999997,
+    "quantity": 2,
+    "strategy": "daytime"
+  },
+  {
+    "type": "buy",
+    "ticker": "MOBL",
+    "bid_price": 5.075,
+    "quantity": 2,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "APRI",
+    "bid_price": 1.03,
+    "quantity": 10,
+    "strategy": "stockinvest-top100"
+  }
+]

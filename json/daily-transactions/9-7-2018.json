@@ -1,0 +1,194 @@
+[
+  {
+    "type": "buy",
+    "ticker": "BRZU",
+    "bid_price": 17.21,
+    "quantity": 5,
+    "strategy": "based-on-jump-fourToEightOvernight-trending53-gt100kvolume-first1-fifteenTo20",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "EBMT",
+    "bid_price": 19.040475,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CRON",
+    "bid_price": 12.0448,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 12.955,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BHTG",
+    "bid_price": 3.5,
+    "quantity": "5.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ABAC",
+    "bid_price": 1.6593699,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WTID",
+    "bid_price": 7.84215,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CMTA",
+    "bid_price": 11.33,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MXC",
+    "bid_price": 4.930120000000001,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "PSDO",
+    "bid_price": 17.399729999999995,
+    "quantity": 5,
+    "strategy": "based-on-jump-gtEightOvernight-trending607-first1-fifteenTo20",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "EBMT",
+    "bid_price": 19.040475,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TA",
+    "bid_price": 5.686,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 13.675,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BLFS",
+    "bid_price": 19.95,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PRQR",
+    "bid_price": 16.690550549999998,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IOVA",
+    "bid_price": 12.925,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NLST",
+    "bid_price": 0.2873871,
+    "quantity": 208,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 189
+  },
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 13.47,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TA",
+    "bid_price": 5.5592,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "IOVA",
+    "bid_price": 13.075,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PRQR",
+    "bid_price": 16.325,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INNT",
+    "bid_price": 6.036980000000001,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "MBNAA",
+    "bid_price": 14,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "XENE",
+    "bid_price": 14.85,
+    "quantity": 6,
+    "strategy": "low-float-high-volume-volToAvgPoints-trend10to15-shouldWatchout-tenTo15",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "OPK",
+    "bid_price": 4.33,
+    "quantity": 20,
+    "strategy": "sudden-drops-last10trend-filter20",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "OPK",
+    "bid_price": 4.35,
+    "quantity": 13,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 290
+  },
+  {
+    "type": "sell",
+    "ticker": "IOVA",
+    "bid_price": 12.625,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SGMO",
+    "bid_price": 13.518237500000001,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "TA",
+    "bid_price": 5.5972,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PRQR",
+    "bid_price": 16.15,
+    "quantity": "1.0000"
+  }
+]

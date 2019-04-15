@@ -1,0 +1,338 @@
+[
+  {
+    "type": "sell",
+    "ticker": "PULM",
+    "bid_price": 0.5231,
+    "quantity": "9.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "WHLM",
+    "bid_price": 7.04,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CNET",
+    "bid_price": 2.49,
+    "quantity": "23.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CTRV",
+    "bid_price": 0.2828,
+    "quantity": "317.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CXRX",
+    "bid_price": 0.5049944999999999,
+    "quantity": "17.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "HTGM",
+    "bid_price": 3.4606,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INPX",
+    "bid_price": 0.95904,
+    "quantity": "190.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "REXX",
+    "bid_price": 0.585,
+    "quantity": "50.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NVCN",
+    "bid_price": 0.0527,
+    "quantity": "600.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NVIV",
+    "bid_price": 0.3557439,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "GENE",
+    "bid_price": 1.38,
+    "quantity": "53.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "ARLZ",
+    "bid_price": 1.5212,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "TVIX",
+    "bid_price": 8.85,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-ltneg50percmax-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "LC",
+    "bid_price": 3.33332,
+    "quantity": "3.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "BPMX",
+    "bid_price": 0.21448799999999998,
+    "quantity": "600.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AIRG",
+    "bid_price": 8.22,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "PIXY",
+    "bid_price": 3.1573395,
+    "quantity": "40.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "AOBC",
+    "bid_price": 10.89909,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CLXT",
+    "bid_price": 14.06,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "INTT",
+    "bid_price": 6.35,
+    "quantity": "6.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KRG",
+    "bid_price": 14.82,
+    "quantity": "4.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "KOS",
+    "bid_price": 6.515,
+    "quantity": "20.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CADC",
+    "bid_price": 2.5,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "SSG",
+    "bid_price": 8.05194,
+    "quantity": "0.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "SSG",
+    "bid_price": 8.06806,
+    "quantity": 1,
+    "strategy": "based-on-jump-down3overnight-ltneg50percmax-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "RDVT",
+    "bid_price": 8.390849999999999,
+    "quantity": "7.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "NICK",
+    "bid_price": 8.91,
+    "quantity": 2,
+    "strategy": "based-on-jump-down3overnight-gtneg20percmax-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "NICK",
+    "bid_price": 8.91,
+    "quantity": 2,
+    "strategy": "based-on-jump-down3overnight-gtneg20percmax-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "NICK",
+    "bid_price": 8.91,
+    "quantity": 2,
+    "strategy": "based-on-jump-down3overnight-gtneg20percmax-fiveTo10",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "IAG",
+    "bid_price": 5.625,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClose-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "CRON",
+    "bid_price": 6.895,
+    "quantity": 1,
+    "strategy": "constant-risers-5minute-percUpHighClose-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "BVSN",
+    "bid_price": 2.2,
+    "quantity": 3,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "CGIX",
+    "bid_price": 0.9759749999999998,
+    "quantity": 7,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "HOV",
+    "bid_price": 1.935,
+    "quantity": 3,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered60",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FTFT",
+    "bid_price": 3.17,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered60",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "EYEG",
+    "bid_price": 0.3157,
+    "quantity": 24,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered60",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FBIO",
+    "bid_price": 4.37,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "GSAT",
+    "bid_price": 0.7496,
+    "quantity": 6,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "NVLN",
+    "bid_price": 3.98,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FSI",
+    "bid_price": 1.4931619999999979,
+    "quantity": 5,
+    "strategy": "constant-downers-10minute-percDownLowClosePoints-filtered40",
+    "min": 77
+  },
+  {
+    "type": "buy",
+    "ticker": "FSI",
+    "bid_price": 1.4857919999999987,
+    "quantity": 3,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "GSAT",
+    "bid_price": 0.754,
+    "quantity": 6,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "NVLN",
+    "bid_price": 3.9196,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FSI",
+    "bid_price": 1.474,
+    "quantity": 3,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "FBIO",
+    "bid_price": 4.375,
+    "quantity": 1,
+    "strategy": "dynamo-3000-bottom50tso-notWatchout-5lowestTSO",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "CCIH",
+    "bid_price": 1.26,
+    "quantity": 6,
+    "strategy": "constant-downers-5minute-percDownLowClosePoints-filtered40",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "DCAR",
+    "bid_price": 2.1142199999999995,
+    "quantity": 3,
+    "strategy": "constant-downers-5minute-percDownLowClosePoints-filtered40",
+    "min": 309
+  },
+  {
+    "type": "buy",
+    "ticker": "MICT",
+    "bid_price": 1.3863671999999996,
+    "quantity": 5,
+    "strategy": "constant-downers-5minute-percDownLowClosePoints-filtered40",
+    "min": 309
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "buy",
+    "ticker": "ACIU",
+    "bid_price": 4.409,
+    "quantity": 81,
+    "strategy": "ticker-watchers-under5-notWatchout-majorJump-morning",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "SOL",
+    "bid_price": 1.7029894736842104,
+    "quantity": 164,
+    "strategy": "ticker-watchers-under5-notWatchout-morning",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "MARK",
+    "bid_price": 1.9109052631578949,
+    "quantity": 146,
+    "strategy": "ticker-watchers-under5-notWatchout-morning",
+    "min": 5000
+  },
+  {
+    "type": "buy",
+    "ticker": "CCM",
+    "bid_price": 3.1781052631578945,
+    "quantity": 113,
+    "strategy": "ticker-watchers-under5-notWatchout-later",
+    "min": 5000
+  }
+]

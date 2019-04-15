@@ -1,0 +1,151 @@
+[
+  {
+    "type": "sell",
+    "ticker": "SCYX",
+    "bid_price": 1.3801,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "WLB",
+    "bid_price": 0.46,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "TRVN",
+    "bid_price": 1.948011,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "NVCN",
+    "bid_price": 0.1999,
+    "quantity": 63
+  },
+  {
+    "type": "sell",
+    "ticker": "SUMR",
+    "bid_price": 1.3,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "IMUC",
+    "bid_price": 0.31362399999999996,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "CEI",
+    "bid_price": 1.169125,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "MRNS",
+    "bid_price": 4.0397995,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "FUV",
+    "bid_price": 3,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "STNG",
+    "bid_price": 2.345,
+    "quantity": 2.5
+  },
+  {
+    "type": "sell",
+    "ticker": "FRTA",
+    "bid_price": 8.16,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "JRJR",
+    "bid_price": 0.124898,
+    "quantity": 46
+  },
+  {
+    "type": "sell",
+    "ticker": "IPWR",
+    "bid_price": 1.2603,
+    "quantity": 0.5
+  },
+  {
+    "type": "sell",
+    "ticker": "WHLR",
+    "bid_price": 4.0899,
+    "quantity": 0.5
+  },
+  {
+    "type": "sell",
+    "ticker": "SHIP",
+    "bid_price": 0.9801745,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "SHSP",
+    "bid_price": 5.15,
+    "quantity": 0.5
+  },
+  {
+    "type": "sell",
+    "ticker": "VTGN",
+    "bid_price": 1.3841,
+    "quantity": 0.5
+  },
+  {
+    "type": "sell",
+    "ticker": "NEXT",
+    "bid_price": 5.04,
+    "quantity": 0.5
+  },
+  {
+    "type": "sell",
+    "ticker": "AMTX",
+    "bid_price": 1.1301,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "SLS",
+    "bid_price": 5.035,
+    "quantity": 3,
+    "strategy": "swings-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "SLS",
+    "bid_price": 5.046092999999999,
+    "quantity": 3,
+    "strategy": "swings-fiveTo10"
+  },
+  {
+    "type": "buy",
+    "ticker": "ARGS",
+    "bid_price": 1.465,
+    "quantity": 2,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "EGLT",
+    "bid_price": 0.7394099999999998,
+    "quantity": 4,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  },
+  {
+    "type": "buy",
+    "ticker": "SEED",
+    "bid_price": 0.8274,
+    "quantity": 4,
+    "strategy": "fizbiz-nanoEarlyRunners"
+  }
+]

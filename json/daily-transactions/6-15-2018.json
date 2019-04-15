@@ -1,0 +1,10 @@
+[
+  {
+    "type": "buy",
+    "ticker": "SRRA",
+    "bid_price": 3.3917699999999997,
+    "quantity": 41,
+    "strategy": "based-on-jump-down3overnight-trending103-notWatchout-gtneg20percmax-first1",
+    "min": 30
+  }
+]

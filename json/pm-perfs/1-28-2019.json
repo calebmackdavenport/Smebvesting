@@ -1,0 +1,107 @@
+[
+  {
+    "pmName": "forPurchase25Perc5Day-yesincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase25Perc5Day-notincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase50Perc5Day-yesincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase50Perc5Day-notincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase75Perc5Day-yesincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase75Perc5Day-notincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase80Perc5Day-yesincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase80Perc5Day-notincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase100Perc5Day-notincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "forPurchase100Perc5Day-yesincludingblanks",
+    "weightedTrend": 11.455,
+    "avgTrend": 11.455
+  },
+  {
+    "pmName": "myTickerWatchers",
+    "weightedTrend": 8.58,
+    "avgTrend": 8.58
+  },
+  {
+    "pmName": "TWnotWatchoutNoFailedHistOrMinorJumps",
+    "weightedTrend": 8.58,
+    "avgTrend": 8.58
+  },
+  {
+    "pmName": "forPurchase",
+    "weightedTrend": 8.58,
+    "avgTrend": 8.58
+  },
+  {
+    "pmName": "TWshouldWatchout",
+    "weightedTrend": 5.8,
+    "avgTrend": 5.8
+  },
+  {
+    "pmName": "TWmorning",
+    "weightedTrend": 4.786999999999999,
+    "avgTrend": 4.786999999999999
+  },
+  {
+    "pmName": "TWmuchLater",
+    "weightedTrend": 4.38,
+    "avgTrend": 4.38
+  },
+  {
+    "pmName": "TWminorJumps",
+    "weightedTrend": 3.8606249999999998,
+    "avgTrend": 3.8606249999999998
+  },
+  {
+    "pmName": "allTickerWatchers",
+    "weightedTrend": 3.8546875,
+    "avgTrend": 3.8546875
+  },
+  {
+    "pmName": "TWnotWatchout",
+    "weightedTrend": 3.7919354838709682,
+    "avgTrend": 3.7919354838709682
+  },
+  {
+    "pmName": "TWlater",
+    "weightedTrend": 2.1118181818181823,
+    "avgTrend": 2.1118181818181823
+  },
+  {
+    "pmName": "TWfailedHistorical",
+    "weightedTrend": 1.01,
+    "avgTrend": 1.01
+  }
+]

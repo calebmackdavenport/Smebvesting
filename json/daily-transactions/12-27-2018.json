@@ -1,0 +1,636 @@
+[
+  {
+    "type": "sell",
+    "ticker": "CLD",
+    "bid_price": 0.35,
+    "quantity": 24
+  },
+  {
+    "type": "buy",
+    "ticker": "ADIL",
+    "bid_price": 6.1871,
+    "strategy": "based-on-jump-down3overnight-gt100kvolume-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "ADIL",
+    "bid_price": 6.531676666666667,
+    "strategy": "based-on-jump-down5overnight-gt100kvolume-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "GRIN",
+    "bid_price": 5.83,
+    "strategy": "based-on-jump-down5overnight-trending35257-shouldWatchout-first1-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "ADIL",
+    "bid_price": 6.3668,
+    "strategy": "based-on-jump-down8overnight-gt100kvolume-first2-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "UWT",
+    "bid_price": 8.81,
+    "strategy": "based-on-jump-down8overnight-gt100kvolume-first2-fiveTo10",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "ERX",
+    "bid_price": 14.18,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "UCO",
+    "bid_price": 13.1,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "ERX",
+    "bid_price": 14.268833333333333,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first3-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "UCO",
+    "bid_price": 13.132555555555555,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first3-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "ERX",
+    "bid_price": 14.349277777777777,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first2-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "UCO",
+    "bid_price": 13.162722222222222,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first2-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "ERX",
+    "bid_price": 14.32,
+    "strategy": "based-on-jump-down5overnight-notWatchout-ltneg50percmax-first1-tenTo15",
+    "min": 0
+  },
+  {
+    "type": "buy",
+    "ticker": "OBLN",
+    "bid_price": 2.4959277777777777,
+    "strategy": "dynamo-3000-bottom50tso-trendingUp3010-lowestsharesToCap",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "SSKN",
+    "bid_price": 2.8353355555555555,
+    "strategy": "dynamo-3000-bottom50tso-trendingUp3010-lowestsharesToCap",
+    "min": 4
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 2.96,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt20",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 2.96,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt20-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 2.96,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt30",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "DNKEY",
+    "bid_price": 9.877777777777778,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-ltneg50percmax-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 2.96,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt30-shouldWatchout",
+    "min": 6
+  },
+  {
+    "type": "buy",
+    "ticker": "DNKEY",
+    "bid_price": 9.88888888888889,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-ltneg50percmax-first3-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "DNKEY",
+    "bid_price": 9.855555555555556,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-ltneg50percmax-first2-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "DNKEY",
+    "bid_price": 9.855555555555556,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-ltneg50percmax-first1-fiveTo10",
+    "min": 5
+  },
+  {
+    "type": "buy",
+    "ticker": "DNKEY",
+    "bid_price": 9.845,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-ltneg50percmax-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "DNKEY",
+    "bid_price": 9.845,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-ltneg50percmax-first3-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "DNKEY",
+    "bid_price": 9.845,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-ltneg50percmax-first2-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "DNKEY",
+    "bid_price": 9.845,
+    "strategy": "based-on-jump-oneToFourOvernight-trending607-notWatchout-ltneg50percmax-first1-fiveTo10",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "OILU",
+    "bid_price": 13.0227,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "FATE",
+    "bid_price": 12.34,
+    "strategy": "based-on-jump-down5overnight-shouldWatchout-tenTo15",
+    "min": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "AEYE",
+    "bid_price": 7.9,
+    "strategy": "low-float-high-volume-volToAvgPoints-trend10to15-notWatchout-fiveTo10",
+    "min": 25
+  },
+  {
+    "type": "buy",
+    "ticker": "FATE",
+    "bid_price": 12.184444444444443,
+    "strategy": "based-on-jump-down5overnight-trending607-shouldWatchout-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "FATE",
+    "bid_price": 12.246666666666666,
+    "strategy": "based-on-jump-down5overnight-trending607-shouldWatchout-first3-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "FATE",
+    "bid_price": 12.2,
+    "strategy": "based-on-jump-down5overnight-trending607-shouldWatchout-first2-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "FTFT",
+    "bid_price": 0.59,
+    "quantity": 42
+  },
+  {
+    "type": "sell",
+    "ticker": "FTNW",
+    "bid_price": 2.125,
+    "quantity": 22
+  },
+  {
+    "type": "sell",
+    "ticker": "DAC",
+    "bid_price": 0.58,
+    "quantity": 76
+  },
+  {
+    "type": "sell",
+    "ticker": "ASCMA",
+    "bid_price": 0.3431,
+    "quantity": 346
+  },
+  {
+    "type": "sell",
+    "ticker": "SFET",
+    "bid_price": 2.7501242500000003,
+    "quantity": 34
+  },
+  {
+    "type": "sell",
+    "ticker": "NVUS",
+    "bid_price": 1.6342600000000005,
+    "quantity": 200
+  },
+  {
+    "type": "sell",
+    "ticker": "KOP",
+    "bid_price": 16.752720000000007,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "PLSE",
+    "bid_price": 12,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "SBPH",
+    "bid_price": 8.4965,
+    "quantity": 9
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 2.796666666666667,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt20-shouldWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 2.796666666666667,
+    "strategy": "low-float-high-volume-floatTimesfloatToVolume-trenddowngt10-shouldWatchout",
+    "min": 95
+  },
+  {
+    "type": "buy",
+    "ticker": "MBOT",
+    "bid_price": 1.64,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ESES",
+    "bid_price": 0.0651,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "OMED",
+    "bid_price": 0.6654444444444445,
+    "strategy": "dynamo-3000-top50tso-absvolume",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ENG",
+    "bid_price": 0.6513333333333333,
+    "strategy": "dynamo-3000-top50tso-absvolume",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "ESES",
+    "bid_price": 0.06957777777777778,
+    "strategy": "sudden-drops-last5trend-filter10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "MLNT",
+    "bid_price": 0.9281,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "GUSH",
+    "bid_price": 7.4999,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-lowovernightjumps-fiveTo10",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "DXR",
+    "bid_price": 9.136666666666667,
+    "strategy": "constant-risers-5minute-percUpHighClosePoints-lowovernightjumps-fiveTo10",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "HIL",
+    "bid_price": 2.7855555555555553,
+    "strategy": "low-float-high-volume-floatPoints-trenddowngt20",
+    "min": 150
+  },
+  {
+    "type": "buy",
+    "ticker": "LIVE",
+    "bid_price": 7.43,
+    "strategy": "sudden-drops-last30trend-filter20-fiveTo10",
+    "min": 153
+  },
+  {
+    "type": "buy",
+    "ticker": "MBOT",
+    "bid_price": 1.6555555555555554,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "FATE",
+    "bid_price": 11.44111111111111,
+    "strategy": "double-down",
+    "min": 200
+  },
+  {
+    "type": "buy",
+    "ticker": "KZMYY",
+    "bid_price": 3.2733333333333334,
+    "strategy": "low-float-high-volume-volTo2WeekPoints-trenddown7to10-shouldWatchout",
+    "min": 210
+  },
+  {
+    "type": "buy",
+    "ticker": "RBZ",
+    "bid_price": 2.24,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "RBZ",
+    "bid_price": 2.175555555555556,
+    "strategy": "sudden-drops-last5trend-first1",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "CLIR",
+    "bid_price": 0.9166333333333333,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "TWMC",
+    "bid_price": 0.5566666666666666,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "RBZ",
+    "bid_price": 2.175555555555556,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "BTAI",
+    "bid_price": 4.230333333333333,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "AVCO",
+    "bid_price": 2.338888888888889,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "WISA",
+    "bid_price": 3.2066666666666666,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "VVPR",
+    "bid_price": 0.6433333333333333,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "CHKE",
+    "bid_price": 0.5273333333333333,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "RBZ",
+    "bid_price": 2.0144444444444445,
+    "strategy": "sudden-drops-last10trend-filter20",
+    "min": 221
+  },
+  {
+    "type": "buy",
+    "ticker": "CAMT",
+    "bid_price": 6.586666666666667,
+    "strategy": "first-greens-count2-fiveTo10",
+    "min": 250
+  },
+  {
+    "type": "buy",
+    "ticker": "DXR",
+    "bid_price": 9.415555555555555,
+    "strategy": "low-float-high-volume-floatPoints-trendgt10-fiveTo10",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "COE",
+    "bid_price": 6.528888888888889,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trend15to25-shouldWatchout-fiveTo10",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "DXR",
+    "bid_price": 9.367777777777778,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trendgt10-shouldWatchout-fiveTo10",
+    "min": 276
+  },
+  {
+    "type": "buy",
+    "ticker": "BGI",
+    "bid_price": 0.8568888888888889,
+    "strategy": "sudden-drops-last2trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "ENG",
+    "bid_price": 0.6926666666666667,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "BGI",
+    "bid_price": 0.8568888888888889,
+    "strategy": "sudden-drops-last2trend-filter10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "BGI",
+    "bid_price": 0.855111111111111,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "ENG",
+    "bid_price": 0.7011111111111111,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "BGI",
+    "bid_price": 0.855111111111111,
+    "strategy": "sudden-drops-last3trend-filter10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "WATT",
+    "bid_price": 7.2997,
+    "strategy": "sudden-drops-last10trend-filter10-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "MRIN",
+    "bid_price": 6.127,
+    "strategy": "sudden-drops-last18trend-filter10-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "EQ",
+    "bid_price": 7.069999999999999,
+    "strategy": "sudden-drops-last18trend-filter10-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "WATT",
+    "bid_price": 7.361111111111111,
+    "strategy": "sudden-drops-last18trend-filter10-fiveTo10",
+    "min": 280
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.08722222222222223,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "ARCW",
+    "bid_price": 1.0377777777777777,
+    "strategy": "sudden-drops-last2trend-first2",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.0851,
+    "strategy": "sudden-drops-last10trend-filter20",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "HSGX",
+    "bid_price": 0.0851,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "RBZ",
+    "bid_price": 2.1533333333333333,
+    "strategy": "sudden-drops-last30trend-filter20",
+    "min": 290
+  },
+  {
+    "type": "buy",
+    "ticker": "RBZ",
+    "bid_price": 2.0255555555555556,
+    "strategy": "low-float-high-volume-floatTimesabsVolPoints-trenddowngt30",
+    "min": 315
+  },
+  {
+    "type": "buy",
+    "ticker": "DMAC",
+    "bid_price": 2.8877777777777776,
+    "strategy": "sudden-drops-last3trend-first1",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "EDNT",
+    "bid_price": 4.454444444444444,
+    "strategy": "sudden-drops-last10trend-filter10",
+    "min": 328
+  },
+  {
+    "type": "buy",
+    "ticker": "AVCO",
+    "bid_price": 2.6688888888888886,
+    "strategy": "double-down",
+    "min": 378
+  },
+  {
+    "type": "buy",
+    "ticker": "SIF",
+    "bid_price": 3.1433333333333335,
+    "strategy": "low-float-high-volume-twoWeekVolToAvgPoints-trendup1to3",
+    "min": 384
+  }
+]

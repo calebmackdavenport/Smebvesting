@@ -1,0 +1,62 @@
+[
+  {
+    "type": "sell",
+    "ticker": "CTRV",
+    "bid_price": 0.285,
+    "quantity": 290
+  },
+  {
+    "type": "sell",
+    "ticker": "IZEA",
+    "bid_price": 0.99,
+    "quantity": 22
+  },
+  {
+    "type": "sell",
+    "ticker": "CTIB",
+    "bid_price": 3.0095,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "INTT",
+    "bid_price": 6.24,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "EYES",
+    "bid_price": 0.8827,
+    "quantity": 46
+  },
+  {
+    "type": "sell",
+    "ticker": "AWSM",
+    "bid_price": 1.9501,
+    "quantity": 152
+  },
+  {
+    "type": "sell",
+    "ticker": "VJET",
+    "bid_price": 1.7148421500000002,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "OTLK",
+    "bid_price": 0.58,
+    "quantity": 150
+  },
+  {
+    "type": "sell",
+    "ticker": "ABIL",
+    "bid_price": 1.93,
+    "quantity": "172.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "NFEC",
+    "bid_price": 13.37,
+    "quantity": "1.0000"
+  }
+]

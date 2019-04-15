@@ -1,0 +1,387 @@
+[
+  {
+    "type": "sell",
+    "ticker": "RHE",
+    "bid_price": 0.5114,
+    "quantity": "12.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "JAGX",
+    "bid_price": 0.2114,
+    "quantity": "36.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "CDNA",
+    "bid_price": 7.46,
+    "quantity": "1.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "RNWK",
+    "bid_price": 3.17405,
+    "quantity": "2.0000"
+  },
+  {
+    "type": "sell",
+    "ticker": "DSS",
+    "bid_price": 1.5685299000000001,
+    "quantity": "8.0000"
+  },
+  {
+    "type": "buy",
+    "ticker": "OMER",
+    "bid_price": 14.008,
+    "quantity": 1,
+    "strategy": "based-on-jump-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "FINL",
+    "bid_price": 13.7349,
+    "quantity": 1,
+    "strategy": "based-on-jump-tenTo15"
+  },
+  {
+    "type": "buy",
+    "ticker": "HMY",
+    "bid_price": 2.35,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered60"
+  },
+  {
+    "type": "buy",
+    "ticker": "YTEN",
+    "bid_price": 1.9294,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered60"
+  },
+  {
+    "type": "buy",
+    "ticker": "DCAR",
+    "bid_price": 2.1278644999999994,
+    "quantity": 2,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered60"
+  },
+  {
+    "type": "sell",
+    "ticker": "OREX",
+    "bid_price": 0.2111,
+    "quantity": 127
+  },
+  {
+    "type": "sell",
+    "ticker": "ANTH",
+    "bid_price": 0.3147849,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "DPW",
+    "bid_price": 0.9945,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "APHB",
+    "bid_price": 1.0942072,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "XXII",
+    "bid_price": 2.342655,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ABIL",
+    "bid_price": 4.30272,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "AVEO",
+    "bid_price": 2.91,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "PTN",
+    "bid_price": 1.1,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "TENX",
+    "bid_price": 6.02397,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "AMPE",
+    "bid_price": 2.92414,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "AKTX",
+    "bid_price": 1.85,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "SNMX",
+    "bid_price": 0.97,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "HMNY",
+    "bid_price": 3.045,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "NVCN",
+    "bid_price": 0.10468949999999999,
+    "quantity": 1571
+  },
+  {
+    "type": "sell",
+    "ticker": "AUY",
+    "bid_price": 2.855,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "VSLR",
+    "bid_price": 3.75,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "WFT",
+    "bid_price": 2.25,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "WTI",
+    "bid_price": 4.445,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "MUX",
+    "bid_price": 2.188809,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "UPL",
+    "bid_price": 4.020975,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "WMLP",
+    "bid_price": 2.04385,
+    "quantity": 7
+  },
+  {
+    "type": "sell",
+    "ticker": "YOGA",
+    "bid_price": 2.82931,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "ENSV",
+    "bid_price": 0.8566596,
+    "quantity": 8
+  },
+  {
+    "type": "sell",
+    "ticker": "ENRJ",
+    "bid_price": 0.2335,
+    "quantity": 19
+  },
+  {
+    "type": "sell",
+    "ticker": "EVEP",
+    "bid_price": 0.164835,
+    "quantity": 108
+  },
+  {
+    "type": "sell",
+    "ticker": "NFEC",
+    "bid_price": 1.7502,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "HL",
+    "bid_price": 3.6613350000000002,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "ANY",
+    "bid_price": 1.1144,
+    "quantity": 10
+  },
+  {
+    "type": "sell",
+    "ticker": "CHEK",
+    "bid_price": 0.54945,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "BDSI",
+    "bid_price": 2.175,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "PVG",
+    "bid_price": 6.76,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "JRJR",
+    "bid_price": 0.1349834,
+    "quantity": 110
+  },
+  {
+    "type": "sell",
+    "ticker": "CRIS",
+    "bid_price": 0.6645348,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "SIEB",
+    "bid_price": 8.22,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "ACMR",
+    "bid_price": 12.5,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "AG",
+    "bid_price": 6.24375,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "BDSI",
+    "bid_price": 2.175,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "JNUG",
+    "bid_price": 14.88,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "LXU",
+    "bid_price": 6.06,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "KGC",
+    "bid_price": 3.99,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "WWR",
+    "bid_price": 0.565,
+    "quantity": 11
+  },
+  {
+    "type": "sell",
+    "ticker": "WG",
+    "bid_price": 0.1735,
+    "quantity": 36
+  },
+  {
+    "type": "sell",
+    "ticker": "CRON",
+    "bid_price": 7.43,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "KERX",
+    "bid_price": 4.07,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "EBR.B",
+    "bid_price": 7.57,
+    "quantity": 2
+  },
+  {
+    "type": "sell",
+    "ticker": "ONCS",
+    "bid_price": 1.7782200000000001,
+    "quantity": 3
+  },
+  {
+    "type": "sell",
+    "ticker": "VRML",
+    "bid_price": 1.3943999999999999,
+    "quantity": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "NG",
+    "bid_price": 4.640700000000001,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "GSS",
+    "bid_price": 0.64476,
+    "quantity": 6
+  },
+  {
+    "type": "sell",
+    "ticker": "ICCC",
+    "bid_price": 7.00188,
+    "quantity": 1
+  },
+  {
+    "type": "sell",
+    "ticker": "NTN",
+    "bid_price": 5.322355999999999,
+    "quantity": 1
+  },
+  {
+    "type": "buy",
+    "ticker": "CPST",
+    "bid_price": 1.1750799999999983,
+    "quantity": 9,
+    "strategy": "stockinvest-top100"
+  },
+  {
+    "type": "buy",
+    "ticker": "BDR",
+    "bid_price": 0.7615199999999999,
+    "quantity": 4,
+    "strategy": "week-swings"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "type": "sell",
+    "ticker": "REFR",
+    "bid_price": 1.6,
+    "quantity": 30
+  },
+  {
+    "type": "sell",
+    "ticker": "YUMA",
+    "bid_price": 0.3142,
+    "quantity": 234
+  },
+  {
+    "type": "sell",
+    "ticker": "SANW",
+    "bid_price": 2.7445000000000004,
+    "quantity": 9
+  },
+  {
+    "type": "buy",
+    "ticker": "CCJ",
+    "bid_price": 11.4601,
+    "strategy": "based-on-jump-gtEightOvernight-trending103-gt500kvolume-tenTo15",
+    "min": 5
+  },
+  {
+    "type": "sell",
+    "ticker": "CPRX",
+    "bid_price": 3.61,
+    "quantity": 13
+  },
+  {
+    "type": "sell",
+    "ticker": "VERU",
+    "bid_price": 1.3731,
+    "quantity": 28
+  },
+  {
+    "type": "sell",
+    "ticker": "USLV",
+    "bid_price": 6.005,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "ALDX",
+    "bid_price": 13.45,
+    "quantity": 48
+  },
+  {
+    "type": "buy",
+    "ticker": "CCXI",
+    "bid_price": 11.42,
+    "strategy": "based-on-jump-down8overnight-trending103-notWatchout-first1-tenTo15",
+    "min": 30
+  },
+  {
+    "type": "buy",
+    "ticker": "FTR",
+    "bid_price": 6.622,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered80-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "AGTC",
+    "bid_price": 6.95,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered70-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "FTR",
+    "bid_price": 6.6,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered80-fiveTo10",
+    "min": 40
+  },
+  {
+    "type": "buy",
+    "ticker": "COT",
+    "bid_price": 15.82,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered70-fifteenTo20",
+    "min": 80
+  },
+  {
+    "type": "buy",
+    "ticker": "COT",
+    "bid_price": 15.78,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered70-fifteenTo20",
+    "min": 80
+  },
+  {
+    "type": "sell",
+    "ticker": "PBR",
+    "bid_price": 12.1,
+    "quantity": 4
+  },
+  {
+    "type": "sell",
+    "ticker": "FTFT",
+    "bid_price": 1.21,
+    "quantity": 78
+  },
+  {
+    "type": "sell",
+    "ticker": "ESEA",
+    "bid_price": 1.28,
+    "quantity": 37
+  },
+  {
+    "type": "buy",
+    "ticker": "EBR",
+    "bid_price": 4.095,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered70",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "EBR",
+    "bid_price": 4.086,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered70",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "MRNS",
+    "bid_price": 9.7421,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered80-fiveTo10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "MRNS",
+    "bid_price": 9.74,
+    "strategy": "constant-risers-10minute-percUpCloseOnly-filtered80-fiveTo10",
+    "min": 100
+  },
+  {
+    "type": "buy",
+    "ticker": "GE",
+    "bid_price": 11.71688,
+    "strategy": "constant-risers-10minute-percUpHighClose-filtered70-tenTo15",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "BGCP",
+    "bid_price": 11.958,
+    "strategy": "constant-risers-10minute-percUpHighClosePoints-filtered70-tenTo15",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "BGCP",
+    "bid_price": 11.966000000000001,
+    "strategy": "constant-risers-10minute-percUpCloseOnlyPoints-filtered70-tenTo15",
+    "min": 140
+  },
+  {
+    "type": "buy",
+    "ticker": "SITO",
+    "bid_price": 1.828,
+    "strategy": "spread-bidAskLastTradeSame",
+    "min": 202
+  },
+  {
+    "type": "buy",
+    "ticker": "PYDS",
+    "bid_price": 1.91,
+    "strategy": "spread-bidAskLastTradeSame",
+    "min": 202
+  },
+  {
+    "type": "buy",
+    "ticker": "VTVT",
+    "bid_price": 0.76604,
+    "strategy": "spread-bidAskLastTradeSame",
+    "min": 202
+  },
+  {
+    "type": "buy",
+    "ticker": "AQMS",
+    "bid_price": 2.656,
+    "strategy": "spread-bidAskLastTradeSame",
+    "min": 202
+  },
+  {
+    "type": "buy",
+    "ticker": "EYEG",
+    "bid_price": 0.349,
+    "strategy": "spread-bidAskLastTradeSame",
+    "min": 202
+  },
+  {
+    "type": "sell",
+    "ticker": "AUPH",
+    "bid_price": 6.46946365,
+    "quantity": 16
+  },
+  {
+    "type": "buy",
+    "ticker": "CDXS",
+    "bid_price": 17.55,
+    "strategy": "constant-downers-5minute-percDownLowClosePoints-filtered70-fifteenTo20",
+    "min": 242
+  }
+]
