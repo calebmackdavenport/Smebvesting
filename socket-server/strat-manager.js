@@ -293,7 +293,7 @@ const stratManager = {
         const emailFormatted = pmPerfs
             .map(pm => `${pm.avgTrend.toFixed(2)}% ${pm.pmName}`)
             .join('\n');
-        await sendEmail(`Robinsmeb: 24hr report for ${this.curDate}`, emailFormatted);
+        await sendEmail(`Smebvesting: 24hr report for ${this.curDate}`, emailFormatted);
         await jsonMgr.save(`./json/pm-perfs/${this.curDate}.json`, pmPerfs);
         console.log('sent and saved pm report');
     },

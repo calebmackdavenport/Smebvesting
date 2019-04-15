@@ -141,7 +141,7 @@ module.exports = {
                     sm180key,
                     volumeKey
                 ].filter(Boolean).join('-');
-                await sendEmail(`Robinsmeb: NEW EMA CROSSOVER ${strategyName}: ${ticker}`, JSON.stringify(pick, null, 2));
+                await sendEmail(`Smebvesting: NEW EMA CROSSOVER ${strategyName}: ${ticker}`, JSON.stringify(pick, null, 2));
                 await recordPicks(Robinhood, strategyName, 5000, [ticker]);
             },
             onEnd: async allPicks => {

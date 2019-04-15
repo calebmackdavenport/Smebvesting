@@ -142,7 +142,7 @@ module.exports = {
                     volumeKey
                 ].filter(Boolean).join('-');
 
-                await sendEmail(`Robinsmeb: NEW JUMP DOWN ${strategyName}: ${ticker}`, JSON.stringify(pick, null, 2));
+                await sendEmail(`Smebvesting: NEW JUMP DOWN ${strategyName}: ${ticker}`, JSON.stringify(pick, null, 2));
                 await recordPicks(Robinhood, strategyName, 5000, [ticker]);
             },
             onEnd

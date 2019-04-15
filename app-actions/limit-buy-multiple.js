@@ -39,6 +39,6 @@ module.exports = async (Robinhood, {stocksToBuy, totalAmtToSpend, strategy, maxN
     console.log('finished purchasing', stocksToBuy.length, 'stocks');
     console.log('attempted amount', totalAmtToSpend);
     if (failedStocks.length) {
-        await sendEmail(`Robinsmeb: failed to purchase`, JSON.stringify(failedStocks));
+        await sendEmail(`Smebvesting: failed to purchase`, JSON.stringify(failedStocks));
     }
 };

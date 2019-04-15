@@ -69,7 +69,7 @@ const saveToFile = async (Robinhood, strategy, min, withPrices) => {
             pm
         } of emailsToSend) {
         await sendEmail(
-            `Robinsmeb${pm ? `-${pm}` : ''}: ${stratMin}`,
+            `Smebvesting${pm ? `-${pm}` : ''}: ${stratMin}`,
             JSON.stringify(withPrices, null, 2),
             email
         );

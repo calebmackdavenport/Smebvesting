@@ -39,10 +39,10 @@ module.exports = async (Robinhood, dontSell) => {
                 }
             );
             console.log(`sold ${quantity} shares of ${ticker}`, response);
-            await sendEmail(`Robinsmeb: sold ${ticker}`, JSON.stringify(pos));
+            await sendEmail(`Smebvesting: sold ${ticker}`, JSON.stringify(pos));
         } catch (e) {
             console.log(`error selling ${ticker}`, e);
-            await sendEmail(`Robinsmeb: ERROR selling ${ticker}`, [
+            await sendEmail(`Smebvesting: ERROR selling ${ticker}`, [
                 JSON.stringify(pos),
                 `error: ${e}`
             ].join('\n'));

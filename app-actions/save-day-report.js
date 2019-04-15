@@ -86,7 +86,7 @@ module.exports = async (Robinhood, min = 515) => {
     };
 
     await sendEmail(
-        `Robinsmeb: day-report for ${todaysDate}`,
+        `Smebvesting: day-report for ${todaysDate}`,
         [
             JSON.stringify(mongoData, null, 2),
             '-----------------------------------',
